@@ -1,0 +1,45 @@
+{
+  "id": 39,
+  "pokedex_number": "0039",
+  "name": {
+    "english": "Jigglypuff",
+    "japanese": "プリン",
+    "chinese": "胖丁",
+    "french": "Rondoudou"
+  },
+  "type": [
+    "Normal",
+    "Fairy"
+  ],
+  "base": {
+    "HP": 115,
+    "Attack": 45,
+    "Defense": 20,
+    "Sp. Attack": 45,
+    "Sp. Defense": 25,
+    "Speed": 20
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0039_jigglypuff.fbx",
+      "texture_path": "3d_models/textures/0039_jigglypuff.png",
+      "animation_path": "3d_models/animations/0039_jigglypuff.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 115,
+    "Attack": 45,
+    "Defense": 20,
+    "Sp. Attack": 45,
+    "Sp. Defense": 25,
+    "Speed": 20
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null
+  }
+}

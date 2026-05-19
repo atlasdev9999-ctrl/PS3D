@@ -1,0 +1,45 @@
+{
+  "id": 72,
+  "pokedex_number": "0072",
+  "name": {
+    "english": "Tentacool",
+    "japanese": "メノクラゲ",
+    "chinese": "玛瑙水母",
+    "french": "Tentacool"
+  },
+  "type": [
+    "Water",
+    "Poison"
+  ],
+  "base": {
+    "HP": 40,
+    "Attack": 40,
+    "Defense": 35,
+    "Sp. Attack": 50,
+    "Sp. Defense": 100,
+    "Speed": 70
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0072_tentacool.fbx",
+      "texture_path": "3d_models/textures/0072_tentacool.png",
+      "animation_path": "3d_models/animations/0072_tentacool.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 40,
+    "Attack": 40,
+    "Defense": 35,
+    "Sp. Attack": 50,
+    "Sp. Defense": 100,
+    "Speed": 70
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null
+  }
+}

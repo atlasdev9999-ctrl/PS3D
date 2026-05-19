@@ -1,0 +1,45 @@
+{
+  "id": 140,
+  "pokedex_number": "0140",
+  "name": {
+    "english": "Kabuto",
+    "japanese": "カブト",
+    "chinese": "化石盔",
+    "french": "Kabuto"
+  },
+  "type": [
+    "Rock",
+    "Water"
+  ],
+  "base": {
+    "HP": 30,
+    "Attack": 80,
+    "Defense": 90,
+    "Sp. Attack": 55,
+    "Sp. Defense": 45,
+    "Speed": 55
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0140_kabuto.fbx",
+      "texture_path": "3d_models/textures/0140_kabuto.png",
+      "animation_path": "3d_models/animations/0140_kabuto.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 30,
+    "Attack": 80,
+    "Defense": 90,
+    "Sp. Attack": 55,
+    "Sp. Defense": 45,
+    "Speed": 55
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null
+  }
+}

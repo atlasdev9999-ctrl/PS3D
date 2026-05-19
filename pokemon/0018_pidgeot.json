@@ -1,0 +1,45 @@
+{
+  "id": 18,
+  "pokedex_number": "0018",
+  "name": {
+    "english": "Pidgeot",
+    "japanese": "ピジョット",
+    "chinese": "大比鸟",
+    "french": "Roucarnage"
+  },
+  "type": [
+    "Normal",
+    "Flying"
+  ],
+  "base": {
+    "HP": 83,
+    "Attack": 80,
+    "Defense": 75,
+    "Sp. Attack": 70,
+    "Sp. Defense": 70,
+    "Speed": 101
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0018_pidgeot.fbx",
+      "texture_path": "3d_models/textures/0018_pidgeot.png",
+      "animation_path": "3d_models/animations/0018_pidgeot.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 83,
+    "Attack": 80,
+    "Defense": 75,
+    "Sp. Attack": 70,
+    "Sp. Defense": 70,
+    "Speed": 101
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null
+  }
+}

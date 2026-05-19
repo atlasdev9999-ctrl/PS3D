@@ -1,0 +1,45 @@
+{
+  "id": 74,
+  "pokedex_number": "0074",
+  "name": {
+    "english": "Geodude",
+    "japanese": "イシツブテ",
+    "chinese": "小拳石",
+    "french": "Racaillou"
+  },
+  "type": [
+    "Rock",
+    "Ground"
+  ],
+  "base": {
+    "HP": 40,
+    "Attack": 80,
+    "Defense": 100,
+    "Sp. Attack": 30,
+    "Sp. Defense": 30,
+    "Speed": 20
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0074_geodude.fbx",
+      "texture_path": "3d_models/textures/0074_geodude.png",
+      "animation_path": "3d_models/animations/0074_geodude.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 40,
+    "Attack": 80,
+    "Defense": 100,
+    "Sp. Attack": 30,
+    "Sp. Defense": 30,
+    "Speed": 20
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null
+  }
+}

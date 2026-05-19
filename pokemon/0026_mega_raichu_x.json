@@ -1,0 +1,43 @@
+{
+  "id": 26,
+  "pokedex_number": "0026",
+  "name": {
+    "english": "Raichu Mega X"
+  },
+  "type": [
+    "Electric"
+  ],
+  "base": {
+    "HP": 60,
+    "Attack": 90,
+    "Defense": 55,
+    "Sp. Attack": 90,
+    "Sp. Defense": 80,
+    "Speed": 110
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0026_raichu.fbx",
+      "texture_path": "3d_models/textures/0026_raichu.png",
+      "animation_path": "3d_models/animations/0026_raichu.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 60,
+    "Attack": 90,
+    "Defense": 55,
+    "Sp. Attack": 90,
+    "Sp. Defense": 80,
+    "Speed": 110
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null,
+    "is_mega_evolution": true,
+    "mega_variant": "mega_x"
+  }
+}

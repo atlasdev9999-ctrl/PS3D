@@ -1,0 +1,44 @@
+{
+  "id": 135,
+  "pokedex_number": "0135",
+  "name": {
+    "english": "Jolteon",
+    "japanese": "サンダース",
+    "chinese": "雷伊布",
+    "french": "Voltali"
+  },
+  "type": [
+    "Electric"
+  ],
+  "base": {
+    "HP": 65,
+    "Attack": 65,
+    "Defense": 60,
+    "Sp. Attack": 110,
+    "Sp. Defense": 95,
+    "Speed": 130
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0135_jolteon.fbx",
+      "texture_path": "3d_models/textures/0135_jolteon.png",
+      "animation_path": "3d_models/animations/0135_jolteon.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 65,
+    "Attack": 65,
+    "Defense": 60,
+    "Sp. Attack": 110,
+    "Sp. Defense": 95,
+    "Speed": 130
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null
+  }
+}

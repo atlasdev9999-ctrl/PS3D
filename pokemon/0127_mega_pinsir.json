@@ -1,0 +1,43 @@
+{
+  "id": 127,
+  "pokedex_number": "0127",
+  "name": {
+    "english": "Pinsir Mega"
+  },
+  "type": [
+    "Bug"
+  ],
+  "base": {
+    "HP": 65,
+    "Attack": 125,
+    "Defense": 100,
+    "Sp. Attack": 55,
+    "Sp. Defense": 70,
+    "Speed": 85
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0127_pinsir.fbx",
+      "texture_path": "3d_models/textures/0127_pinsir.png",
+      "animation_path": "3d_models/animations/0127_pinsir.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 65,
+    "Attack": 125,
+    "Defense": 100,
+    "Sp. Attack": 55,
+    "Sp. Defense": 70,
+    "Speed": 85
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null,
+    "is_mega_evolution": true,
+    "mega_variant": "mega"
+  }
+}

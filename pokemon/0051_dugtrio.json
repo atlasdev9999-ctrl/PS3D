@@ -1,0 +1,44 @@
+{
+  "id": 51,
+  "pokedex_number": "0051",
+  "name": {
+    "english": "Dugtrio",
+    "japanese": "ダグトリオ",
+    "chinese": "三地鼠",
+    "french": "Triopikeur"
+  },
+  "type": [
+    "Ground"
+  ],
+  "base": {
+    "HP": 35,
+    "Attack": 100,
+    "Defense": 50,
+    "Sp. Attack": 50,
+    "Sp. Defense": 70,
+    "Speed": 120
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0051_dugtrio.fbx",
+      "texture_path": "3d_models/textures/0051_dugtrio.png",
+      "animation_path": "3d_models/animations/0051_dugtrio.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 35,
+    "Attack": 100,
+    "Defense": 50,
+    "Sp. Attack": 50,
+    "Sp. Defense": 70,
+    "Speed": 120
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null
+  }
+}

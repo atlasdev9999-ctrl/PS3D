@@ -1,0 +1,45 @@
+{
+  "id": 93,
+  "pokedex_number": "0093",
+  "name": {
+    "english": "Haunter",
+    "japanese": "ゴースト",
+    "chinese": "鬼斯通",
+    "french": "Spectrum"
+  },
+  "type": [
+    "Ghost",
+    "Poison"
+  ],
+  "base": {
+    "HP": 45,
+    "Attack": 50,
+    "Defense": 45,
+    "Sp. Attack": 115,
+    "Sp. Defense": 55,
+    "Speed": 95
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0093_haunter.fbx",
+      "texture_path": "3d_models/textures/0093_haunter.png",
+      "animation_path": "3d_models/animations/0093_haunter.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 45,
+    "Attack": 50,
+    "Defense": 45,
+    "Sp. Attack": 115,
+    "Sp. Defense": 55,
+    "Speed": 95
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null
+  }
+}

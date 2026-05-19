@@ -1,0 +1,45 @@
+{
+  "id": 12,
+  "pokedex_number": "0012",
+  "name": {
+    "english": "Butterfree",
+    "japanese": "バタフリー",
+    "chinese": "巴大蝶",
+    "french": "Papilusion"
+  },
+  "type": [
+    "Bug",
+    "Flying"
+  ],
+  "base": {
+    "HP": 60,
+    "Attack": 45,
+    "Defense": 50,
+    "Sp. Attack": 90,
+    "Sp. Defense": 80,
+    "Speed": 70
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0012_butterfree.fbx",
+      "texture_path": "3d_models/textures/0012_butterfree.png",
+      "animation_path": "3d_models/animations/0012_butterfree.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 60,
+    "Attack": 45,
+    "Defense": 50,
+    "Sp. Attack": 90,
+    "Sp. Defense": 80,
+    "Speed": 70
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null
+  }
+}

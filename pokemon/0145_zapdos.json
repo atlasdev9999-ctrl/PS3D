@@ -1,0 +1,45 @@
+{
+  "id": 145,
+  "pokedex_number": "0145",
+  "name": {
+    "english": "Zapdos",
+    "japanese": "サンダー",
+    "chinese": "闪电鸟",
+    "french": "Électhor"
+  },
+  "type": [
+    "Electric",
+    "Flying"
+  ],
+  "base": {
+    "HP": 90,
+    "Attack": 90,
+    "Defense": 85,
+    "Sp. Attack": 125,
+    "Sp. Defense": 90,
+    "Speed": 100
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0145_zapdos.fbx",
+      "texture_path": "3d_models/textures/0145_zapdos.png",
+      "animation_path": "3d_models/animations/0145_zapdos.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 90,
+    "Attack": 90,
+    "Defense": 85,
+    "Sp. Attack": 125,
+    "Sp. Defense": 90,
+    "Speed": 100
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null
+  }
+}

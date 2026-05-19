@@ -1,0 +1,44 @@
+{
+  "id": 56,
+  "pokedex_number": "0056",
+  "name": {
+    "english": "Mankey",
+    "japanese": "マンキー",
+    "chinese": "猴怪",
+    "french": "Férosinge"
+  },
+  "type": [
+    "Fighting"
+  ],
+  "base": {
+    "HP": 40,
+    "Attack": 80,
+    "Defense": 35,
+    "Sp. Attack": 35,
+    "Sp. Defense": 45,
+    "Speed": 70
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0056_mankey.fbx",
+      "texture_path": "3d_models/textures/0056_mankey.png",
+      "animation_path": "3d_models/animations/0056_mankey.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 40,
+    "Attack": 80,
+    "Defense": 35,
+    "Sp. Attack": 35,
+    "Sp. Defense": 45,
+    "Speed": 70
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null
+  }
+}

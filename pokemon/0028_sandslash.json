@@ -1,0 +1,44 @@
+{
+  "id": 28,
+  "pokedex_number": "0028",
+  "name": {
+    "english": "Sandslash",
+    "japanese": "サンドパン",
+    "chinese": "穿山王",
+    "french": "Sablaireau"
+  },
+  "type": [
+    "Ground"
+  ],
+  "base": {
+    "HP": 75,
+    "Attack": 100,
+    "Defense": 110,
+    "Sp. Attack": 45,
+    "Sp. Defense": 55,
+    "Speed": 65
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0028_sandslash.fbx",
+      "texture_path": "3d_models/textures/0028_sandslash.png",
+      "animation_path": "3d_models/animations/0028_sandslash.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 75,
+    "Attack": 100,
+    "Defense": 110,
+    "Sp. Attack": 45,
+    "Sp. Defense": 55,
+    "Speed": 65
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": 95,
+  "pokedex_number": "0095",
+  "name": {
+    "english": "Onix",
+    "japanese": "イワーク",
+    "chinese": "大岩蛇",
+    "french": "Onix"
+  },
+  "type": [
+    "Rock",
+    "Ground"
+  ],
+  "base": {
+    "HP": 35,
+    "Attack": 45,
+    "Defense": 160,
+    "Sp. Attack": 30,
+    "Sp. Defense": 45,
+    "Speed": 70
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0095_onix.fbx",
+      "texture_path": "3d_models/textures/0095_onix.png",
+      "animation_path": "3d_models/animations/0095_onix.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 35,
+    "Attack": 45,
+    "Defense": 160,
+    "Sp. Attack": 30,
+    "Sp. Defense": 45,
+    "Speed": 70
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null
+  }
+}

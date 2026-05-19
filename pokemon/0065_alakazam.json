@@ -1,0 +1,44 @@
+{
+  "id": 65,
+  "pokedex_number": "0065",
+  "name": {
+    "english": "Alakazam",
+    "japanese": "フーディン",
+    "chinese": "胡地",
+    "french": "Alakazam"
+  },
+  "type": [
+    "Psychic"
+  ],
+  "base": {
+    "HP": 55,
+    "Attack": 50,
+    "Defense": 45,
+    "Sp. Attack": 135,
+    "Sp. Defense": 95,
+    "Speed": 120
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0065_alakazam.fbx",
+      "texture_path": "3d_models/textures/0065_alakazam.png",
+      "animation_path": "3d_models/animations/0065_alakazam.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 55,
+    "Attack": 50,
+    "Defense": 45,
+    "Sp. Attack": 135,
+    "Sp. Defense": 95,
+    "Speed": 120
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null
+  }
+}

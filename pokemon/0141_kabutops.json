@@ -1,0 +1,45 @@
+{
+  "id": 141,
+  "pokedex_number": "0141",
+  "name": {
+    "english": "Kabutops",
+    "japanese": "カブトプス",
+    "chinese": "镰刀盔",
+    "french": "Kabutops"
+  },
+  "type": [
+    "Rock",
+    "Water"
+  ],
+  "base": {
+    "HP": 60,
+    "Attack": 115,
+    "Defense": 105,
+    "Sp. Attack": 65,
+    "Sp. Defense": 70,
+    "Speed": 80
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0141_kabutops.fbx",
+      "texture_path": "3d_models/textures/0141_kabutops.png",
+      "animation_path": "3d_models/animations/0141_kabutops.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 60,
+    "Attack": 115,
+    "Defense": 105,
+    "Sp. Attack": 65,
+    "Sp. Defense": 70,
+    "Speed": 80
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null
+  }
+}

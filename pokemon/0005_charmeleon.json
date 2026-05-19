@@ -1,0 +1,44 @@
+{
+  "id": 5,
+  "pokedex_number": "0005",
+  "name": {
+    "english": "Charmeleon",
+    "japanese": "リザード",
+    "chinese": "火恐龙",
+    "french": "Reptincel"
+  },
+  "type": [
+    "Fire"
+  ],
+  "base": {
+    "HP": 58,
+    "Attack": 64,
+    "Defense": 58,
+    "Sp. Attack": 80,
+    "Sp. Defense": 65,
+    "Speed": 80
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0005_charmeleon.fbx",
+      "texture_path": "3d_models/textures/0005_charmeleon.png",
+      "animation_path": "3d_models/animations/0005_charmeleon.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 58,
+    "Attack": 64,
+    "Defense": 58,
+    "Sp. Attack": 80,
+    "Sp. Defense": 65,
+    "Speed": 80
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null
+  }
+}

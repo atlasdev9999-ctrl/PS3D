@@ -1,0 +1,44 @@
+{
+  "id": 30,
+  "pokedex_number": "0030",
+  "name": {
+    "english": "Nidorina",
+    "japanese": "ニドリーナ",
+    "chinese": "尼多娜",
+    "french": "Nidorina"
+  },
+  "type": [
+    "Poison"
+  ],
+  "base": {
+    "HP": 70,
+    "Attack": 62,
+    "Defense": 67,
+    "Sp. Attack": 55,
+    "Sp. Defense": 55,
+    "Speed": 56
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0030_nidorina.fbx",
+      "texture_path": "3d_models/textures/0030_nidorina.png",
+      "animation_path": "3d_models/animations/0030_nidorina.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 70,
+    "Attack": 62,
+    "Defense": 67,
+    "Sp. Attack": 55,
+    "Sp. Defense": 55,
+    "Speed": 56
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null
+  }
+}

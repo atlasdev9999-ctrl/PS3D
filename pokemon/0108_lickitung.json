@@ -1,0 +1,44 @@
+{
+  "id": 108,
+  "pokedex_number": "0108",
+  "name": {
+    "english": "Lickitung",
+    "japanese": "ベロリンガ",
+    "chinese": "大舌头",
+    "french": "Excelangue"
+  },
+  "type": [
+    "Normal"
+  ],
+  "base": {
+    "HP": 90,
+    "Attack": 55,
+    "Defense": 75,
+    "Sp. Attack": 60,
+    "Sp. Defense": 75,
+    "Speed": 30
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0108_lickitung.fbx",
+      "texture_path": "3d_models/textures/0108_lickitung.png",
+      "animation_path": "3d_models/animations/0108_lickitung.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 90,
+    "Attack": 55,
+    "Defense": 75,
+    "Sp. Attack": 60,
+    "Sp. Defense": 75,
+    "Speed": 30
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null
+  }
+}

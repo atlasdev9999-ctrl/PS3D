@@ -1,0 +1,44 @@
+{
+  "id": 101,
+  "pokedex_number": "0101",
+  "name": {
+    "english": "Electrode",
+    "japanese": "マルマイン",
+    "chinese": "顽皮雷弹",
+    "french": "Électrode"
+  },
+  "type": [
+    "Electric"
+  ],
+  "base": {
+    "HP": 60,
+    "Attack": 50,
+    "Defense": 70,
+    "Sp. Attack": 80,
+    "Sp. Defense": 80,
+    "Speed": 150
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0101_electrode.fbx",
+      "texture_path": "3d_models/textures/0101_electrode.png",
+      "animation_path": "3d_models/animations/0101_electrode.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 60,
+    "Attack": 50,
+    "Defense": 70,
+    "Sp. Attack": 80,
+    "Sp. Defense": 80,
+    "Speed": 150
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null
+  }
+}

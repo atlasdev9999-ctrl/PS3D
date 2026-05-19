@@ -1,0 +1,45 @@
+{
+  "id": 82,
+  "pokedex_number": "0082",
+  "name": {
+    "english": "Magneton",
+    "japanese": "レアコイル",
+    "chinese": "三合一磁怪",
+    "french": "Magnéton"
+  },
+  "type": [
+    "Electric",
+    "Steel"
+  ],
+  "base": {
+    "HP": 50,
+    "Attack": 60,
+    "Defense": 95,
+    "Sp. Attack": 120,
+    "Sp. Defense": 70,
+    "Speed": 70
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0082_magneton.fbx",
+      "texture_path": "3d_models/textures/0082_magneton.png",
+      "animation_path": "3d_models/animations/0082_magneton.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 50,
+    "Attack": 60,
+    "Defense": 95,
+    "Sp. Attack": 120,
+    "Sp. Defense": 70,
+    "Speed": 70
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null
+  }
+}

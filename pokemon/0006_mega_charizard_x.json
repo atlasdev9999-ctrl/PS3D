@@ -1,0 +1,44 @@
+{
+  "id": 6,
+  "pokedex_number": "0006",
+  "name": {
+    "english": "Charizard Mega X"
+  },
+  "type": [
+    "Fire",
+    "Flying"
+  ],
+  "base": {
+    "HP": 78,
+    "Attack": 84,
+    "Defense": 78,
+    "Sp. Attack": 109,
+    "Sp. Defense": 85,
+    "Speed": 100
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0006_charizard.fbx",
+      "texture_path": "3d_models/textures/0006_charizard.png",
+      "animation_path": "3d_models/animations/0006_charizard.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 78,
+    "Attack": 84,
+    "Defense": 78,
+    "Sp. Attack": 109,
+    "Sp. Defense": 85,
+    "Speed": 100
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null,
+    "is_mega_evolution": true,
+    "mega_variant": "mega_x"
+  }
+}

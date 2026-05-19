@@ -1,0 +1,43 @@
+{
+  "id": 115,
+  "pokedex_number": "0115",
+  "name": {
+    "english": "Kangaskhan Mega"
+  },
+  "type": [
+    "Normal"
+  ],
+  "base": {
+    "HP": 105,
+    "Attack": 95,
+    "Defense": 80,
+    "Sp. Attack": 40,
+    "Sp. Defense": 80,
+    "Speed": 90
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0115_kangaskhan.fbx",
+      "texture_path": "3d_models/textures/0115_kangaskhan.png",
+      "animation_path": "3d_models/animations/0115_kangaskhan.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 105,
+    "Attack": 95,
+    "Defense": 80,
+    "Sp. Attack": 40,
+    "Sp. Defense": 80,
+    "Speed": 90
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null,
+    "is_mega_evolution": true,
+    "mega_variant": "mega"
+  }
+}

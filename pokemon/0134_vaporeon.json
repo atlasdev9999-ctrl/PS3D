@@ -1,0 +1,44 @@
+{
+  "id": 134,
+  "pokedex_number": "0134",
+  "name": {
+    "english": "Vaporeon",
+    "japanese": "シャワーズ",
+    "chinese": "水伊布",
+    "french": "Aquali"
+  },
+  "type": [
+    "Water"
+  ],
+  "base": {
+    "HP": 130,
+    "Attack": 65,
+    "Defense": 60,
+    "Sp. Attack": 110,
+    "Sp. Defense": 95,
+    "Speed": 65
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0134_vaporeon.fbx",
+      "texture_path": "3d_models/textures/0134_vaporeon.png",
+      "animation_path": "3d_models/animations/0134_vaporeon.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 130,
+    "Attack": 65,
+    "Defense": 60,
+    "Sp. Attack": 110,
+    "Sp. Defense": 95,
+    "Speed": 65
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null
+  }
+}

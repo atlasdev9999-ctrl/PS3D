@@ -1,0 +1,45 @@
+{
+  "id": 83,
+  "pokedex_number": "0083",
+  "name": {
+    "english": "Farfetch'd",
+    "japanese": "カモネギ",
+    "chinese": "大葱鸭",
+    "french": "Canarticho"
+  },
+  "type": [
+    "Normal",
+    "Flying"
+  ],
+  "base": {
+    "HP": 52,
+    "Attack": 90,
+    "Defense": 55,
+    "Sp. Attack": 58,
+    "Sp. Defense": 62,
+    "Speed": 60
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0083_farfetch'd.fbx",
+      "texture_path": "3d_models/textures/0083_farfetch'd.png",
+      "animation_path": "3d_models/animations/0083_farfetch'd.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 52,
+    "Attack": 90,
+    "Defense": 55,
+    "Sp. Attack": 58,
+    "Sp. Defense": 62,
+    "Speed": 60
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null
+  }
+}

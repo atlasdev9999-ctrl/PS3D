@@ -1,0 +1,44 @@
+{
+  "id": 37,
+  "pokedex_number": "0037",
+  "name": {
+    "english": "Vulpix",
+    "japanese": "ロコン",
+    "chinese": "六尾",
+    "french": "Goupix"
+  },
+  "type": [
+    "Fire"
+  ],
+  "base": {
+    "HP": 38,
+    "Attack": 41,
+    "Defense": 40,
+    "Sp. Attack": 50,
+    "Sp. Defense": 65,
+    "Speed": 65
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0037_vulpix.fbx",
+      "texture_path": "3d_models/textures/0037_vulpix.png",
+      "animation_path": "3d_models/animations/0037_vulpix.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 38,
+    "Attack": 41,
+    "Defense": 40,
+    "Sp. Attack": 50,
+    "Sp. Defense": 65,
+    "Speed": 65
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null
+  }
+}

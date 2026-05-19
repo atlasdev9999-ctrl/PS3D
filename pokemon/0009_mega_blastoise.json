@@ -1,0 +1,43 @@
+{
+  "id": 9,
+  "pokedex_number": "0009",
+  "name": {
+    "english": "Blastoise Mega"
+  },
+  "type": [
+    "Water"
+  ],
+  "base": {
+    "HP": 79,
+    "Attack": 83,
+    "Defense": 100,
+    "Sp. Attack": 85,
+    "Sp. Defense": 105,
+    "Speed": 78
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0009_blastoise.fbx",
+      "texture_path": "3d_models/textures/0009_blastoise.png",
+      "animation_path": "3d_models/animations/0009_blastoise.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 79,
+    "Attack": 83,
+    "Defense": 100,
+    "Sp. Attack": 85,
+    "Sp. Defense": 105,
+    "Speed": 78
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null,
+    "is_mega_evolution": true,
+    "mega_variant": "mega"
+  }
+}

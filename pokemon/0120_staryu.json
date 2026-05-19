@@ -1,0 +1,44 @@
+{
+  "id": 120,
+  "pokedex_number": "0120",
+  "name": {
+    "english": "Staryu",
+    "japanese": "ヒトデマン",
+    "chinese": "海星星",
+    "french": "Stari"
+  },
+  "type": [
+    "Water"
+  ],
+  "base": {
+    "HP": 30,
+    "Attack": 45,
+    "Defense": 55,
+    "Sp. Attack": 70,
+    "Sp. Defense": 55,
+    "Speed": 85
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0120_staryu.fbx",
+      "texture_path": "3d_models/textures/0120_staryu.png",
+      "animation_path": "3d_models/animations/0120_staryu.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 30,
+    "Attack": 45,
+    "Defense": 55,
+    "Sp. Attack": 70,
+    "Sp. Defense": 55,
+    "Speed": 85
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null
+  }
+}

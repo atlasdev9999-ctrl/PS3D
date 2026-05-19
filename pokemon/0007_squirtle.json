@@ -1,0 +1,44 @@
+{
+  "id": 7,
+  "pokedex_number": "0007",
+  "name": {
+    "english": "Squirtle",
+    "japanese": "ゼニガメ",
+    "chinese": "杰尼龟",
+    "french": "Carapuce"
+  },
+  "type": [
+    "Water"
+  ],
+  "base": {
+    "HP": 44,
+    "Attack": 48,
+    "Defense": 65,
+    "Sp. Attack": 50,
+    "Sp. Defense": 64,
+    "Speed": 43
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0007_squirtle.fbx",
+      "texture_path": "3d_models/textures/0007_squirtle.png",
+      "animation_path": "3d_models/animations/0007_squirtle.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 44,
+    "Attack": 48,
+    "Defense": 65,
+    "Sp. Attack": 50,
+    "Sp. Defense": 64,
+    "Speed": 43
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null
+  }
+}

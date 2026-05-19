@@ -1,0 +1,45 @@
+{
+  "id": 131,
+  "pokedex_number": "0131",
+  "name": {
+    "english": "Lapras",
+    "japanese": "ラプラス",
+    "chinese": "拉普拉斯",
+    "french": "Lokhlass"
+  },
+  "type": [
+    "Water",
+    "Ice"
+  ],
+  "base": {
+    "HP": 130,
+    "Attack": 85,
+    "Defense": 80,
+    "Sp. Attack": 85,
+    "Sp. Defense": 95,
+    "Speed": 60
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0131_lapras.fbx",
+      "texture_path": "3d_models/textures/0131_lapras.png",
+      "animation_path": "3d_models/animations/0131_lapras.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 130,
+    "Attack": 85,
+    "Defense": 80,
+    "Sp. Attack": 85,
+    "Sp. Defense": 95,
+    "Speed": 60
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": 42,
+  "pokedex_number": "0042",
+  "name": {
+    "english": "Golbat",
+    "japanese": "ゴルバット",
+    "chinese": "大嘴蝠",
+    "french": "Nosferalto"
+  },
+  "type": [
+    "Poison",
+    "Flying"
+  ],
+  "base": {
+    "HP": 75,
+    "Attack": 80,
+    "Defense": 70,
+    "Sp. Attack": 65,
+    "Sp. Defense": 75,
+    "Speed": 90
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0042_golbat.fbx",
+      "texture_path": "3d_models/textures/0042_golbat.png",
+      "animation_path": "3d_models/animations/0042_golbat.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 75,
+    "Attack": 80,
+    "Defense": 70,
+    "Sp. Attack": 65,
+    "Sp. Defense": 75,
+    "Speed": 90
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 66,
+  "pokedex_number": "0066",
+  "name": {
+    "english": "Machop",
+    "japanese": "ワンリキー",
+    "chinese": "腕力",
+    "french": "Machoc"
+  },
+  "type": [
+    "Fighting"
+  ],
+  "base": {
+    "HP": 70,
+    "Attack": 80,
+    "Defense": 50,
+    "Sp. Attack": 35,
+    "Sp. Defense": 35,
+    "Speed": 35
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0066_machop.fbx",
+      "texture_path": "3d_models/textures/0066_machop.png",
+      "animation_path": "3d_models/animations/0066_machop.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 70,
+    "Attack": 80,
+    "Defense": 50,
+    "Sp. Attack": 35,
+    "Sp. Defense": 35,
+    "Speed": 35
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null
+  }
+}

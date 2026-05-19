@@ -1,0 +1,44 @@
+{
+  "id": 99,
+  "pokedex_number": "0099",
+  "name": {
+    "english": "Kingler",
+    "japanese": "キングラー",
+    "chinese": "巨钳蟹",
+    "french": "Krabboss"
+  },
+  "type": [
+    "Water"
+  ],
+  "base": {
+    "HP": 55,
+    "Attack": 130,
+    "Defense": 115,
+    "Sp. Attack": 50,
+    "Sp. Defense": 50,
+    "Speed": 75
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0099_kingler.fbx",
+      "texture_path": "3d_models/textures/0099_kingler.png",
+      "animation_path": "3d_models/animations/0099_kingler.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 55,
+    "Attack": 130,
+    "Defense": 115,
+    "Sp. Attack": 50,
+    "Sp. Defense": 50,
+    "Speed": 75
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null
+  }
+}

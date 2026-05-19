@@ -1,0 +1,45 @@
+{
+  "id": 40,
+  "pokedex_number": "0040",
+  "name": {
+    "english": "Wigglytuff",
+    "japanese": "プクリン",
+    "chinese": "胖可丁",
+    "french": "Grodoudou"
+  },
+  "type": [
+    "Normal",
+    "Fairy"
+  ],
+  "base": {
+    "HP": 140,
+    "Attack": 70,
+    "Defense": 45,
+    "Sp. Attack": 85,
+    "Sp. Defense": 50,
+    "Speed": 45
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0040_wigglytuff.fbx",
+      "texture_path": "3d_models/textures/0040_wigglytuff.png",
+      "animation_path": "3d_models/animations/0040_wigglytuff.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 140,
+    "Attack": 70,
+    "Defense": 45,
+    "Sp. Attack": 85,
+    "Sp. Defense": 50,
+    "Speed": 45
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null
+  }
+}

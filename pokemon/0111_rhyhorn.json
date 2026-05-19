@@ -1,0 +1,45 @@
+{
+  "id": 111,
+  "pokedex_number": "0111",
+  "name": {
+    "english": "Rhyhorn",
+    "japanese": "サイホーン",
+    "chinese": "独角犀牛",
+    "french": "Rhinocorne"
+  },
+  "type": [
+    "Ground",
+    "Rock"
+  ],
+  "base": {
+    "HP": 80,
+    "Attack": 85,
+    "Defense": 95,
+    "Sp. Attack": 30,
+    "Sp. Defense": 30,
+    "Speed": 25
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0111_rhyhorn.fbx",
+      "texture_path": "3d_models/textures/0111_rhyhorn.png",
+      "animation_path": "3d_models/animations/0111_rhyhorn.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 80,
+    "Attack": 85,
+    "Defense": 95,
+    "Sp. Attack": 30,
+    "Sp. Defense": 30,
+    "Speed": 25
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null
+  }
+}

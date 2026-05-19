@@ -1,0 +1,44 @@
+{
+  "id": 80,
+  "pokedex_number": "0080",
+  "name": {
+    "english": "Slowbro Mega"
+  },
+  "type": [
+    "Water",
+    "Psychic"
+  ],
+  "base": {
+    "HP": 95,
+    "Attack": 75,
+    "Defense": 110,
+    "Sp. Attack": 100,
+    "Sp. Defense": 80,
+    "Speed": 30
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0080_slowbro.fbx",
+      "texture_path": "3d_models/textures/0080_slowbro.png",
+      "animation_path": "3d_models/animations/0080_slowbro.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 95,
+    "Attack": 75,
+    "Defense": 110,
+    "Sp. Attack": 100,
+    "Sp. Defense": 80,
+    "Speed": 30
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null,
+    "is_mega_evolution": true,
+    "mega_variant": "mega"
+  }
+}

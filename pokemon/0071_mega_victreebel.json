@@ -1,0 +1,44 @@
+{
+  "id": 71,
+  "pokedex_number": "0071",
+  "name": {
+    "english": "Victreebel Mega"
+  },
+  "type": [
+    "Grass",
+    "Poison"
+  ],
+  "base": {
+    "HP": 80,
+    "Attack": 105,
+    "Defense": 65,
+    "Sp. Attack": 100,
+    "Sp. Defense": 70,
+    "Speed": 70
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0071_victreebel.fbx",
+      "texture_path": "3d_models/textures/0071_victreebel.png",
+      "animation_path": "3d_models/animations/0071_victreebel.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 80,
+    "Attack": 105,
+    "Defense": 65,
+    "Sp. Attack": 100,
+    "Sp. Defense": 70,
+    "Speed": 70
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null,
+    "is_mega_evolution": true,
+    "mega_variant": "mega"
+  }
+}

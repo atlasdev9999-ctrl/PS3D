@@ -1,0 +1,44 @@
+{
+  "id": 58,
+  "pokedex_number": "0058",
+  "name": {
+    "english": "Growlithe",
+    "japanese": "ガーディ",
+    "chinese": "卡蒂狗",
+    "french": "Caninos"
+  },
+  "type": [
+    "Fire"
+  ],
+  "base": {
+    "HP": 55,
+    "Attack": 70,
+    "Defense": 45,
+    "Sp. Attack": 70,
+    "Sp. Defense": 50,
+    "Speed": 60
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0058_growlithe.fbx",
+      "texture_path": "3d_models/textures/0058_growlithe.png",
+      "animation_path": "3d_models/animations/0058_growlithe.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 55,
+    "Attack": 70,
+    "Defense": 45,
+    "Sp. Attack": 70,
+    "Sp. Defense": 50,
+    "Speed": 60
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null
+  }
+}

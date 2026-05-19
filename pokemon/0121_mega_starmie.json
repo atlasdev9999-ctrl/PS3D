@@ -1,0 +1,44 @@
+{
+  "id": 121,
+  "pokedex_number": "0121",
+  "name": {
+    "english": "Starmie Mega"
+  },
+  "type": [
+    "Water",
+    "Psychic"
+  ],
+  "base": {
+    "HP": 60,
+    "Attack": 75,
+    "Defense": 85,
+    "Sp. Attack": 100,
+    "Sp. Defense": 85,
+    "Speed": 115
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0121_starmie.fbx",
+      "texture_path": "3d_models/textures/0121_starmie.png",
+      "animation_path": "3d_models/animations/0121_starmie.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 60,
+    "Attack": 75,
+    "Defense": 85,
+    "Sp. Attack": 100,
+    "Sp. Defense": 85,
+    "Speed": 115
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null,
+    "is_mega_evolution": true,
+    "mega_variant": "mega"
+  }
+}

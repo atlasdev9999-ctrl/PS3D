@@ -1,0 +1,44 @@
+{
+  "id": 97,
+  "pokedex_number": "0097",
+  "name": {
+    "english": "Hypno",
+    "japanese": "スリーパー",
+    "chinese": "引梦貘人",
+    "french": "Hypnomade"
+  },
+  "type": [
+    "Psychic"
+  ],
+  "base": {
+    "HP": 85,
+    "Attack": 73,
+    "Defense": 70,
+    "Sp. Attack": 73,
+    "Sp. Defense": 115,
+    "Speed": 67
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0097_hypno.fbx",
+      "texture_path": "3d_models/textures/0097_hypno.png",
+      "animation_path": "3d_models/animations/0097_hypno.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 85,
+    "Attack": 73,
+    "Defense": 70,
+    "Sp. Attack": 73,
+    "Sp. Defense": 115,
+    "Speed": 67
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": 1,
+  "pokedex_number": "0001",
+  "name": {
+    "english": "Bulbasaur",
+    "japanese": "フシギダネ",
+    "chinese": "妙蛙种子",
+    "french": "Bulbizarre"
+  },
+  "type": [
+    "Grass",
+    "Poison"
+  ],
+  "base": {
+    "HP": 45,
+    "Attack": 49,
+    "Defense": 49,
+    "Sp. Attack": 65,
+    "Sp. Defense": 65,
+    "Speed": 45
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0001_bulbasaur.fbx",
+      "texture_path": "3d_models/textures/0001_bulbasaur.png",
+      "animation_path": "3d_models/animations/0001_bulbasaur.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 45,
+    "Attack": 49,
+    "Defense": 49,
+    "Sp. Attack": 65,
+    "Sp. Defense": 65,
+    "Speed": 45
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null
+  }
+}

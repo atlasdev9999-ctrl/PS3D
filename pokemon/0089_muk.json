@@ -1,0 +1,44 @@
+{
+  "id": 89,
+  "pokedex_number": "0089",
+  "name": {
+    "english": "Muk",
+    "japanese": "ベトベトン",
+    "chinese": "臭臭泥",
+    "french": "Grotadmorv"
+  },
+  "type": [
+    "Poison"
+  ],
+  "base": {
+    "HP": 105,
+    "Attack": 105,
+    "Defense": 75,
+    "Sp. Attack": 65,
+    "Sp. Defense": 100,
+    "Speed": 50
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0089_muk.fbx",
+      "texture_path": "3d_models/textures/0089_muk.png",
+      "animation_path": "3d_models/animations/0089_muk.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 105,
+    "Attack": 105,
+    "Defense": 75,
+    "Sp. Attack": 65,
+    "Sp. Defense": 100,
+    "Speed": 50
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null
+  }
+}

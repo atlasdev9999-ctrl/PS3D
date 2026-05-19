@@ -1,0 +1,45 @@
+{
+  "id": 124,
+  "pokedex_number": "0124",
+  "name": {
+    "english": "Jynx",
+    "japanese": "ルージュラ",
+    "chinese": "迷唇姐",
+    "french": "Lippoutou"
+  },
+  "type": [
+    "Ice",
+    "Psychic"
+  ],
+  "base": {
+    "HP": 65,
+    "Attack": 50,
+    "Defense": 35,
+    "Sp. Attack": 115,
+    "Sp. Defense": 95,
+    "Speed": 95
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0124_jynx.fbx",
+      "texture_path": "3d_models/textures/0124_jynx.png",
+      "animation_path": "3d_models/animations/0124_jynx.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 65,
+    "Attack": 50,
+    "Defense": 35,
+    "Sp. Attack": 115,
+    "Sp. Defense": 95,
+    "Speed": 95
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null
+  }
+}

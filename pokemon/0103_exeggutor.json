@@ -1,0 +1,45 @@
+{
+  "id": 103,
+  "pokedex_number": "0103",
+  "name": {
+    "english": "Exeggutor",
+    "japanese": "ナッシー",
+    "chinese": "椰蛋树",
+    "french": "Noadkoko"
+  },
+  "type": [
+    "Grass",
+    "Psychic"
+  ],
+  "base": {
+    "HP": 95,
+    "Attack": 95,
+    "Defense": 85,
+    "Sp. Attack": 125,
+    "Sp. Defense": 75,
+    "Speed": 55
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0103_exeggutor.fbx",
+      "texture_path": "3d_models/textures/0103_exeggutor.png",
+      "animation_path": "3d_models/animations/0103_exeggutor.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 95,
+    "Attack": 95,
+    "Defense": 85,
+    "Sp. Attack": 125,
+    "Sp. Defense": 75,
+    "Speed": 55
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null
+  }
+}

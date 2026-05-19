@@ -1,0 +1,45 @@
+{
+  "id": 48,
+  "pokedex_number": "0048",
+  "name": {
+    "english": "Venonat",
+    "japanese": "コンパン",
+    "chinese": "毛球",
+    "french": "Mimitoss"
+  },
+  "type": [
+    "Bug",
+    "Poison"
+  ],
+  "base": {
+    "HP": 60,
+    "Attack": 55,
+    "Defense": 50,
+    "Sp. Attack": 40,
+    "Sp. Defense": 55,
+    "Speed": 45
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0048_venonat.fbx",
+      "texture_path": "3d_models/textures/0048_venonat.png",
+      "animation_path": "3d_models/animations/0048_venonat.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 60,
+    "Attack": 55,
+    "Defense": 50,
+    "Sp. Attack": 40,
+    "Sp. Defense": 55,
+    "Speed": 45
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null
+  }
+}

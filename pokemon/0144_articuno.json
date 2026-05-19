@@ -1,0 +1,45 @@
+{
+  "id": 144,
+  "pokedex_number": "0144",
+  "name": {
+    "english": "Articuno",
+    "japanese": "フリーザー",
+    "chinese": "急冻鸟",
+    "french": "Artikodin"
+  },
+  "type": [
+    "Ice",
+    "Flying"
+  ],
+  "base": {
+    "HP": 90,
+    "Attack": 85,
+    "Defense": 100,
+    "Sp. Attack": 95,
+    "Sp. Defense": 125,
+    "Speed": 85
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0144_articuno.fbx",
+      "texture_path": "3d_models/textures/0144_articuno.png",
+      "animation_path": "3d_models/animations/0144_articuno.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 90,
+    "Attack": 85,
+    "Defense": 100,
+    "Sp. Attack": 95,
+    "Sp. Defense": 125,
+    "Speed": 85
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null
+  }
+}

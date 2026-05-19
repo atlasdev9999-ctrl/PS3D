@@ -1,0 +1,45 @@
+{
+  "id": 34,
+  "pokedex_number": "0034",
+  "name": {
+    "english": "Nidoking",
+    "japanese": "ニドキング",
+    "chinese": "尼多王",
+    "french": "Nidoking"
+  },
+  "type": [
+    "Poison",
+    "Ground"
+  ],
+  "base": {
+    "HP": 81,
+    "Attack": 102,
+    "Defense": 77,
+    "Sp. Attack": 85,
+    "Sp. Defense": 75,
+    "Speed": 85
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0034_nidoking.fbx",
+      "texture_path": "3d_models/textures/0034_nidoking.png",
+      "animation_path": "3d_models/animations/0034_nidoking.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 81,
+    "Attack": 102,
+    "Defense": 77,
+    "Sp. Attack": 85,
+    "Sp. Defense": 75,
+    "Speed": 85
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null
+  }
+}

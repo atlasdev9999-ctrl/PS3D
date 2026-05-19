@@ -1,0 +1,45 @@
+{
+  "id": 3,
+  "pokedex_number": "0003",
+  "name": {
+    "english": "Venusaur",
+    "japanese": "フシギバナ",
+    "chinese": "妙蛙花",
+    "french": "Florizarre"
+  },
+  "type": [
+    "Grass",
+    "Poison"
+  ],
+  "base": {
+    "HP": 80,
+    "Attack": 82,
+    "Defense": 83,
+    "Sp. Attack": 100,
+    "Sp. Defense": 100,
+    "Speed": 80
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0003_venusaur.fbx",
+      "texture_path": "3d_models/textures/0003_venusaur.png",
+      "animation_path": "3d_models/animations/0003_venusaur.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 80,
+    "Attack": 82,
+    "Defense": 83,
+    "Sp. Attack": 100,
+    "Sp. Defense": 100,
+    "Speed": 80
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null
+  }
+}
