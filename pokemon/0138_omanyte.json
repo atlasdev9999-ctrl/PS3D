@@ -1,0 +1,45 @@
+{
+  "id": 138,
+  "pokedex_number": "0138",
+  "name": {
+    "english": "Omanyte",
+    "japanese": "オムナイト",
+    "chinese": "菊石兽",
+    "french": "Amonita"
+  },
+  "type": [
+    "Rock",
+    "Water"
+  ],
+  "base": {
+    "HP": 35,
+    "Attack": 40,
+    "Defense": 100,
+    "Sp. Attack": 90,
+    "Sp. Defense": 55,
+    "Speed": 35
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0138_omanyte.fbx",
+      "texture_path": "3d_models/textures/0138_omanyte.png",
+      "animation_path": "3d_models/animations/0138_omanyte.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 35,
+    "Attack": 40,
+    "Defense": 100,
+    "Sp. Attack": 90,
+    "Sp. Defense": 55,
+    "Speed": 35
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null
+  }
+}

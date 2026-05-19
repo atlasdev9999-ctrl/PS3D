@@ -1,0 +1,45 @@
+{
+  "id": 69,
+  "pokedex_number": "0069",
+  "name": {
+    "english": "Bellsprout",
+    "japanese": "マダツボミ",
+    "chinese": "喇叭芽",
+    "french": "Chétiflor"
+  },
+  "type": [
+    "Grass",
+    "Poison"
+  ],
+  "base": {
+    "HP": 50,
+    "Attack": 75,
+    "Defense": 35,
+    "Sp. Attack": 70,
+    "Sp. Defense": 30,
+    "Speed": 40
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0069_bellsprout.fbx",
+      "texture_path": "3d_models/textures/0069_bellsprout.png",
+      "animation_path": "3d_models/animations/0069_bellsprout.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 50,
+    "Attack": 75,
+    "Defense": 35,
+    "Sp. Attack": 70,
+    "Sp. Defense": 30,
+    "Speed": 40
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": 22,
+  "pokedex_number": "0022",
+  "name": {
+    "english": "Fearow",
+    "japanese": "オニドリル",
+    "chinese": "大嘴雀",
+    "french": "Rapasdepic"
+  },
+  "type": [
+    "Normal",
+    "Flying"
+  ],
+  "base": {
+    "HP": 65,
+    "Attack": 90,
+    "Defense": 65,
+    "Sp. Attack": 61,
+    "Sp. Defense": 61,
+    "Speed": 100
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0022_fearow.fbx",
+      "texture_path": "3d_models/textures/0022_fearow.png",
+      "animation_path": "3d_models/animations/0022_fearow.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 65,
+    "Attack": 90,
+    "Defense": 65,
+    "Sp. Attack": 61,
+    "Sp. Defense": 61,
+    "Speed": 100
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null
+  }
+}

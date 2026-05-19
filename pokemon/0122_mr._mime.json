@@ -1,0 +1,45 @@
+{
+  "id": 122,
+  "pokedex_number": "0122",
+  "name": {
+    "english": "Mr. Mime",
+    "japanese": "バリヤード",
+    "chinese": "魔墙人偶",
+    "french": "M. Mime"
+  },
+  "type": [
+    "Psychic",
+    "Fairy"
+  ],
+  "base": {
+    "HP": 40,
+    "Attack": 45,
+    "Defense": 65,
+    "Sp. Attack": 100,
+    "Sp. Defense": 120,
+    "Speed": 90
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0122_mr._mime.fbx",
+      "texture_path": "3d_models/textures/0122_mr._mime.png",
+      "animation_path": "3d_models/animations/0122_mr._mime.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 40,
+    "Attack": 45,
+    "Defense": 65,
+    "Sp. Attack": 100,
+    "Sp. Defense": 120,
+    "Speed": 90
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null
+  }
+}

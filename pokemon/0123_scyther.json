@@ -1,0 +1,45 @@
+{
+  "id": 123,
+  "pokedex_number": "0123",
+  "name": {
+    "english": "Scyther",
+    "japanese": "ストライク",
+    "chinese": "飞天螳螂",
+    "french": "Insécateur"
+  },
+  "type": [
+    "Bug",
+    "Flying"
+  ],
+  "base": {
+    "HP": 70,
+    "Attack": 110,
+    "Defense": 80,
+    "Sp. Attack": 55,
+    "Sp. Defense": 80,
+    "Speed": 105
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0123_scyther.fbx",
+      "texture_path": "3d_models/textures/0123_scyther.png",
+      "animation_path": "3d_models/animations/0123_scyther.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 70,
+    "Attack": 110,
+    "Defense": 80,
+    "Sp. Attack": 55,
+    "Sp. Defense": 80,
+    "Speed": 105
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null
+  }
+}

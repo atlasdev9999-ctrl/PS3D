@@ -1,0 +1,44 @@
+{
+  "id": 36,
+  "pokedex_number": "0036",
+  "name": {
+    "english": "Clefable",
+    "japanese": "ピクシー",
+    "chinese": "皮可西",
+    "french": "Mélodelfe"
+  },
+  "type": [
+    "Fairy"
+  ],
+  "base": {
+    "HP": 95,
+    "Attack": 70,
+    "Defense": 73,
+    "Sp. Attack": 95,
+    "Sp. Defense": 90,
+    "Speed": 60
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0036_clefable.fbx",
+      "texture_path": "3d_models/textures/0036_clefable.png",
+      "animation_path": "3d_models/animations/0036_clefable.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 95,
+    "Attack": 70,
+    "Defense": 73,
+    "Sp. Attack": 95,
+    "Sp. Defense": 90,
+    "Speed": 60
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null
+  }
+}

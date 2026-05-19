@@ -1,0 +1,44 @@
+{
+  "id": 55,
+  "pokedex_number": "0055",
+  "name": {
+    "english": "Golduck",
+    "japanese": "ゴルダック",
+    "chinese": "哥达鸭",
+    "french": "Akwakwak"
+  },
+  "type": [
+    "Water"
+  ],
+  "base": {
+    "HP": 80,
+    "Attack": 82,
+    "Defense": 78,
+    "Sp. Attack": 95,
+    "Sp. Defense": 80,
+    "Speed": 85
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0055_golduck.fbx",
+      "texture_path": "3d_models/textures/0055_golduck.png",
+      "animation_path": "3d_models/animations/0055_golduck.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 80,
+    "Attack": 82,
+    "Defense": 78,
+    "Sp. Attack": 95,
+    "Sp. Defense": 80,
+    "Speed": 85
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 133,
+  "pokedex_number": "0133",
+  "name": {
+    "english": "Eevee",
+    "japanese": "イーブイ",
+    "chinese": "伊布",
+    "french": "Évoli"
+  },
+  "type": [
+    "Normal"
+  ],
+  "base": {
+    "HP": 55,
+    "Attack": 55,
+    "Defense": 50,
+    "Sp. Attack": 45,
+    "Sp. Defense": 65,
+    "Speed": 55
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0133_eevee.fbx",
+      "texture_path": "3d_models/textures/0133_eevee.png",
+      "animation_path": "3d_models/animations/0133_eevee.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 55,
+    "Attack": 55,
+    "Defense": 50,
+    "Sp. Attack": 45,
+    "Sp. Defense": 65,
+    "Speed": 55
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": 14,
+  "pokedex_number": "0014",
+  "name": {
+    "english": "Kakuna",
+    "japanese": "コクーン",
+    "chinese": "铁壳蛹",
+    "french": "Coconfort"
+  },
+  "type": [
+    "Bug",
+    "Poison"
+  ],
+  "base": {
+    "HP": 45,
+    "Attack": 25,
+    "Defense": 50,
+    "Sp. Attack": 25,
+    "Sp. Defense": 25,
+    "Speed": 35
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0014_kakuna.fbx",
+      "texture_path": "3d_models/textures/0014_kakuna.png",
+      "animation_path": "3d_models/animations/0014_kakuna.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 45,
+    "Attack": 25,
+    "Defense": 50,
+    "Sp. Attack": 25,
+    "Sp. Defense": 25,
+    "Speed": 35
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null
+  }
+}

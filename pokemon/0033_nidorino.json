@@ -1,0 +1,44 @@
+{
+  "id": 33,
+  "pokedex_number": "0033",
+  "name": {
+    "english": "Nidorino",
+    "japanese": "ニドリーノ",
+    "chinese": "尼多力诺",
+    "french": "Nidorino"
+  },
+  "type": [
+    "Poison"
+  ],
+  "base": {
+    "HP": 61,
+    "Attack": 72,
+    "Defense": 57,
+    "Sp. Attack": 55,
+    "Sp. Defense": 55,
+    "Speed": 65
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0033_nidorino.fbx",
+      "texture_path": "3d_models/textures/0033_nidorino.png",
+      "animation_path": "3d_models/animations/0033_nidorino.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 61,
+    "Attack": 72,
+    "Defense": 57,
+    "Sp. Attack": 55,
+    "Sp. Defense": 55,
+    "Speed": 65
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null
+  }
+}

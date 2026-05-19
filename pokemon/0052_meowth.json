@@ -1,0 +1,44 @@
+{
+  "id": 52,
+  "pokedex_number": "0052",
+  "name": {
+    "english": "Meowth",
+    "japanese": "ニャース",
+    "chinese": "喵喵",
+    "french": "Miaouss"
+  },
+  "type": [
+    "Normal"
+  ],
+  "base": {
+    "HP": 40,
+    "Attack": 45,
+    "Defense": 35,
+    "Sp. Attack": 40,
+    "Sp. Defense": 40,
+    "Speed": 90
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0052_meowth.fbx",
+      "texture_path": "3d_models/textures/0052_meowth.png",
+      "animation_path": "3d_models/animations/0052_meowth.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 40,
+    "Attack": 45,
+    "Defense": 35,
+    "Sp. Attack": 40,
+    "Sp. Defense": 40,
+    "Speed": 90
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null
+  }
+}

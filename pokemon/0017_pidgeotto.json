@@ -1,0 +1,45 @@
+{
+  "id": 17,
+  "pokedex_number": "0017",
+  "name": {
+    "english": "Pidgeotto",
+    "japanese": "ピジョン",
+    "chinese": "比比鸟",
+    "french": "Roucoups"
+  },
+  "type": [
+    "Normal",
+    "Flying"
+  ],
+  "base": {
+    "HP": 63,
+    "Attack": 60,
+    "Defense": 55,
+    "Sp. Attack": 50,
+    "Sp. Defense": 50,
+    "Speed": 71
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0017_pidgeotto.fbx",
+      "texture_path": "3d_models/textures/0017_pidgeotto.png",
+      "animation_path": "3d_models/animations/0017_pidgeotto.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 63,
+    "Attack": 60,
+    "Defense": 55,
+    "Sp. Attack": 50,
+    "Sp. Defense": 50,
+    "Speed": 71
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null
+  }
+}

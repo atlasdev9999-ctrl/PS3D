@@ -1,0 +1,44 @@
+{
+  "id": 110,
+  "pokedex_number": "0110",
+  "name": {
+    "english": "Weezing",
+    "japanese": "マタドガス",
+    "chinese": "双弹瓦斯",
+    "french": "Smogogo"
+  },
+  "type": [
+    "Poison"
+  ],
+  "base": {
+    "HP": 65,
+    "Attack": 90,
+    "Defense": 120,
+    "Sp. Attack": 85,
+    "Sp. Defense": 70,
+    "Speed": 60
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0110_weezing.fbx",
+      "texture_path": "3d_models/textures/0110_weezing.png",
+      "animation_path": "3d_models/animations/0110_weezing.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 65,
+    "Attack": 90,
+    "Defense": 120,
+    "Sp. Attack": 85,
+    "Sp. Defense": 70,
+    "Speed": 60
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null
+  }
+}

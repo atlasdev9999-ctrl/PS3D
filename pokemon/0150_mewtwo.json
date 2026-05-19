@@ -1,0 +1,44 @@
+{
+  "id": 150,
+  "pokedex_number": "0150",
+  "name": {
+    "english": "Mewtwo",
+    "japanese": "ミュウツー",
+    "chinese": "超梦",
+    "french": "Mewtwo"
+  },
+  "type": [
+    "Psychic"
+  ],
+  "base": {
+    "HP": 106,
+    "Attack": 110,
+    "Defense": 90,
+    "Sp. Attack": 154,
+    "Sp. Defense": 90,
+    "Speed": 130
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0150_mewtwo.fbx",
+      "texture_path": "3d_models/textures/0150_mewtwo.png",
+      "animation_path": "3d_models/animations/0150_mewtwo.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 106,
+    "Attack": 110,
+    "Defense": 90,
+    "Sp. Attack": 154,
+    "Sp. Defense": 90,
+    "Speed": 130
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null
+  }
+}

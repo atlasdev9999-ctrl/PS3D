@@ -1,0 +1,44 @@
+{
+  "id": 149,
+  "pokedex_number": "0149",
+  "name": {
+    "english": "Dragonite Mega"
+  },
+  "type": [
+    "Dragon",
+    "Flying"
+  ],
+  "base": {
+    "HP": 91,
+    "Attack": 134,
+    "Defense": 95,
+    "Sp. Attack": 100,
+    "Sp. Defense": 100,
+    "Speed": 80
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0149_dragonite.fbx",
+      "texture_path": "3d_models/textures/0149_dragonite.png",
+      "animation_path": "3d_models/animations/0149_dragonite.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 91,
+    "Attack": 134,
+    "Defense": 95,
+    "Sp. Attack": 100,
+    "Sp. Defense": 100,
+    "Speed": 80
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null,
+    "is_mega_evolution": true,
+    "mega_variant": "mega"
+  }
+}

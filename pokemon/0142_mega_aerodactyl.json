@@ -1,0 +1,44 @@
+{
+  "id": 142,
+  "pokedex_number": "0142",
+  "name": {
+    "english": "Aerodactyl Mega"
+  },
+  "type": [
+    "Rock",
+    "Flying"
+  ],
+  "base": {
+    "HP": 80,
+    "Attack": 105,
+    "Defense": 65,
+    "Sp. Attack": 60,
+    "Sp. Defense": 75,
+    "Speed": 130
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0142_aerodactyl.fbx",
+      "texture_path": "3d_models/textures/0142_aerodactyl.png",
+      "animation_path": "3d_models/animations/0142_aerodactyl.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 80,
+    "Attack": 105,
+    "Defense": 65,
+    "Sp. Attack": 60,
+    "Sp. Defense": 75,
+    "Speed": 130
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null,
+    "is_mega_evolution": true,
+    "mega_variant": "mega"
+  }
+}

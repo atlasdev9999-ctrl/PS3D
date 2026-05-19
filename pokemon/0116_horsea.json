@@ -1,0 +1,44 @@
+{
+  "id": 116,
+  "pokedex_number": "0116",
+  "name": {
+    "english": "Horsea",
+    "japanese": "タッツー",
+    "chinese": "墨海马",
+    "french": "Hypotrempe"
+  },
+  "type": [
+    "Water"
+  ],
+  "base": {
+    "HP": 30,
+    "Attack": 40,
+    "Defense": 70,
+    "Sp. Attack": 70,
+    "Sp. Defense": 25,
+    "Speed": 60
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0116_horsea.fbx",
+      "texture_path": "3d_models/textures/0116_horsea.png",
+      "animation_path": "3d_models/animations/0116_horsea.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 30,
+    "Attack": 40,
+    "Defense": 70,
+    "Sp. Attack": 70,
+    "Sp. Defense": 25,
+    "Speed": 60
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null
+  }
+}

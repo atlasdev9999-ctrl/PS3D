@@ -1,0 +1,44 @@
+{
+  "id": 136,
+  "pokedex_number": "0136",
+  "name": {
+    "english": "Flareon",
+    "japanese": "ブースター",
+    "chinese": "火伊布",
+    "french": "Pyroli"
+  },
+  "type": [
+    "Fire"
+  ],
+  "base": {
+    "HP": 65,
+    "Attack": 130,
+    "Defense": 60,
+    "Sp. Attack": 95,
+    "Sp. Defense": 110,
+    "Speed": 65
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0136_flareon.fbx",
+      "texture_path": "3d_models/textures/0136_flareon.png",
+      "animation_path": "3d_models/animations/0136_flareon.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 65,
+    "Attack": 130,
+    "Defense": 60,
+    "Sp. Attack": 95,
+    "Sp. Defense": 110,
+    "Speed": 65
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null
+  }
+}

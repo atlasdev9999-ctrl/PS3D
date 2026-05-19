@@ -1,0 +1,44 @@
+{
+  "id": 106,
+  "pokedex_number": "0106",
+  "name": {
+    "english": "Hitmonlee",
+    "japanese": "サワムラー",
+    "chinese": "飞腿郎",
+    "french": "Kicklee"
+  },
+  "type": [
+    "Fighting"
+  ],
+  "base": {
+    "HP": 50,
+    "Attack": 120,
+    "Defense": 53,
+    "Sp. Attack": 35,
+    "Sp. Defense": 110,
+    "Speed": 87
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0106_hitmonlee.fbx",
+      "texture_path": "3d_models/textures/0106_hitmonlee.png",
+      "animation_path": "3d_models/animations/0106_hitmonlee.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 50,
+    "Attack": 120,
+    "Defense": 53,
+    "Sp. Attack": 35,
+    "Sp. Defense": 110,
+    "Speed": 87
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null
+  }
+}

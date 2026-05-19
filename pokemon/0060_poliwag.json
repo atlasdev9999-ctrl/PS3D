@@ -1,0 +1,44 @@
+{
+  "id": 60,
+  "pokedex_number": "0060",
+  "name": {
+    "english": "Poliwag",
+    "japanese": "ニョロモ",
+    "chinese": "蚊香蝌蚪",
+    "french": "Ptitard"
+  },
+  "type": [
+    "Water"
+  ],
+  "base": {
+    "HP": 40,
+    "Attack": 50,
+    "Defense": 40,
+    "Sp. Attack": 40,
+    "Sp. Defense": 40,
+    "Speed": 90
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0060_poliwag.fbx",
+      "texture_path": "3d_models/textures/0060_poliwag.png",
+      "animation_path": "3d_models/animations/0060_poliwag.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 40,
+    "Attack": 50,
+    "Defense": 40,
+    "Sp. Attack": 40,
+    "Sp. Defense": 40,
+    "Speed": 90
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null
+  }
+}

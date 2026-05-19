@@ -1,0 +1,44 @@
+{
+  "id": 24,
+  "pokedex_number": "0024",
+  "name": {
+    "english": "Arbok",
+    "japanese": "アーボック",
+    "chinese": "阿柏怪",
+    "french": "Arbok"
+  },
+  "type": [
+    "Poison"
+  ],
+  "base": {
+    "HP": 60,
+    "Attack": 95,
+    "Defense": 69,
+    "Sp. Attack": 65,
+    "Sp. Defense": 79,
+    "Speed": 80
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0024_arbok.fbx",
+      "texture_path": "3d_models/textures/0024_arbok.png",
+      "animation_path": "3d_models/animations/0024_arbok.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 60,
+    "Attack": 95,
+    "Defense": 69,
+    "Sp. Attack": 65,
+    "Sp. Defense": 79,
+    "Speed": 80
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null
+  }
+}

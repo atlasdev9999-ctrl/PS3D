@@ -1,0 +1,45 @@
+{
+  "id": 139,
+  "pokedex_number": "0139",
+  "name": {
+    "english": "Omastar",
+    "japanese": "オムスター",
+    "chinese": "多刺菊石兽",
+    "french": "Amonistar"
+  },
+  "type": [
+    "Rock",
+    "Water"
+  ],
+  "base": {
+    "HP": 70,
+    "Attack": 60,
+    "Defense": 125,
+    "Sp. Attack": 115,
+    "Sp. Defense": 70,
+    "Speed": 55
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0139_omastar.fbx",
+      "texture_path": "3d_models/textures/0139_omastar.png",
+      "animation_path": "3d_models/animations/0139_omastar.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 70,
+    "Attack": 60,
+    "Defense": 125,
+    "Sp. Attack": 115,
+    "Sp. Defense": 70,
+    "Speed": 55
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null
+  }
+}

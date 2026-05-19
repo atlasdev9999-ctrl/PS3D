@@ -1,0 +1,44 @@
+{
+  "id": 4,
+  "pokedex_number": "0004",
+  "name": {
+    "english": "Charmander",
+    "japanese": "ヒトカゲ",
+    "chinese": "小火龙",
+    "french": "Salamèche"
+  },
+  "type": [
+    "Fire"
+  ],
+  "base": {
+    "HP": 39,
+    "Attack": 52,
+    "Defense": 43,
+    "Sp. Attack": 60,
+    "Sp. Defense": 50,
+    "Speed": 65
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0004_charmander.fbx",
+      "texture_path": "3d_models/textures/0004_charmander.png",
+      "animation_path": "3d_models/animations/0004_charmander.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 39,
+    "Attack": 52,
+    "Defense": 43,
+    "Sp. Attack": 60,
+    "Sp. Defense": 50,
+    "Speed": 65
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null
+  }
+}

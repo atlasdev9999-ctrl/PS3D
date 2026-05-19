@@ -1,0 +1,44 @@
+{
+  "id": 10,
+  "pokedex_number": "0010",
+  "name": {
+    "english": "Caterpie",
+    "japanese": "キャタピー",
+    "chinese": "绿毛虫",
+    "french": "Chenipan"
+  },
+  "type": [
+    "Bug"
+  ],
+  "base": {
+    "HP": 45,
+    "Attack": 30,
+    "Defense": 35,
+    "Sp. Attack": 20,
+    "Sp. Defense": 20,
+    "Speed": 45
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0010_caterpie.fbx",
+      "texture_path": "3d_models/textures/0010_caterpie.png",
+      "animation_path": "3d_models/animations/0010_caterpie.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 45,
+    "Attack": 30,
+    "Defense": 35,
+    "Sp. Attack": 20,
+    "Sp. Defense": 20,
+    "Speed": 45
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null
+  }
+}

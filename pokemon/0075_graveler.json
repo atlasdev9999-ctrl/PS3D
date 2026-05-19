@@ -1,0 +1,45 @@
+{
+  "id": 75,
+  "pokedex_number": "0075",
+  "name": {
+    "english": "Graveler",
+    "japanese": "ゴローン",
+    "chinese": "隆隆石",
+    "french": "Gravalanch"
+  },
+  "type": [
+    "Rock",
+    "Ground"
+  ],
+  "base": {
+    "HP": 55,
+    "Attack": 95,
+    "Defense": 115,
+    "Sp. Attack": 45,
+    "Sp. Defense": 45,
+    "Speed": 35
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0075_graveler.fbx",
+      "texture_path": "3d_models/textures/0075_graveler.png",
+      "animation_path": "3d_models/animations/0075_graveler.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 55,
+    "Attack": 95,
+    "Defense": 115,
+    "Sp. Attack": 45,
+    "Sp. Defense": 45,
+    "Speed": 35
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null
+  }
+}

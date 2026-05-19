@@ -1,0 +1,44 @@
+{
+  "id": 98,
+  "pokedex_number": "0098",
+  "name": {
+    "english": "Krabby",
+    "japanese": "クラブ",
+    "chinese": "大钳蟹",
+    "french": "Krabby"
+  },
+  "type": [
+    "Water"
+  ],
+  "base": {
+    "HP": 30,
+    "Attack": 105,
+    "Defense": 90,
+    "Sp. Attack": 25,
+    "Sp. Defense": 25,
+    "Speed": 50
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0098_krabby.fbx",
+      "texture_path": "3d_models/textures/0098_krabby.png",
+      "animation_path": "3d_models/animations/0098_krabby.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 30,
+    "Attack": 105,
+    "Defense": 90,
+    "Sp. Attack": 25,
+    "Sp. Defense": 25,
+    "Speed": 50
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null
+  }
+}

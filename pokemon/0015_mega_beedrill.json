@@ -1,0 +1,44 @@
+{
+  "id": 15,
+  "pokedex_number": "0015",
+  "name": {
+    "english": "Beedrill Mega"
+  },
+  "type": [
+    "Bug",
+    "Poison"
+  ],
+  "base": {
+    "HP": 65,
+    "Attack": 90,
+    "Defense": 40,
+    "Sp. Attack": 45,
+    "Sp. Defense": 80,
+    "Speed": 75
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0015_beedrill.fbx",
+      "texture_path": "3d_models/textures/0015_beedrill.png",
+      "animation_path": "3d_models/animations/0015_beedrill.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 65,
+    "Attack": 90,
+    "Defense": 40,
+    "Sp. Attack": 45,
+    "Sp. Defense": 80,
+    "Speed": 75
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null,
+    "is_mega_evolution": true,
+    "mega_variant": "mega"
+  }
+}

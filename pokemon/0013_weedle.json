@@ -1,0 +1,45 @@
+{
+  "id": 13,
+  "pokedex_number": "0013",
+  "name": {
+    "english": "Weedle",
+    "japanese": "ビードル",
+    "chinese": "独角虫",
+    "french": "Aspicot"
+  },
+  "type": [
+    "Bug",
+    "Poison"
+  ],
+  "base": {
+    "HP": 40,
+    "Attack": 35,
+    "Defense": 30,
+    "Sp. Attack": 20,
+    "Sp. Defense": 20,
+    "Speed": 50
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0013_weedle.fbx",
+      "texture_path": "3d_models/textures/0013_weedle.png",
+      "animation_path": "3d_models/animations/0013_weedle.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 40,
+    "Attack": 35,
+    "Defense": 30,
+    "Sp. Attack": 20,
+    "Sp. Defense": 20,
+    "Speed": 50
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 78,
+  "pokedex_number": "0078",
+  "name": {
+    "english": "Rapidash",
+    "japanese": "ギャロップ",
+    "chinese": "烈焰马",
+    "french": "Galopa"
+  },
+  "type": [
+    "Fire"
+  ],
+  "base": {
+    "HP": 65,
+    "Attack": 100,
+    "Defense": 70,
+    "Sp. Attack": 80,
+    "Sp. Defense": 80,
+    "Speed": 105
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0078_rapidash.fbx",
+      "texture_path": "3d_models/textures/0078_rapidash.png",
+      "animation_path": "3d_models/animations/0078_rapidash.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 65,
+    "Attack": 100,
+    "Defense": 70,
+    "Sp. Attack": 80,
+    "Sp. Defense": 80,
+    "Speed": 105
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null
+  }
+}

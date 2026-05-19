@@ -1,0 +1,45 @@
+{
+  "id": 46,
+  "pokedex_number": "0046",
+  "name": {
+    "english": "Paras",
+    "japanese": "パラス",
+    "chinese": "派拉斯",
+    "french": "Paras"
+  },
+  "type": [
+    "Bug",
+    "Grass"
+  ],
+  "base": {
+    "HP": 35,
+    "Attack": 70,
+    "Defense": 55,
+    "Sp. Attack": 45,
+    "Sp. Defense": 55,
+    "Speed": 25
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0046_paras.fbx",
+      "texture_path": "3d_models/textures/0046_paras.png",
+      "animation_path": "3d_models/animations/0046_paras.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 35,
+    "Attack": 70,
+    "Defense": 55,
+    "Sp. Attack": 45,
+    "Sp. Defense": 55,
+    "Speed": 25
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": 45,
+  "pokedex_number": "0045",
+  "name": {
+    "english": "Vileplume",
+    "japanese": "ラフレシア",
+    "chinese": "霸王花",
+    "french": "Rafflesia"
+  },
+  "type": [
+    "Grass",
+    "Poison"
+  ],
+  "base": {
+    "HP": 75,
+    "Attack": 80,
+    "Defense": 85,
+    "Sp. Attack": 110,
+    "Sp. Defense": 90,
+    "Speed": 50
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0045_vileplume.fbx",
+      "texture_path": "3d_models/textures/0045_vileplume.png",
+      "animation_path": "3d_models/animations/0045_vileplume.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 75,
+    "Attack": 80,
+    "Defense": 85,
+    "Sp. Attack": 110,
+    "Sp. Defense": 90,
+    "Speed": 50
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null
+  }
+}

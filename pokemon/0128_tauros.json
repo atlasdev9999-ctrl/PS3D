@@ -1,0 +1,44 @@
+{
+  "id": 128,
+  "pokedex_number": "0128",
+  "name": {
+    "english": "Tauros",
+    "japanese": "ケンタロス",
+    "chinese": "肯泰罗",
+    "french": "Tauros"
+  },
+  "type": [
+    "Normal"
+  ],
+  "base": {
+    "HP": 75,
+    "Attack": 100,
+    "Defense": 95,
+    "Sp. Attack": 40,
+    "Sp. Defense": 70,
+    "Speed": 110
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0128_tauros.fbx",
+      "texture_path": "3d_models/textures/0128_tauros.png",
+      "animation_path": "3d_models/animations/0128_tauros.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 75,
+    "Attack": 100,
+    "Defense": 95,
+    "Sp. Attack": 40,
+    "Sp. Defense": 70,
+    "Speed": 110
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null
+  }
+}

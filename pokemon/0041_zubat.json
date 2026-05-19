@@ -1,0 +1,45 @@
+{
+  "id": 41,
+  "pokedex_number": "0041",
+  "name": {
+    "english": "Zubat",
+    "japanese": "ズバット",
+    "chinese": "超音蝠",
+    "french": "Nosferapti"
+  },
+  "type": [
+    "Poison",
+    "Flying"
+  ],
+  "base": {
+    "HP": 40,
+    "Attack": 45,
+    "Defense": 35,
+    "Sp. Attack": 30,
+    "Sp. Defense": 40,
+    "Speed": 55
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0041_zubat.fbx",
+      "texture_path": "3d_models/textures/0041_zubat.png",
+      "animation_path": "3d_models/animations/0041_zubat.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 40,
+    "Attack": 45,
+    "Defense": 35,
+    "Sp. Attack": 30,
+    "Sp. Defense": 40,
+    "Speed": 55
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null
+  }
+}

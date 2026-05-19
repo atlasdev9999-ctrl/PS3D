@@ -1,0 +1,45 @@
+{
+  "id": 47,
+  "pokedex_number": "0047",
+  "name": {
+    "english": "Parasect",
+    "japanese": "パラセクト",
+    "chinese": "派拉斯特",
+    "french": "Parasect"
+  },
+  "type": [
+    "Bug",
+    "Grass"
+  ],
+  "base": {
+    "HP": 60,
+    "Attack": 95,
+    "Defense": 80,
+    "Sp. Attack": 60,
+    "Sp. Defense": 80,
+    "Speed": 30
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0047_parasect.fbx",
+      "texture_path": "3d_models/textures/0047_parasect.png",
+      "animation_path": "3d_models/animations/0047_parasect.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 60,
+    "Attack": 95,
+    "Defense": 80,
+    "Sp. Attack": 60,
+    "Sp. Defense": 80,
+    "Speed": 30
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null
+  }
+}

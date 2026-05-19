@@ -1,0 +1,44 @@
+{
+  "id": 88,
+  "pokedex_number": "0088",
+  "name": {
+    "english": "Grimer",
+    "japanese": "ベトベター",
+    "chinese": "臭泥",
+    "french": "Tadmorv"
+  },
+  "type": [
+    "Poison"
+  ],
+  "base": {
+    "HP": 80,
+    "Attack": 80,
+    "Defense": 50,
+    "Sp. Attack": 40,
+    "Sp. Defense": 50,
+    "Speed": 25
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0088_grimer.fbx",
+      "texture_path": "3d_models/textures/0088_grimer.png",
+      "animation_path": "3d_models/animations/0088_grimer.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 80,
+    "Attack": 80,
+    "Defense": 50,
+    "Sp. Attack": 40,
+    "Sp. Defense": 50,
+    "Speed": 25
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null
+  }
+}

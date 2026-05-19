@@ -1,0 +1,44 @@
+{
+  "id": 77,
+  "pokedex_number": "0077",
+  "name": {
+    "english": "Ponyta",
+    "japanese": "ポニータ",
+    "chinese": "小火马",
+    "french": "Ponyta"
+  },
+  "type": [
+    "Fire"
+  ],
+  "base": {
+    "HP": 50,
+    "Attack": 85,
+    "Defense": 55,
+    "Sp. Attack": 65,
+    "Sp. Defense": 65,
+    "Speed": 90
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0077_ponyta.fbx",
+      "texture_path": "3d_models/textures/0077_ponyta.png",
+      "animation_path": "3d_models/animations/0077_ponyta.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 50,
+    "Attack": 85,
+    "Defense": 55,
+    "Sp. Attack": 65,
+    "Sp. Defense": 65,
+    "Speed": 90
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null
+  }
+}

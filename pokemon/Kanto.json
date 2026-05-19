@@ -1,0 +1,6718 @@
+{
+  "region": "Kanto",
+  "generation": 1,
+  "total_pokemon": 151,
+  "pokemon": [
+    {
+      "id": 1,
+      "pokedex_number": "0001",
+      "name": {
+        "english": "Bulbasaur",
+        "japanese": "フシギダネ",
+        "chinese": "妙蛙种子",
+        "french": "Bulbizarre"
+      },
+      "type": [
+        "Grass",
+        "Poison"
+      ],
+      "base": {
+        "HP": 45,
+        "Attack": 49,
+        "Defense": 49,
+        "Sp. Attack": 65,
+        "Sp. Defense": 65,
+        "Speed": 45
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0001_bulbasaur.fbx",
+          "texture_path": "3d_models/textures/0001_bulbasaur.png",
+          "animation_path": "3d_models/animations/0001_bulbasaur.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 45,
+        "Attack": 49,
+        "Defense": 49,
+        "Sp. Attack": 65,
+        "Sp. Defense": 65,
+        "Speed": 45
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 2,
+      "pokedex_number": "0002",
+      "name": {
+        "english": "Ivysaur",
+        "japanese": "フシギソウ",
+        "chinese": "妙蛙草",
+        "french": "Herbizarre"
+      },
+      "type": [
+        "Grass",
+        "Poison"
+      ],
+      "base": {
+        "HP": 60,
+        "Attack": 62,
+        "Defense": 63,
+        "Sp. Attack": 80,
+        "Sp. Defense": 80,
+        "Speed": 60
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0002_ivysaur.fbx",
+          "texture_path": "3d_models/textures/0002_ivysaur.png",
+          "animation_path": "3d_models/animations/0002_ivysaur.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 60,
+        "Attack": 62,
+        "Defense": 63,
+        "Sp. Attack": 80,
+        "Sp. Defense": 80,
+        "Speed": 60
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 3,
+      "pokedex_number": "0003",
+      "name": {
+        "english": "Venusaur",
+        "japanese": "フシギバナ",
+        "chinese": "妙蛙花",
+        "french": "Florizarre"
+      },
+      "type": [
+        "Grass",
+        "Poison"
+      ],
+      "base": {
+        "HP": 80,
+        "Attack": 82,
+        "Defense": 83,
+        "Sp. Attack": 100,
+        "Sp. Defense": 100,
+        "Speed": 80
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0003_venusaur.fbx",
+          "texture_path": "3d_models/textures/0003_venusaur.png",
+          "animation_path": "3d_models/animations/0003_venusaur.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 80,
+        "Attack": 82,
+        "Defense": 83,
+        "Sp. Attack": 100,
+        "Sp. Defense": 100,
+        "Speed": 80
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 4,
+      "pokedex_number": "0004",
+      "name": {
+        "english": "Charmander",
+        "japanese": "ヒトカゲ",
+        "chinese": "小火龙",
+        "french": "Salamèche"
+      },
+      "type": [
+        "Fire"
+      ],
+      "base": {
+        "HP": 39,
+        "Attack": 52,
+        "Defense": 43,
+        "Sp. Attack": 60,
+        "Sp. Defense": 50,
+        "Speed": 65
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0004_charmander.fbx",
+          "texture_path": "3d_models/textures/0004_charmander.png",
+          "animation_path": "3d_models/animations/0004_charmander.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 39,
+        "Attack": 52,
+        "Defense": 43,
+        "Sp. Attack": 60,
+        "Sp. Defense": 50,
+        "Speed": 65
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 5,
+      "pokedex_number": "0005",
+      "name": {
+        "english": "Charmeleon",
+        "japanese": "リザード",
+        "chinese": "火恐龙",
+        "french": "Reptincel"
+      },
+      "type": [
+        "Fire"
+      ],
+      "base": {
+        "HP": 58,
+        "Attack": 64,
+        "Defense": 58,
+        "Sp. Attack": 80,
+        "Sp. Defense": 65,
+        "Speed": 80
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0005_charmeleon.fbx",
+          "texture_path": "3d_models/textures/0005_charmeleon.png",
+          "animation_path": "3d_models/animations/0005_charmeleon.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 58,
+        "Attack": 64,
+        "Defense": 58,
+        "Sp. Attack": 80,
+        "Sp. Defense": 65,
+        "Speed": 80
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 6,
+      "pokedex_number": "0006",
+      "name": {
+        "english": "Charizard",
+        "japanese": "リザードン",
+        "chinese": "喷火龙",
+        "french": "Dracaufeu"
+      },
+      "type": [
+        "Fire",
+        "Flying"
+      ],
+      "base": {
+        "HP": 78,
+        "Attack": 84,
+        "Defense": 78,
+        "Sp. Attack": 109,
+        "Sp. Defense": 85,
+        "Speed": 100
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0006_charizard.fbx",
+          "texture_path": "3d_models/textures/0006_charizard.png",
+          "animation_path": "3d_models/animations/0006_charizard.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 78,
+        "Attack": 84,
+        "Defense": 78,
+        "Sp. Attack": 109,
+        "Sp. Defense": 85,
+        "Speed": 100
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 7,
+      "pokedex_number": "0007",
+      "name": {
+        "english": "Squirtle",
+        "japanese": "ゼニガメ",
+        "chinese": "杰尼龟",
+        "french": "Carapuce"
+      },
+      "type": [
+        "Water"
+      ],
+      "base": {
+        "HP": 44,
+        "Attack": 48,
+        "Defense": 65,
+        "Sp. Attack": 50,
+        "Sp. Defense": 64,
+        "Speed": 43
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0007_squirtle.fbx",
+          "texture_path": "3d_models/textures/0007_squirtle.png",
+          "animation_path": "3d_models/animations/0007_squirtle.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 44,
+        "Attack": 48,
+        "Defense": 65,
+        "Sp. Attack": 50,
+        "Sp. Defense": 64,
+        "Speed": 43
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 8,
+      "pokedex_number": "0008",
+      "name": {
+        "english": "Wartortle",
+        "japanese": "カメール",
+        "chinese": "卡咪龟",
+        "french": "Carabaffe"
+      },
+      "type": [
+        "Water"
+      ],
+      "base": {
+        "HP": 59,
+        "Attack": 63,
+        "Defense": 80,
+        "Sp. Attack": 65,
+        "Sp. Defense": 80,
+        "Speed": 58
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0008_wartortle.fbx",
+          "texture_path": "3d_models/textures/0008_wartortle.png",
+          "animation_path": "3d_models/animations/0008_wartortle.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 59,
+        "Attack": 63,
+        "Defense": 80,
+        "Sp. Attack": 65,
+        "Sp. Defense": 80,
+        "Speed": 58
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 9,
+      "pokedex_number": "0009",
+      "name": {
+        "english": "Blastoise",
+        "japanese": "カメックス",
+        "chinese": "水箭龟",
+        "french": "Tortank"
+      },
+      "type": [
+        "Water"
+      ],
+      "base": {
+        "HP": 79,
+        "Attack": 83,
+        "Defense": 100,
+        "Sp. Attack": 85,
+        "Sp. Defense": 105,
+        "Speed": 78
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0009_blastoise.fbx",
+          "texture_path": "3d_models/textures/0009_blastoise.png",
+          "animation_path": "3d_models/animations/0009_blastoise.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 79,
+        "Attack": 83,
+        "Defense": 100,
+        "Sp. Attack": 85,
+        "Sp. Defense": 105,
+        "Speed": 78
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 10,
+      "pokedex_number": "0010",
+      "name": {
+        "english": "Caterpie",
+        "japanese": "キャタピー",
+        "chinese": "绿毛虫",
+        "french": "Chenipan"
+      },
+      "type": [
+        "Bug"
+      ],
+      "base": {
+        "HP": 45,
+        "Attack": 30,
+        "Defense": 35,
+        "Sp. Attack": 20,
+        "Sp. Defense": 20,
+        "Speed": 45
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0010_caterpie.fbx",
+          "texture_path": "3d_models/textures/0010_caterpie.png",
+          "animation_path": "3d_models/animations/0010_caterpie.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 45,
+        "Attack": 30,
+        "Defense": 35,
+        "Sp. Attack": 20,
+        "Sp. Defense": 20,
+        "Speed": 45
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 11,
+      "pokedex_number": "0011",
+      "name": {
+        "english": "Metapod",
+        "japanese": "トランセル",
+        "chinese": "铁甲蛹",
+        "french": "Chrysacier"
+      },
+      "type": [
+        "Bug"
+      ],
+      "base": {
+        "HP": 50,
+        "Attack": 20,
+        "Defense": 55,
+        "Sp. Attack": 25,
+        "Sp. Defense": 25,
+        "Speed": 30
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0011_metapod.fbx",
+          "texture_path": "3d_models/textures/0011_metapod.png",
+          "animation_path": "3d_models/animations/0011_metapod.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 50,
+        "Attack": 20,
+        "Defense": 55,
+        "Sp. Attack": 25,
+        "Sp. Defense": 25,
+        "Speed": 30
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 12,
+      "pokedex_number": "0012",
+      "name": {
+        "english": "Butterfree",
+        "japanese": "バタフリー",
+        "chinese": "巴大蝶",
+        "french": "Papilusion"
+      },
+      "type": [
+        "Bug",
+        "Flying"
+      ],
+      "base": {
+        "HP": 60,
+        "Attack": 45,
+        "Defense": 50,
+        "Sp. Attack": 90,
+        "Sp. Defense": 80,
+        "Speed": 70
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0012_butterfree.fbx",
+          "texture_path": "3d_models/textures/0012_butterfree.png",
+          "animation_path": "3d_models/animations/0012_butterfree.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 60,
+        "Attack": 45,
+        "Defense": 50,
+        "Sp. Attack": 90,
+        "Sp. Defense": 80,
+        "Speed": 70
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 13,
+      "pokedex_number": "0013",
+      "name": {
+        "english": "Weedle",
+        "japanese": "ビードル",
+        "chinese": "独角虫",
+        "french": "Aspicot"
+      },
+      "type": [
+        "Bug",
+        "Poison"
+      ],
+      "base": {
+        "HP": 40,
+        "Attack": 35,
+        "Defense": 30,
+        "Sp. Attack": 20,
+        "Sp. Defense": 20,
+        "Speed": 50
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0013_weedle.fbx",
+          "texture_path": "3d_models/textures/0013_weedle.png",
+          "animation_path": "3d_models/animations/0013_weedle.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 40,
+        "Attack": 35,
+        "Defense": 30,
+        "Sp. Attack": 20,
+        "Sp. Defense": 20,
+        "Speed": 50
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 14,
+      "pokedex_number": "0014",
+      "name": {
+        "english": "Kakuna",
+        "japanese": "コクーン",
+        "chinese": "铁壳蛹",
+        "french": "Coconfort"
+      },
+      "type": [
+        "Bug",
+        "Poison"
+      ],
+      "base": {
+        "HP": 45,
+        "Attack": 25,
+        "Defense": 50,
+        "Sp. Attack": 25,
+        "Sp. Defense": 25,
+        "Speed": 35
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0014_kakuna.fbx",
+          "texture_path": "3d_models/textures/0014_kakuna.png",
+          "animation_path": "3d_models/animations/0014_kakuna.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 45,
+        "Attack": 25,
+        "Defense": 50,
+        "Sp. Attack": 25,
+        "Sp. Defense": 25,
+        "Speed": 35
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 15,
+      "pokedex_number": "0015",
+      "name": {
+        "english": "Beedrill",
+        "japanese": "スピアー",
+        "chinese": "大针蜂",
+        "french": "Dardargnan"
+      },
+      "type": [
+        "Bug",
+        "Poison"
+      ],
+      "base": {
+        "HP": 65,
+        "Attack": 90,
+        "Defense": 40,
+        "Sp. Attack": 45,
+        "Sp. Defense": 80,
+        "Speed": 75
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0015_beedrill.fbx",
+          "texture_path": "3d_models/textures/0015_beedrill.png",
+          "animation_path": "3d_models/animations/0015_beedrill.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 65,
+        "Attack": 90,
+        "Defense": 40,
+        "Sp. Attack": 45,
+        "Sp. Defense": 80,
+        "Speed": 75
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 16,
+      "pokedex_number": "0016",
+      "name": {
+        "english": "Pidgey",
+        "japanese": "ポッポ",
+        "chinese": "波波",
+        "french": "Roucool"
+      },
+      "type": [
+        "Normal",
+        "Flying"
+      ],
+      "base": {
+        "HP": 40,
+        "Attack": 45,
+        "Defense": 40,
+        "Sp. Attack": 35,
+        "Sp. Defense": 35,
+        "Speed": 56
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0016_pidgey.fbx",
+          "texture_path": "3d_models/textures/0016_pidgey.png",
+          "animation_path": "3d_models/animations/0016_pidgey.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 40,
+        "Attack": 45,
+        "Defense": 40,
+        "Sp. Attack": 35,
+        "Sp. Defense": 35,
+        "Speed": 56
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 17,
+      "pokedex_number": "0017",
+      "name": {
+        "english": "Pidgeotto",
+        "japanese": "ピジョン",
+        "chinese": "比比鸟",
+        "french": "Roucoups"
+      },
+      "type": [
+        "Normal",
+        "Flying"
+      ],
+      "base": {
+        "HP": 63,
+        "Attack": 60,
+        "Defense": 55,
+        "Sp. Attack": 50,
+        "Sp. Defense": 50,
+        "Speed": 71
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0017_pidgeotto.fbx",
+          "texture_path": "3d_models/textures/0017_pidgeotto.png",
+          "animation_path": "3d_models/animations/0017_pidgeotto.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 63,
+        "Attack": 60,
+        "Defense": 55,
+        "Sp. Attack": 50,
+        "Sp. Defense": 50,
+        "Speed": 71
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 18,
+      "pokedex_number": "0018",
+      "name": {
+        "english": "Pidgeot",
+        "japanese": "ピジョット",
+        "chinese": "大比鸟",
+        "french": "Roucarnage"
+      },
+      "type": [
+        "Normal",
+        "Flying"
+      ],
+      "base": {
+        "HP": 83,
+        "Attack": 80,
+        "Defense": 75,
+        "Sp. Attack": 70,
+        "Sp. Defense": 70,
+        "Speed": 101
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0018_pidgeot.fbx",
+          "texture_path": "3d_models/textures/0018_pidgeot.png",
+          "animation_path": "3d_models/animations/0018_pidgeot.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 83,
+        "Attack": 80,
+        "Defense": 75,
+        "Sp. Attack": 70,
+        "Sp. Defense": 70,
+        "Speed": 101
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 19,
+      "pokedex_number": "0019",
+      "name": {
+        "english": "Rattata",
+        "japanese": "コラッタ",
+        "chinese": "小拉达",
+        "french": "Rattata"
+      },
+      "type": [
+        "Normal"
+      ],
+      "base": {
+        "HP": 30,
+        "Attack": 56,
+        "Defense": 35,
+        "Sp. Attack": 25,
+        "Sp. Defense": 35,
+        "Speed": 72
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0019_rattata.fbx",
+          "texture_path": "3d_models/textures/0019_rattata.png",
+          "animation_path": "3d_models/animations/0019_rattata.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 30,
+        "Attack": 56,
+        "Defense": 35,
+        "Sp. Attack": 25,
+        "Sp. Defense": 35,
+        "Speed": 72
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 20,
+      "pokedex_number": "0020",
+      "name": {
+        "english": "Raticate",
+        "japanese": "ラッタ",
+        "chinese": "拉达",
+        "french": "Rattatac"
+      },
+      "type": [
+        "Normal"
+      ],
+      "base": {
+        "HP": 55,
+        "Attack": 81,
+        "Defense": 60,
+        "Sp. Attack": 50,
+        "Sp. Defense": 70,
+        "Speed": 97
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0020_raticate.fbx",
+          "texture_path": "3d_models/textures/0020_raticate.png",
+          "animation_path": "3d_models/animations/0020_raticate.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 55,
+        "Attack": 81,
+        "Defense": 60,
+        "Sp. Attack": 50,
+        "Sp. Defense": 70,
+        "Speed": 97
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 21,
+      "pokedex_number": "0021",
+      "name": {
+        "english": "Spearow",
+        "japanese": "オニスズメ",
+        "chinese": "烈雀",
+        "french": "Piafabec"
+      },
+      "type": [
+        "Normal",
+        "Flying"
+      ],
+      "base": {
+        "HP": 40,
+        "Attack": 60,
+        "Defense": 30,
+        "Sp. Attack": 31,
+        "Sp. Defense": 31,
+        "Speed": 70
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0021_spearow.fbx",
+          "texture_path": "3d_models/textures/0021_spearow.png",
+          "animation_path": "3d_models/animations/0021_spearow.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 40,
+        "Attack": 60,
+        "Defense": 30,
+        "Sp. Attack": 31,
+        "Sp. Defense": 31,
+        "Speed": 70
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 22,
+      "pokedex_number": "0022",
+      "name": {
+        "english": "Fearow",
+        "japanese": "オニドリル",
+        "chinese": "大嘴雀",
+        "french": "Rapasdepic"
+      },
+      "type": [
+        "Normal",
+        "Flying"
+      ],
+      "base": {
+        "HP": 65,
+        "Attack": 90,
+        "Defense": 65,
+        "Sp. Attack": 61,
+        "Sp. Defense": 61,
+        "Speed": 100
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0022_fearow.fbx",
+          "texture_path": "3d_models/textures/0022_fearow.png",
+          "animation_path": "3d_models/animations/0022_fearow.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 65,
+        "Attack": 90,
+        "Defense": 65,
+        "Sp. Attack": 61,
+        "Sp. Defense": 61,
+        "Speed": 100
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 23,
+      "pokedex_number": "0023",
+      "name": {
+        "english": "Ekans",
+        "japanese": "アーボ",
+        "chinese": "阿柏蛇",
+        "french": "Abo"
+      },
+      "type": [
+        "Poison"
+      ],
+      "base": {
+        "HP": 35,
+        "Attack": 60,
+        "Defense": 44,
+        "Sp. Attack": 40,
+        "Sp. Defense": 54,
+        "Speed": 55
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0023_ekans.fbx",
+          "texture_path": "3d_models/textures/0023_ekans.png",
+          "animation_path": "3d_models/animations/0023_ekans.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 35,
+        "Attack": 60,
+        "Defense": 44,
+        "Sp. Attack": 40,
+        "Sp. Defense": 54,
+        "Speed": 55
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 24,
+      "pokedex_number": "0024",
+      "name": {
+        "english": "Arbok",
+        "japanese": "アーボック",
+        "chinese": "阿柏怪",
+        "french": "Arbok"
+      },
+      "type": [
+        "Poison"
+      ],
+      "base": {
+        "HP": 60,
+        "Attack": 95,
+        "Defense": 69,
+        "Sp. Attack": 65,
+        "Sp. Defense": 79,
+        "Speed": 80
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0024_arbok.fbx",
+          "texture_path": "3d_models/textures/0024_arbok.png",
+          "animation_path": "3d_models/animations/0024_arbok.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 60,
+        "Attack": 95,
+        "Defense": 69,
+        "Sp. Attack": 65,
+        "Sp. Defense": 79,
+        "Speed": 80
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 25,
+      "pokedex_number": "0025",
+      "name": {
+        "english": "Pikachu",
+        "japanese": "ピカチュウ",
+        "chinese": "皮卡丘",
+        "french": "Pikachu"
+      },
+      "type": [
+        "Electric"
+      ],
+      "base": {
+        "HP": 35,
+        "Attack": 55,
+        "Defense": 40,
+        "Sp. Attack": 50,
+        "Sp. Defense": 50,
+        "Speed": 90
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0025_pikachu.fbx",
+          "texture_path": "3d_models/textures/0025_pikachu.png",
+          "animation_path": "3d_models/animations/0025_pikachu.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 35,
+        "Attack": 55,
+        "Defense": 40,
+        "Sp. Attack": 50,
+        "Sp. Defense": 50,
+        "Speed": 90
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 26,
+      "pokedex_number": "0026",
+      "name": {
+        "english": "Raichu",
+        "japanese": "ライチュウ",
+        "chinese": "雷丘",
+        "french": "Raichu"
+      },
+      "type": [
+        "Electric"
+      ],
+      "base": {
+        "HP": 60,
+        "Attack": 90,
+        "Defense": 55,
+        "Sp. Attack": 90,
+        "Sp. Defense": 80,
+        "Speed": 110
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0026_raichu.fbx",
+          "texture_path": "3d_models/textures/0026_raichu.png",
+          "animation_path": "3d_models/animations/0026_raichu.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 60,
+        "Attack": 90,
+        "Defense": 55,
+        "Sp. Attack": 90,
+        "Sp. Defense": 80,
+        "Speed": 110
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 27,
+      "pokedex_number": "0027",
+      "name": {
+        "english": "Sandshrew",
+        "japanese": "サンド",
+        "chinese": "穿山鼠",
+        "french": "Sabelette"
+      },
+      "type": [
+        "Ground"
+      ],
+      "base": {
+        "HP": 50,
+        "Attack": 75,
+        "Defense": 85,
+        "Sp. Attack": 20,
+        "Sp. Defense": 30,
+        "Speed": 40
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0027_sandshrew.fbx",
+          "texture_path": "3d_models/textures/0027_sandshrew.png",
+          "animation_path": "3d_models/animations/0027_sandshrew.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 50,
+        "Attack": 75,
+        "Defense": 85,
+        "Sp. Attack": 20,
+        "Sp. Defense": 30,
+        "Speed": 40
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 28,
+      "pokedex_number": "0028",
+      "name": {
+        "english": "Sandslash",
+        "japanese": "サンドパン",
+        "chinese": "穿山王",
+        "french": "Sablaireau"
+      },
+      "type": [
+        "Ground"
+      ],
+      "base": {
+        "HP": 75,
+        "Attack": 100,
+        "Defense": 110,
+        "Sp. Attack": 45,
+        "Sp. Defense": 55,
+        "Speed": 65
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0028_sandslash.fbx",
+          "texture_path": "3d_models/textures/0028_sandslash.png",
+          "animation_path": "3d_models/animations/0028_sandslash.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 75,
+        "Attack": 100,
+        "Defense": 110,
+        "Sp. Attack": 45,
+        "Sp. Defense": 55,
+        "Speed": 65
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 29,
+      "pokedex_number": "0029",
+      "name": {
+        "english": "Nidoran♀",
+        "japanese": "ニドラン♀",
+        "chinese": "尼多兰",
+        "french": "Nidoran♀"
+      },
+      "type": [
+        "Poison"
+      ],
+      "base": {
+        "HP": 55,
+        "Attack": 47,
+        "Defense": 52,
+        "Sp. Attack": 40,
+        "Sp. Defense": 40,
+        "Speed": 41
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0029_nidoran♀.fbx",
+          "texture_path": "3d_models/textures/0029_nidoran♀.png",
+          "animation_path": "3d_models/animations/0029_nidoran♀.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 55,
+        "Attack": 47,
+        "Defense": 52,
+        "Sp. Attack": 40,
+        "Sp. Defense": 40,
+        "Speed": 41
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 30,
+      "pokedex_number": "0030",
+      "name": {
+        "english": "Nidorina",
+        "japanese": "ニドリーナ",
+        "chinese": "尼多娜",
+        "french": "Nidorina"
+      },
+      "type": [
+        "Poison"
+      ],
+      "base": {
+        "HP": 70,
+        "Attack": 62,
+        "Defense": 67,
+        "Sp. Attack": 55,
+        "Sp. Defense": 55,
+        "Speed": 56
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0030_nidorina.fbx",
+          "texture_path": "3d_models/textures/0030_nidorina.png",
+          "animation_path": "3d_models/animations/0030_nidorina.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 70,
+        "Attack": 62,
+        "Defense": 67,
+        "Sp. Attack": 55,
+        "Sp. Defense": 55,
+        "Speed": 56
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 31,
+      "pokedex_number": "0031",
+      "name": {
+        "english": "Nidoqueen",
+        "japanese": "ニドクイン",
+        "chinese": "尼多后",
+        "french": "Nidoqueen"
+      },
+      "type": [
+        "Poison",
+        "Ground"
+      ],
+      "base": {
+        "HP": 90,
+        "Attack": 92,
+        "Defense": 87,
+        "Sp. Attack": 75,
+        "Sp. Defense": 85,
+        "Speed": 76
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0031_nidoqueen.fbx",
+          "texture_path": "3d_models/textures/0031_nidoqueen.png",
+          "animation_path": "3d_models/animations/0031_nidoqueen.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 90,
+        "Attack": 92,
+        "Defense": 87,
+        "Sp. Attack": 75,
+        "Sp. Defense": 85,
+        "Speed": 76
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 32,
+      "pokedex_number": "0032",
+      "name": {
+        "english": "Nidoran♂",
+        "japanese": "ニドラン♂",
+        "chinese": "尼多朗",
+        "french": "Nidoran♂"
+      },
+      "type": [
+        "Poison"
+      ],
+      "base": {
+        "HP": 46,
+        "Attack": 57,
+        "Defense": 40,
+        "Sp. Attack": 40,
+        "Sp. Defense": 40,
+        "Speed": 50
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0032_nidoran♂.fbx",
+          "texture_path": "3d_models/textures/0032_nidoran♂.png",
+          "animation_path": "3d_models/animations/0032_nidoran♂.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 46,
+        "Attack": 57,
+        "Defense": 40,
+        "Sp. Attack": 40,
+        "Sp. Defense": 40,
+        "Speed": 50
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 33,
+      "pokedex_number": "0033",
+      "name": {
+        "english": "Nidorino",
+        "japanese": "ニドリーノ",
+        "chinese": "尼多力诺",
+        "french": "Nidorino"
+      },
+      "type": [
+        "Poison"
+      ],
+      "base": {
+        "HP": 61,
+        "Attack": 72,
+        "Defense": 57,
+        "Sp. Attack": 55,
+        "Sp. Defense": 55,
+        "Speed": 65
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0033_nidorino.fbx",
+          "texture_path": "3d_models/textures/0033_nidorino.png",
+          "animation_path": "3d_models/animations/0033_nidorino.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 61,
+        "Attack": 72,
+        "Defense": 57,
+        "Sp. Attack": 55,
+        "Sp. Defense": 55,
+        "Speed": 65
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 34,
+      "pokedex_number": "0034",
+      "name": {
+        "english": "Nidoking",
+        "japanese": "ニドキング",
+        "chinese": "尼多王",
+        "french": "Nidoking"
+      },
+      "type": [
+        "Poison",
+        "Ground"
+      ],
+      "base": {
+        "HP": 81,
+        "Attack": 102,
+        "Defense": 77,
+        "Sp. Attack": 85,
+        "Sp. Defense": 75,
+        "Speed": 85
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0034_nidoking.fbx",
+          "texture_path": "3d_models/textures/0034_nidoking.png",
+          "animation_path": "3d_models/animations/0034_nidoking.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 81,
+        "Attack": 102,
+        "Defense": 77,
+        "Sp. Attack": 85,
+        "Sp. Defense": 75,
+        "Speed": 85
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 35,
+      "pokedex_number": "0035",
+      "name": {
+        "english": "Clefairy",
+        "japanese": "ピッピ",
+        "chinese": "皮皮",
+        "french": "Mélofée"
+      },
+      "type": [
+        "Fairy"
+      ],
+      "base": {
+        "HP": 70,
+        "Attack": 45,
+        "Defense": 48,
+        "Sp. Attack": 60,
+        "Sp. Defense": 65,
+        "Speed": 35
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0035_clefairy.fbx",
+          "texture_path": "3d_models/textures/0035_clefairy.png",
+          "animation_path": "3d_models/animations/0035_clefairy.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 70,
+        "Attack": 45,
+        "Defense": 48,
+        "Sp. Attack": 60,
+        "Sp. Defense": 65,
+        "Speed": 35
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 36,
+      "pokedex_number": "0036",
+      "name": {
+        "english": "Clefable",
+        "japanese": "ピクシー",
+        "chinese": "皮可西",
+        "french": "Mélodelfe"
+      },
+      "type": [
+        "Fairy"
+      ],
+      "base": {
+        "HP": 95,
+        "Attack": 70,
+        "Defense": 73,
+        "Sp. Attack": 95,
+        "Sp. Defense": 90,
+        "Speed": 60
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0036_clefable.fbx",
+          "texture_path": "3d_models/textures/0036_clefable.png",
+          "animation_path": "3d_models/animations/0036_clefable.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 95,
+        "Attack": 70,
+        "Defense": 73,
+        "Sp. Attack": 95,
+        "Sp. Defense": 90,
+        "Speed": 60
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 37,
+      "pokedex_number": "0037",
+      "name": {
+        "english": "Vulpix",
+        "japanese": "ロコン",
+        "chinese": "六尾",
+        "french": "Goupix"
+      },
+      "type": [
+        "Fire"
+      ],
+      "base": {
+        "HP": 38,
+        "Attack": 41,
+        "Defense": 40,
+        "Sp. Attack": 50,
+        "Sp. Defense": 65,
+        "Speed": 65
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0037_vulpix.fbx",
+          "texture_path": "3d_models/textures/0037_vulpix.png",
+          "animation_path": "3d_models/animations/0037_vulpix.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 38,
+        "Attack": 41,
+        "Defense": 40,
+        "Sp. Attack": 50,
+        "Sp. Defense": 65,
+        "Speed": 65
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 38,
+      "pokedex_number": "0038",
+      "name": {
+        "english": "Ninetales",
+        "japanese": "キュウコン",
+        "chinese": "九尾",
+        "french": "Feunard"
+      },
+      "type": [
+        "Fire"
+      ],
+      "base": {
+        "HP": 73,
+        "Attack": 76,
+        "Defense": 75,
+        "Sp. Attack": 81,
+        "Sp. Defense": 100,
+        "Speed": 100
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0038_ninetales.fbx",
+          "texture_path": "3d_models/textures/0038_ninetales.png",
+          "animation_path": "3d_models/animations/0038_ninetales.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 73,
+        "Attack": 76,
+        "Defense": 75,
+        "Sp. Attack": 81,
+        "Sp. Defense": 100,
+        "Speed": 100
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 39,
+      "pokedex_number": "0039",
+      "name": {
+        "english": "Jigglypuff",
+        "japanese": "プリン",
+        "chinese": "胖丁",
+        "french": "Rondoudou"
+      },
+      "type": [
+        "Normal",
+        "Fairy"
+      ],
+      "base": {
+        "HP": 115,
+        "Attack": 45,
+        "Defense": 20,
+        "Sp. Attack": 45,
+        "Sp. Defense": 25,
+        "Speed": 20
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0039_jigglypuff.fbx",
+          "texture_path": "3d_models/textures/0039_jigglypuff.png",
+          "animation_path": "3d_models/animations/0039_jigglypuff.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 115,
+        "Attack": 45,
+        "Defense": 20,
+        "Sp. Attack": 45,
+        "Sp. Defense": 25,
+        "Speed": 20
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 40,
+      "pokedex_number": "0040",
+      "name": {
+        "english": "Wigglytuff",
+        "japanese": "プクリン",
+        "chinese": "胖可丁",
+        "french": "Grodoudou"
+      },
+      "type": [
+        "Normal",
+        "Fairy"
+      ],
+      "base": {
+        "HP": 140,
+        "Attack": 70,
+        "Defense": 45,
+        "Sp. Attack": 85,
+        "Sp. Defense": 50,
+        "Speed": 45
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0040_wigglytuff.fbx",
+          "texture_path": "3d_models/textures/0040_wigglytuff.png",
+          "animation_path": "3d_models/animations/0040_wigglytuff.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 140,
+        "Attack": 70,
+        "Defense": 45,
+        "Sp. Attack": 85,
+        "Sp. Defense": 50,
+        "Speed": 45
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 41,
+      "pokedex_number": "0041",
+      "name": {
+        "english": "Zubat",
+        "japanese": "ズバット",
+        "chinese": "超音蝠",
+        "french": "Nosferapti"
+      },
+      "type": [
+        "Poison",
+        "Flying"
+      ],
+      "base": {
+        "HP": 40,
+        "Attack": 45,
+        "Defense": 35,
+        "Sp. Attack": 30,
+        "Sp. Defense": 40,
+        "Speed": 55
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0041_zubat.fbx",
+          "texture_path": "3d_models/textures/0041_zubat.png",
+          "animation_path": "3d_models/animations/0041_zubat.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 40,
+        "Attack": 45,
+        "Defense": 35,
+        "Sp. Attack": 30,
+        "Sp. Defense": 40,
+        "Speed": 55
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 42,
+      "pokedex_number": "0042",
+      "name": {
+        "english": "Golbat",
+        "japanese": "ゴルバット",
+        "chinese": "大嘴蝠",
+        "french": "Nosferalto"
+      },
+      "type": [
+        "Poison",
+        "Flying"
+      ],
+      "base": {
+        "HP": 75,
+        "Attack": 80,
+        "Defense": 70,
+        "Sp. Attack": 65,
+        "Sp. Defense": 75,
+        "Speed": 90
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0042_golbat.fbx",
+          "texture_path": "3d_models/textures/0042_golbat.png",
+          "animation_path": "3d_models/animations/0042_golbat.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 75,
+        "Attack": 80,
+        "Defense": 70,
+        "Sp. Attack": 65,
+        "Sp. Defense": 75,
+        "Speed": 90
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 43,
+      "pokedex_number": "0043",
+      "name": {
+        "english": "Oddish",
+        "japanese": "ナゾノクサ",
+        "chinese": "走路草",
+        "french": "Mystherbe"
+      },
+      "type": [
+        "Grass",
+        "Poison"
+      ],
+      "base": {
+        "HP": 45,
+        "Attack": 50,
+        "Defense": 55,
+        "Sp. Attack": 75,
+        "Sp. Defense": 65,
+        "Speed": 30
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0043_oddish.fbx",
+          "texture_path": "3d_models/textures/0043_oddish.png",
+          "animation_path": "3d_models/animations/0043_oddish.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 45,
+        "Attack": 50,
+        "Defense": 55,
+        "Sp. Attack": 75,
+        "Sp. Defense": 65,
+        "Speed": 30
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 44,
+      "pokedex_number": "0044",
+      "name": {
+        "english": "Gloom",
+        "japanese": "クサイハナ",
+        "chinese": "臭臭花",
+        "french": "Ortide"
+      },
+      "type": [
+        "Grass",
+        "Poison"
+      ],
+      "base": {
+        "HP": 60,
+        "Attack": 65,
+        "Defense": 70,
+        "Sp. Attack": 85,
+        "Sp. Defense": 75,
+        "Speed": 40
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0044_gloom.fbx",
+          "texture_path": "3d_models/textures/0044_gloom.png",
+          "animation_path": "3d_models/animations/0044_gloom.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 60,
+        "Attack": 65,
+        "Defense": 70,
+        "Sp. Attack": 85,
+        "Sp. Defense": 75,
+        "Speed": 40
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 45,
+      "pokedex_number": "0045",
+      "name": {
+        "english": "Vileplume",
+        "japanese": "ラフレシア",
+        "chinese": "霸王花",
+        "french": "Rafflesia"
+      },
+      "type": [
+        "Grass",
+        "Poison"
+      ],
+      "base": {
+        "HP": 75,
+        "Attack": 80,
+        "Defense": 85,
+        "Sp. Attack": 110,
+        "Sp. Defense": 90,
+        "Speed": 50
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0045_vileplume.fbx",
+          "texture_path": "3d_models/textures/0045_vileplume.png",
+          "animation_path": "3d_models/animations/0045_vileplume.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 75,
+        "Attack": 80,
+        "Defense": 85,
+        "Sp. Attack": 110,
+        "Sp. Defense": 90,
+        "Speed": 50
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 46,
+      "pokedex_number": "0046",
+      "name": {
+        "english": "Paras",
+        "japanese": "パラス",
+        "chinese": "派拉斯",
+        "french": "Paras"
+      },
+      "type": [
+        "Bug",
+        "Grass"
+      ],
+      "base": {
+        "HP": 35,
+        "Attack": 70,
+        "Defense": 55,
+        "Sp. Attack": 45,
+        "Sp. Defense": 55,
+        "Speed": 25
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0046_paras.fbx",
+          "texture_path": "3d_models/textures/0046_paras.png",
+          "animation_path": "3d_models/animations/0046_paras.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 35,
+        "Attack": 70,
+        "Defense": 55,
+        "Sp. Attack": 45,
+        "Sp. Defense": 55,
+        "Speed": 25
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 47,
+      "pokedex_number": "0047",
+      "name": {
+        "english": "Parasect",
+        "japanese": "パラセクト",
+        "chinese": "派拉斯特",
+        "french": "Parasect"
+      },
+      "type": [
+        "Bug",
+        "Grass"
+      ],
+      "base": {
+        "HP": 60,
+        "Attack": 95,
+        "Defense": 80,
+        "Sp. Attack": 60,
+        "Sp. Defense": 80,
+        "Speed": 30
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0047_parasect.fbx",
+          "texture_path": "3d_models/textures/0047_parasect.png",
+          "animation_path": "3d_models/animations/0047_parasect.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 60,
+        "Attack": 95,
+        "Defense": 80,
+        "Sp. Attack": 60,
+        "Sp. Defense": 80,
+        "Speed": 30
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 48,
+      "pokedex_number": "0048",
+      "name": {
+        "english": "Venonat",
+        "japanese": "コンパン",
+        "chinese": "毛球",
+        "french": "Mimitoss"
+      },
+      "type": [
+        "Bug",
+        "Poison"
+      ],
+      "base": {
+        "HP": 60,
+        "Attack": 55,
+        "Defense": 50,
+        "Sp. Attack": 40,
+        "Sp. Defense": 55,
+        "Speed": 45
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0048_venonat.fbx",
+          "texture_path": "3d_models/textures/0048_venonat.png",
+          "animation_path": "3d_models/animations/0048_venonat.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 60,
+        "Attack": 55,
+        "Defense": 50,
+        "Sp. Attack": 40,
+        "Sp. Defense": 55,
+        "Speed": 45
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 49,
+      "pokedex_number": "0049",
+      "name": {
+        "english": "Venomoth",
+        "japanese": "モルフォン",
+        "chinese": "摩鲁蛾",
+        "french": "Aéromite"
+      },
+      "type": [
+        "Bug",
+        "Poison"
+      ],
+      "base": {
+        "HP": 70,
+        "Attack": 65,
+        "Defense": 60,
+        "Sp. Attack": 90,
+        "Sp. Defense": 75,
+        "Speed": 90
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0049_venomoth.fbx",
+          "texture_path": "3d_models/textures/0049_venomoth.png",
+          "animation_path": "3d_models/animations/0049_venomoth.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 70,
+        "Attack": 65,
+        "Defense": 60,
+        "Sp. Attack": 90,
+        "Sp. Defense": 75,
+        "Speed": 90
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 50,
+      "pokedex_number": "0050",
+      "name": {
+        "english": "Diglett",
+        "japanese": "ディグダ",
+        "chinese": "地鼠",
+        "french": "Taupiqueur"
+      },
+      "type": [
+        "Ground"
+      ],
+      "base": {
+        "HP": 10,
+        "Attack": 55,
+        "Defense": 25,
+        "Sp. Attack": 35,
+        "Sp. Defense": 45,
+        "Speed": 95
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0050_diglett.fbx",
+          "texture_path": "3d_models/textures/0050_diglett.png",
+          "animation_path": "3d_models/animations/0050_diglett.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 10,
+        "Attack": 55,
+        "Defense": 25,
+        "Sp. Attack": 35,
+        "Sp. Defense": 45,
+        "Speed": 95
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 51,
+      "pokedex_number": "0051",
+      "name": {
+        "english": "Dugtrio",
+        "japanese": "ダグトリオ",
+        "chinese": "三地鼠",
+        "french": "Triopikeur"
+      },
+      "type": [
+        "Ground"
+      ],
+      "base": {
+        "HP": 35,
+        "Attack": 100,
+        "Defense": 50,
+        "Sp. Attack": 50,
+        "Sp. Defense": 70,
+        "Speed": 120
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0051_dugtrio.fbx",
+          "texture_path": "3d_models/textures/0051_dugtrio.png",
+          "animation_path": "3d_models/animations/0051_dugtrio.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 35,
+        "Attack": 100,
+        "Defense": 50,
+        "Sp. Attack": 50,
+        "Sp. Defense": 70,
+        "Speed": 120
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 52,
+      "pokedex_number": "0052",
+      "name": {
+        "english": "Meowth",
+        "japanese": "ニャース",
+        "chinese": "喵喵",
+        "french": "Miaouss"
+      },
+      "type": [
+        "Normal"
+      ],
+      "base": {
+        "HP": 40,
+        "Attack": 45,
+        "Defense": 35,
+        "Sp. Attack": 40,
+        "Sp. Defense": 40,
+        "Speed": 90
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0052_meowth.fbx",
+          "texture_path": "3d_models/textures/0052_meowth.png",
+          "animation_path": "3d_models/animations/0052_meowth.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 40,
+        "Attack": 45,
+        "Defense": 35,
+        "Sp. Attack": 40,
+        "Sp. Defense": 40,
+        "Speed": 90
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 53,
+      "pokedex_number": "0053",
+      "name": {
+        "english": "Persian",
+        "japanese": "ペルシアン",
+        "chinese": "猫老大",
+        "french": "Persian"
+      },
+      "type": [
+        "Normal"
+      ],
+      "base": {
+        "HP": 65,
+        "Attack": 70,
+        "Defense": 60,
+        "Sp. Attack": 65,
+        "Sp. Defense": 65,
+        "Speed": 115
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0053_persian.fbx",
+          "texture_path": "3d_models/textures/0053_persian.png",
+          "animation_path": "3d_models/animations/0053_persian.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 65,
+        "Attack": 70,
+        "Defense": 60,
+        "Sp. Attack": 65,
+        "Sp. Defense": 65,
+        "Speed": 115
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 54,
+      "pokedex_number": "0054",
+      "name": {
+        "english": "Psyduck",
+        "japanese": "コダック",
+        "chinese": "可达鸭",
+        "french": "Psykokwak"
+      },
+      "type": [
+        "Water"
+      ],
+      "base": {
+        "HP": 50,
+        "Attack": 52,
+        "Defense": 48,
+        "Sp. Attack": 65,
+        "Sp. Defense": 50,
+        "Speed": 55
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0054_psyduck.fbx",
+          "texture_path": "3d_models/textures/0054_psyduck.png",
+          "animation_path": "3d_models/animations/0054_psyduck.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 50,
+        "Attack": 52,
+        "Defense": 48,
+        "Sp. Attack": 65,
+        "Sp. Defense": 50,
+        "Speed": 55
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 55,
+      "pokedex_number": "0055",
+      "name": {
+        "english": "Golduck",
+        "japanese": "ゴルダック",
+        "chinese": "哥达鸭",
+        "french": "Akwakwak"
+      },
+      "type": [
+        "Water"
+      ],
+      "base": {
+        "HP": 80,
+        "Attack": 82,
+        "Defense": 78,
+        "Sp. Attack": 95,
+        "Sp. Defense": 80,
+        "Speed": 85
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0055_golduck.fbx",
+          "texture_path": "3d_models/textures/0055_golduck.png",
+          "animation_path": "3d_models/animations/0055_golduck.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 80,
+        "Attack": 82,
+        "Defense": 78,
+        "Sp. Attack": 95,
+        "Sp. Defense": 80,
+        "Speed": 85
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 56,
+      "pokedex_number": "0056",
+      "name": {
+        "english": "Mankey",
+        "japanese": "マンキー",
+        "chinese": "猴怪",
+        "french": "Férosinge"
+      },
+      "type": [
+        "Fighting"
+      ],
+      "base": {
+        "HP": 40,
+        "Attack": 80,
+        "Defense": 35,
+        "Sp. Attack": 35,
+        "Sp. Defense": 45,
+        "Speed": 70
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0056_mankey.fbx",
+          "texture_path": "3d_models/textures/0056_mankey.png",
+          "animation_path": "3d_models/animations/0056_mankey.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 40,
+        "Attack": 80,
+        "Defense": 35,
+        "Sp. Attack": 35,
+        "Sp. Defense": 45,
+        "Speed": 70
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 57,
+      "pokedex_number": "0057",
+      "name": {
+        "english": "Primeape",
+        "japanese": "オコリザル",
+        "chinese": "火暴猴",
+        "french": "Colossinge"
+      },
+      "type": [
+        "Fighting"
+      ],
+      "base": {
+        "HP": 65,
+        "Attack": 105,
+        "Defense": 60,
+        "Sp. Attack": 60,
+        "Sp. Defense": 70,
+        "Speed": 95
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0057_primeape.fbx",
+          "texture_path": "3d_models/textures/0057_primeape.png",
+          "animation_path": "3d_models/animations/0057_primeape.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 65,
+        "Attack": 105,
+        "Defense": 60,
+        "Sp. Attack": 60,
+        "Sp. Defense": 70,
+        "Speed": 95
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 58,
+      "pokedex_number": "0058",
+      "name": {
+        "english": "Growlithe",
+        "japanese": "ガーディ",
+        "chinese": "卡蒂狗",
+        "french": "Caninos"
+      },
+      "type": [
+        "Fire"
+      ],
+      "base": {
+        "HP": 55,
+        "Attack": 70,
+        "Defense": 45,
+        "Sp. Attack": 70,
+        "Sp. Defense": 50,
+        "Speed": 60
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0058_growlithe.fbx",
+          "texture_path": "3d_models/textures/0058_growlithe.png",
+          "animation_path": "3d_models/animations/0058_growlithe.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 55,
+        "Attack": 70,
+        "Defense": 45,
+        "Sp. Attack": 70,
+        "Sp. Defense": 50,
+        "Speed": 60
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 59,
+      "pokedex_number": "0059",
+      "name": {
+        "english": "Arcanine",
+        "japanese": "ウインディ",
+        "chinese": "风速狗",
+        "french": "Arcanin"
+      },
+      "type": [
+        "Fire"
+      ],
+      "base": {
+        "HP": 90,
+        "Attack": 110,
+        "Defense": 80,
+        "Sp. Attack": 100,
+        "Sp. Defense": 80,
+        "Speed": 95
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0059_arcanine.fbx",
+          "texture_path": "3d_models/textures/0059_arcanine.png",
+          "animation_path": "3d_models/animations/0059_arcanine.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 90,
+        "Attack": 110,
+        "Defense": 80,
+        "Sp. Attack": 100,
+        "Sp. Defense": 80,
+        "Speed": 95
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 60,
+      "pokedex_number": "0060",
+      "name": {
+        "english": "Poliwag",
+        "japanese": "ニョロモ",
+        "chinese": "蚊香蝌蚪",
+        "french": "Ptitard"
+      },
+      "type": [
+        "Water"
+      ],
+      "base": {
+        "HP": 40,
+        "Attack": 50,
+        "Defense": 40,
+        "Sp. Attack": 40,
+        "Sp. Defense": 40,
+        "Speed": 90
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0060_poliwag.fbx",
+          "texture_path": "3d_models/textures/0060_poliwag.png",
+          "animation_path": "3d_models/animations/0060_poliwag.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 40,
+        "Attack": 50,
+        "Defense": 40,
+        "Sp. Attack": 40,
+        "Sp. Defense": 40,
+        "Speed": 90
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 61,
+      "pokedex_number": "0061",
+      "name": {
+        "english": "Poliwhirl",
+        "japanese": "ニョロゾ",
+        "chinese": "蚊香君",
+        "french": "Têtarte"
+      },
+      "type": [
+        "Water"
+      ],
+      "base": {
+        "HP": 65,
+        "Attack": 65,
+        "Defense": 65,
+        "Sp. Attack": 50,
+        "Sp. Defense": 50,
+        "Speed": 90
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0061_poliwhirl.fbx",
+          "texture_path": "3d_models/textures/0061_poliwhirl.png",
+          "animation_path": "3d_models/animations/0061_poliwhirl.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 65,
+        "Attack": 65,
+        "Defense": 65,
+        "Sp. Attack": 50,
+        "Sp. Defense": 50,
+        "Speed": 90
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 62,
+      "pokedex_number": "0062",
+      "name": {
+        "english": "Poliwrath",
+        "japanese": "ニョロボン",
+        "chinese": "蚊香泳士",
+        "french": "Tartard"
+      },
+      "type": [
+        "Water",
+        "Fighting"
+      ],
+      "base": {
+        "HP": 90,
+        "Attack": 95,
+        "Defense": 95,
+        "Sp. Attack": 70,
+        "Sp. Defense": 90,
+        "Speed": 70
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0062_poliwrath.fbx",
+          "texture_path": "3d_models/textures/0062_poliwrath.png",
+          "animation_path": "3d_models/animations/0062_poliwrath.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 90,
+        "Attack": 95,
+        "Defense": 95,
+        "Sp. Attack": 70,
+        "Sp. Defense": 90,
+        "Speed": 70
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 63,
+      "pokedex_number": "0063",
+      "name": {
+        "english": "Abra",
+        "japanese": "ケーシィ",
+        "chinese": "凯西",
+        "french": "Abra"
+      },
+      "type": [
+        "Psychic"
+      ],
+      "base": {
+        "HP": 25,
+        "Attack": 20,
+        "Defense": 15,
+        "Sp. Attack": 105,
+        "Sp. Defense": 55,
+        "Speed": 90
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0063_abra.fbx",
+          "texture_path": "3d_models/textures/0063_abra.png",
+          "animation_path": "3d_models/animations/0063_abra.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 25,
+        "Attack": 20,
+        "Defense": 15,
+        "Sp. Attack": 105,
+        "Sp. Defense": 55,
+        "Speed": 90
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 64,
+      "pokedex_number": "0064",
+      "name": {
+        "english": "Kadabra",
+        "japanese": "ユンゲラー",
+        "chinese": "勇基拉",
+        "french": "Kadabra"
+      },
+      "type": [
+        "Psychic"
+      ],
+      "base": {
+        "HP": 40,
+        "Attack": 35,
+        "Defense": 30,
+        "Sp. Attack": 120,
+        "Sp. Defense": 70,
+        "Speed": 105
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0064_kadabra.fbx",
+          "texture_path": "3d_models/textures/0064_kadabra.png",
+          "animation_path": "3d_models/animations/0064_kadabra.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 40,
+        "Attack": 35,
+        "Defense": 30,
+        "Sp. Attack": 120,
+        "Sp. Defense": 70,
+        "Speed": 105
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 65,
+      "pokedex_number": "0065",
+      "name": {
+        "english": "Alakazam",
+        "japanese": "フーディン",
+        "chinese": "胡地",
+        "french": "Alakazam"
+      },
+      "type": [
+        "Psychic"
+      ],
+      "base": {
+        "HP": 55,
+        "Attack": 50,
+        "Defense": 45,
+        "Sp. Attack": 135,
+        "Sp. Defense": 95,
+        "Speed": 120
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0065_alakazam.fbx",
+          "texture_path": "3d_models/textures/0065_alakazam.png",
+          "animation_path": "3d_models/animations/0065_alakazam.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 55,
+        "Attack": 50,
+        "Defense": 45,
+        "Sp. Attack": 135,
+        "Sp. Defense": 95,
+        "Speed": 120
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 66,
+      "pokedex_number": "0066",
+      "name": {
+        "english": "Machop",
+        "japanese": "ワンリキー",
+        "chinese": "腕力",
+        "french": "Machoc"
+      },
+      "type": [
+        "Fighting"
+      ],
+      "base": {
+        "HP": 70,
+        "Attack": 80,
+        "Defense": 50,
+        "Sp. Attack": 35,
+        "Sp. Defense": 35,
+        "Speed": 35
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0066_machop.fbx",
+          "texture_path": "3d_models/textures/0066_machop.png",
+          "animation_path": "3d_models/animations/0066_machop.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 70,
+        "Attack": 80,
+        "Defense": 50,
+        "Sp. Attack": 35,
+        "Sp. Defense": 35,
+        "Speed": 35
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 67,
+      "pokedex_number": "0067",
+      "name": {
+        "english": "Machoke",
+        "japanese": "ゴーリキー",
+        "chinese": "豪力",
+        "french": "Machopeur"
+      },
+      "type": [
+        "Fighting"
+      ],
+      "base": {
+        "HP": 80,
+        "Attack": 100,
+        "Defense": 70,
+        "Sp. Attack": 50,
+        "Sp. Defense": 60,
+        "Speed": 45
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0067_machoke.fbx",
+          "texture_path": "3d_models/textures/0067_machoke.png",
+          "animation_path": "3d_models/animations/0067_machoke.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 80,
+        "Attack": 100,
+        "Defense": 70,
+        "Sp. Attack": 50,
+        "Sp. Defense": 60,
+        "Speed": 45
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 68,
+      "pokedex_number": "0068",
+      "name": {
+        "english": "Machamp",
+        "japanese": "カイリキー",
+        "chinese": "怪力",
+        "french": "Mackogneur"
+      },
+      "type": [
+        "Fighting"
+      ],
+      "base": {
+        "HP": 90,
+        "Attack": 130,
+        "Defense": 80,
+        "Sp. Attack": 65,
+        "Sp. Defense": 85,
+        "Speed": 55
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0068_machamp.fbx",
+          "texture_path": "3d_models/textures/0068_machamp.png",
+          "animation_path": "3d_models/animations/0068_machamp.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 90,
+        "Attack": 130,
+        "Defense": 80,
+        "Sp. Attack": 65,
+        "Sp. Defense": 85,
+        "Speed": 55
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 69,
+      "pokedex_number": "0069",
+      "name": {
+        "english": "Bellsprout",
+        "japanese": "マダツボミ",
+        "chinese": "喇叭芽",
+        "french": "Chétiflor"
+      },
+      "type": [
+        "Grass",
+        "Poison"
+      ],
+      "base": {
+        "HP": 50,
+        "Attack": 75,
+        "Defense": 35,
+        "Sp. Attack": 70,
+        "Sp. Defense": 30,
+        "Speed": 40
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0069_bellsprout.fbx",
+          "texture_path": "3d_models/textures/0069_bellsprout.png",
+          "animation_path": "3d_models/animations/0069_bellsprout.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 50,
+        "Attack": 75,
+        "Defense": 35,
+        "Sp. Attack": 70,
+        "Sp. Defense": 30,
+        "Speed": 40
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 70,
+      "pokedex_number": "0070",
+      "name": {
+        "english": "Weepinbell",
+        "japanese": "ウツドン",
+        "chinese": "口呆花",
+        "french": "Boustiflor"
+      },
+      "type": [
+        "Grass",
+        "Poison"
+      ],
+      "base": {
+        "HP": 65,
+        "Attack": 90,
+        "Defense": 50,
+        "Sp. Attack": 85,
+        "Sp. Defense": 45,
+        "Speed": 55
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0070_weepinbell.fbx",
+          "texture_path": "3d_models/textures/0070_weepinbell.png",
+          "animation_path": "3d_models/animations/0070_weepinbell.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 65,
+        "Attack": 90,
+        "Defense": 50,
+        "Sp. Attack": 85,
+        "Sp. Defense": 45,
+        "Speed": 55
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 71,
+      "pokedex_number": "0071",
+      "name": {
+        "english": "Victreebel",
+        "japanese": "ウツボット",
+        "chinese": "大食花",
+        "french": "Empiflor"
+      },
+      "type": [
+        "Grass",
+        "Poison"
+      ],
+      "base": {
+        "HP": 80,
+        "Attack": 105,
+        "Defense": 65,
+        "Sp. Attack": 100,
+        "Sp. Defense": 70,
+        "Speed": 70
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0071_victreebel.fbx",
+          "texture_path": "3d_models/textures/0071_victreebel.png",
+          "animation_path": "3d_models/animations/0071_victreebel.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 80,
+        "Attack": 105,
+        "Defense": 65,
+        "Sp. Attack": 100,
+        "Sp. Defense": 70,
+        "Speed": 70
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 72,
+      "pokedex_number": "0072",
+      "name": {
+        "english": "Tentacool",
+        "japanese": "メノクラゲ",
+        "chinese": "玛瑙水母",
+        "french": "Tentacool"
+      },
+      "type": [
+        "Water",
+        "Poison"
+      ],
+      "base": {
+        "HP": 40,
+        "Attack": 40,
+        "Defense": 35,
+        "Sp. Attack": 50,
+        "Sp. Defense": 100,
+        "Speed": 70
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0072_tentacool.fbx",
+          "texture_path": "3d_models/textures/0072_tentacool.png",
+          "animation_path": "3d_models/animations/0072_tentacool.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 40,
+        "Attack": 40,
+        "Defense": 35,
+        "Sp. Attack": 50,
+        "Sp. Defense": 100,
+        "Speed": 70
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 73,
+      "pokedex_number": "0073",
+      "name": {
+        "english": "Tentacruel",
+        "japanese": "ドククラゲ",
+        "chinese": "毒刺水母",
+        "french": "Tentacruel"
+      },
+      "type": [
+        "Water",
+        "Poison"
+      ],
+      "base": {
+        "HP": 80,
+        "Attack": 70,
+        "Defense": 65,
+        "Sp. Attack": 80,
+        "Sp. Defense": 120,
+        "Speed": 100
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0073_tentacruel.fbx",
+          "texture_path": "3d_models/textures/0073_tentacruel.png",
+          "animation_path": "3d_models/animations/0073_tentacruel.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 80,
+        "Attack": 70,
+        "Defense": 65,
+        "Sp. Attack": 80,
+        "Sp. Defense": 120,
+        "Speed": 100
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 74,
+      "pokedex_number": "0074",
+      "name": {
+        "english": "Geodude",
+        "japanese": "イシツブテ",
+        "chinese": "小拳石",
+        "french": "Racaillou"
+      },
+      "type": [
+        "Rock",
+        "Ground"
+      ],
+      "base": {
+        "HP": 40,
+        "Attack": 80,
+        "Defense": 100,
+        "Sp. Attack": 30,
+        "Sp. Defense": 30,
+        "Speed": 20
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0074_geodude.fbx",
+          "texture_path": "3d_models/textures/0074_geodude.png",
+          "animation_path": "3d_models/animations/0074_geodude.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 40,
+        "Attack": 80,
+        "Defense": 100,
+        "Sp. Attack": 30,
+        "Sp. Defense": 30,
+        "Speed": 20
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 75,
+      "pokedex_number": "0075",
+      "name": {
+        "english": "Graveler",
+        "japanese": "ゴローン",
+        "chinese": "隆隆石",
+        "french": "Gravalanch"
+      },
+      "type": [
+        "Rock",
+        "Ground"
+      ],
+      "base": {
+        "HP": 55,
+        "Attack": 95,
+        "Defense": 115,
+        "Sp. Attack": 45,
+        "Sp. Defense": 45,
+        "Speed": 35
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0075_graveler.fbx",
+          "texture_path": "3d_models/textures/0075_graveler.png",
+          "animation_path": "3d_models/animations/0075_graveler.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 55,
+        "Attack": 95,
+        "Defense": 115,
+        "Sp. Attack": 45,
+        "Sp. Defense": 45,
+        "Speed": 35
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 76,
+      "pokedex_number": "0076",
+      "name": {
+        "english": "Golem",
+        "japanese": "ゴローニャ",
+        "chinese": "隆隆岩",
+        "french": "Grolem"
+      },
+      "type": [
+        "Rock",
+        "Ground"
+      ],
+      "base": {
+        "HP": 80,
+        "Attack": 120,
+        "Defense": 130,
+        "Sp. Attack": 55,
+        "Sp. Defense": 65,
+        "Speed": 45
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0076_golem.fbx",
+          "texture_path": "3d_models/textures/0076_golem.png",
+          "animation_path": "3d_models/animations/0076_golem.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 80,
+        "Attack": 120,
+        "Defense": 130,
+        "Sp. Attack": 55,
+        "Sp. Defense": 65,
+        "Speed": 45
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 77,
+      "pokedex_number": "0077",
+      "name": {
+        "english": "Ponyta",
+        "japanese": "ポニータ",
+        "chinese": "小火马",
+        "french": "Ponyta"
+      },
+      "type": [
+        "Fire"
+      ],
+      "base": {
+        "HP": 50,
+        "Attack": 85,
+        "Defense": 55,
+        "Sp. Attack": 65,
+        "Sp. Defense": 65,
+        "Speed": 90
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0077_ponyta.fbx",
+          "texture_path": "3d_models/textures/0077_ponyta.png",
+          "animation_path": "3d_models/animations/0077_ponyta.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 50,
+        "Attack": 85,
+        "Defense": 55,
+        "Sp. Attack": 65,
+        "Sp. Defense": 65,
+        "Speed": 90
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 78,
+      "pokedex_number": "0078",
+      "name": {
+        "english": "Rapidash",
+        "japanese": "ギャロップ",
+        "chinese": "烈焰马",
+        "french": "Galopa"
+      },
+      "type": [
+        "Fire"
+      ],
+      "base": {
+        "HP": 65,
+        "Attack": 100,
+        "Defense": 70,
+        "Sp. Attack": 80,
+        "Sp. Defense": 80,
+        "Speed": 105
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0078_rapidash.fbx",
+          "texture_path": "3d_models/textures/0078_rapidash.png",
+          "animation_path": "3d_models/animations/0078_rapidash.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 65,
+        "Attack": 100,
+        "Defense": 70,
+        "Sp. Attack": 80,
+        "Sp. Defense": 80,
+        "Speed": 105
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 79,
+      "pokedex_number": "0079",
+      "name": {
+        "english": "Slowpoke",
+        "japanese": "ヤドン",
+        "chinese": "呆呆兽",
+        "french": "Ramoloss"
+      },
+      "type": [
+        "Water",
+        "Psychic"
+      ],
+      "base": {
+        "HP": 90,
+        "Attack": 65,
+        "Defense": 65,
+        "Sp. Attack": 40,
+        "Sp. Defense": 40,
+        "Speed": 15
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0079_slowpoke.fbx",
+          "texture_path": "3d_models/textures/0079_slowpoke.png",
+          "animation_path": "3d_models/animations/0079_slowpoke.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 90,
+        "Attack": 65,
+        "Defense": 65,
+        "Sp. Attack": 40,
+        "Sp. Defense": 40,
+        "Speed": 15
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 80,
+      "pokedex_number": "0080",
+      "name": {
+        "english": "Slowbro",
+        "japanese": "ヤドラン",
+        "chinese": "呆壳兽",
+        "french": "Flagadoss"
+      },
+      "type": [
+        "Water",
+        "Psychic"
+      ],
+      "base": {
+        "HP": 95,
+        "Attack": 75,
+        "Defense": 110,
+        "Sp. Attack": 100,
+        "Sp. Defense": 80,
+        "Speed": 30
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0080_slowbro.fbx",
+          "texture_path": "3d_models/textures/0080_slowbro.png",
+          "animation_path": "3d_models/animations/0080_slowbro.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 95,
+        "Attack": 75,
+        "Defense": 110,
+        "Sp. Attack": 100,
+        "Sp. Defense": 80,
+        "Speed": 30
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 81,
+      "pokedex_number": "0081",
+      "name": {
+        "english": "Magnemite",
+        "japanese": "コイル",
+        "chinese": "小磁怪",
+        "french": "Magnéti"
+      },
+      "type": [
+        "Electric",
+        "Steel"
+      ],
+      "base": {
+        "HP": 25,
+        "Attack": 35,
+        "Defense": 70,
+        "Sp. Attack": 95,
+        "Sp. Defense": 55,
+        "Speed": 45
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0081_magnemite.fbx",
+          "texture_path": "3d_models/textures/0081_magnemite.png",
+          "animation_path": "3d_models/animations/0081_magnemite.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 25,
+        "Attack": 35,
+        "Defense": 70,
+        "Sp. Attack": 95,
+        "Sp. Defense": 55,
+        "Speed": 45
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 82,
+      "pokedex_number": "0082",
+      "name": {
+        "english": "Magneton",
+        "japanese": "レアコイル",
+        "chinese": "三合一磁怪",
+        "french": "Magnéton"
+      },
+      "type": [
+        "Electric",
+        "Steel"
+      ],
+      "base": {
+        "HP": 50,
+        "Attack": 60,
+        "Defense": 95,
+        "Sp. Attack": 120,
+        "Sp. Defense": 70,
+        "Speed": 70
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0082_magneton.fbx",
+          "texture_path": "3d_models/textures/0082_magneton.png",
+          "animation_path": "3d_models/animations/0082_magneton.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 50,
+        "Attack": 60,
+        "Defense": 95,
+        "Sp. Attack": 120,
+        "Sp. Defense": 70,
+        "Speed": 70
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 83,
+      "pokedex_number": "0083",
+      "name": {
+        "english": "Farfetch'd",
+        "japanese": "カモネギ",
+        "chinese": "大葱鸭",
+        "french": "Canarticho"
+      },
+      "type": [
+        "Normal",
+        "Flying"
+      ],
+      "base": {
+        "HP": 52,
+        "Attack": 90,
+        "Defense": 55,
+        "Sp. Attack": 58,
+        "Sp. Defense": 62,
+        "Speed": 60
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0083_farfetch'd.fbx",
+          "texture_path": "3d_models/textures/0083_farfetch'd.png",
+          "animation_path": "3d_models/animations/0083_farfetch'd.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 52,
+        "Attack": 90,
+        "Defense": 55,
+        "Sp. Attack": 58,
+        "Sp. Defense": 62,
+        "Speed": 60
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 84,
+      "pokedex_number": "0084",
+      "name": {
+        "english": "Doduo",
+        "japanese": "ドードー",
+        "chinese": "嘟嘟",
+        "french": "Doduo"
+      },
+      "type": [
+        "Normal",
+        "Flying"
+      ],
+      "base": {
+        "HP": 35,
+        "Attack": 85,
+        "Defense": 45,
+        "Sp. Attack": 35,
+        "Sp. Defense": 35,
+        "Speed": 75
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0084_doduo.fbx",
+          "texture_path": "3d_models/textures/0084_doduo.png",
+          "animation_path": "3d_models/animations/0084_doduo.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 35,
+        "Attack": 85,
+        "Defense": 45,
+        "Sp. Attack": 35,
+        "Sp. Defense": 35,
+        "Speed": 75
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 85,
+      "pokedex_number": "0085",
+      "name": {
+        "english": "Dodrio",
+        "japanese": "ドードリオ",
+        "chinese": "嘟嘟利",
+        "french": "Dodrio"
+      },
+      "type": [
+        "Normal",
+        "Flying"
+      ],
+      "base": {
+        "HP": 60,
+        "Attack": 110,
+        "Defense": 70,
+        "Sp. Attack": 60,
+        "Sp. Defense": 60,
+        "Speed": 110
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0085_dodrio.fbx",
+          "texture_path": "3d_models/textures/0085_dodrio.png",
+          "animation_path": "3d_models/animations/0085_dodrio.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 60,
+        "Attack": 110,
+        "Defense": 70,
+        "Sp. Attack": 60,
+        "Sp. Defense": 60,
+        "Speed": 110
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 86,
+      "pokedex_number": "0086",
+      "name": {
+        "english": "Seel",
+        "japanese": "パウワウ",
+        "chinese": "小海狮",
+        "french": "Otaria"
+      },
+      "type": [
+        "Water"
+      ],
+      "base": {
+        "HP": 65,
+        "Attack": 45,
+        "Defense": 55,
+        "Sp. Attack": 45,
+        "Sp. Defense": 70,
+        "Speed": 45
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0086_seel.fbx",
+          "texture_path": "3d_models/textures/0086_seel.png",
+          "animation_path": "3d_models/animations/0086_seel.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 65,
+        "Attack": 45,
+        "Defense": 55,
+        "Sp. Attack": 45,
+        "Sp. Defense": 70,
+        "Speed": 45
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 87,
+      "pokedex_number": "0087",
+      "name": {
+        "english": "Dewgong",
+        "japanese": "ジュゴン",
+        "chinese": "白海狮",
+        "french": "Lamantine"
+      },
+      "type": [
+        "Water",
+        "Ice"
+      ],
+      "base": {
+        "HP": 90,
+        "Attack": 70,
+        "Defense": 80,
+        "Sp. Attack": 70,
+        "Sp. Defense": 95,
+        "Speed": 70
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0087_dewgong.fbx",
+          "texture_path": "3d_models/textures/0087_dewgong.png",
+          "animation_path": "3d_models/animations/0087_dewgong.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 90,
+        "Attack": 70,
+        "Defense": 80,
+        "Sp. Attack": 70,
+        "Sp. Defense": 95,
+        "Speed": 70
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 88,
+      "pokedex_number": "0088",
+      "name": {
+        "english": "Grimer",
+        "japanese": "ベトベター",
+        "chinese": "臭泥",
+        "french": "Tadmorv"
+      },
+      "type": [
+        "Poison"
+      ],
+      "base": {
+        "HP": 80,
+        "Attack": 80,
+        "Defense": 50,
+        "Sp. Attack": 40,
+        "Sp. Defense": 50,
+        "Speed": 25
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0088_grimer.fbx",
+          "texture_path": "3d_models/textures/0088_grimer.png",
+          "animation_path": "3d_models/animations/0088_grimer.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 80,
+        "Attack": 80,
+        "Defense": 50,
+        "Sp. Attack": 40,
+        "Sp. Defense": 50,
+        "Speed": 25
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 89,
+      "pokedex_number": "0089",
+      "name": {
+        "english": "Muk",
+        "japanese": "ベトベトン",
+        "chinese": "臭臭泥",
+        "french": "Grotadmorv"
+      },
+      "type": [
+        "Poison"
+      ],
+      "base": {
+        "HP": 105,
+        "Attack": 105,
+        "Defense": 75,
+        "Sp. Attack": 65,
+        "Sp. Defense": 100,
+        "Speed": 50
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0089_muk.fbx",
+          "texture_path": "3d_models/textures/0089_muk.png",
+          "animation_path": "3d_models/animations/0089_muk.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 105,
+        "Attack": 105,
+        "Defense": 75,
+        "Sp. Attack": 65,
+        "Sp. Defense": 100,
+        "Speed": 50
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 90,
+      "pokedex_number": "0090",
+      "name": {
+        "english": "Shellder",
+        "japanese": "シェルダー",
+        "chinese": "大舌贝",
+        "french": "Kokiyas"
+      },
+      "type": [
+        "Water"
+      ],
+      "base": {
+        "HP": 30,
+        "Attack": 65,
+        "Defense": 100,
+        "Sp. Attack": 45,
+        "Sp. Defense": 25,
+        "Speed": 40
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0090_shellder.fbx",
+          "texture_path": "3d_models/textures/0090_shellder.png",
+          "animation_path": "3d_models/animations/0090_shellder.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 30,
+        "Attack": 65,
+        "Defense": 100,
+        "Sp. Attack": 45,
+        "Sp. Defense": 25,
+        "Speed": 40
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 91,
+      "pokedex_number": "0091",
+      "name": {
+        "english": "Cloyster",
+        "japanese": "パルシェン",
+        "chinese": "刺甲贝",
+        "french": "Crustabri"
+      },
+      "type": [
+        "Water",
+        "Ice"
+      ],
+      "base": {
+        "HP": 50,
+        "Attack": 95,
+        "Defense": 180,
+        "Sp. Attack": 85,
+        "Sp. Defense": 45,
+        "Speed": 70
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0091_cloyster.fbx",
+          "texture_path": "3d_models/textures/0091_cloyster.png",
+          "animation_path": "3d_models/animations/0091_cloyster.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 50,
+        "Attack": 95,
+        "Defense": 180,
+        "Sp. Attack": 85,
+        "Sp. Defense": 45,
+        "Speed": 70
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 92,
+      "pokedex_number": "0092",
+      "name": {
+        "english": "Gastly",
+        "japanese": "ゴース",
+        "chinese": "鬼斯",
+        "french": "Fantominus"
+      },
+      "type": [
+        "Ghost",
+        "Poison"
+      ],
+      "base": {
+        "HP": 30,
+        "Attack": 35,
+        "Defense": 30,
+        "Sp. Attack": 100,
+        "Sp. Defense": 35,
+        "Speed": 80
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0092_gastly.fbx",
+          "texture_path": "3d_models/textures/0092_gastly.png",
+          "animation_path": "3d_models/animations/0092_gastly.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 30,
+        "Attack": 35,
+        "Defense": 30,
+        "Sp. Attack": 100,
+        "Sp. Defense": 35,
+        "Speed": 80
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 93,
+      "pokedex_number": "0093",
+      "name": {
+        "english": "Haunter",
+        "japanese": "ゴースト",
+        "chinese": "鬼斯通",
+        "french": "Spectrum"
+      },
+      "type": [
+        "Ghost",
+        "Poison"
+      ],
+      "base": {
+        "HP": 45,
+        "Attack": 50,
+        "Defense": 45,
+        "Sp. Attack": 115,
+        "Sp. Defense": 55,
+        "Speed": 95
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0093_haunter.fbx",
+          "texture_path": "3d_models/textures/0093_haunter.png",
+          "animation_path": "3d_models/animations/0093_haunter.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 45,
+        "Attack": 50,
+        "Defense": 45,
+        "Sp. Attack": 115,
+        "Sp. Defense": 55,
+        "Speed": 95
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 94,
+      "pokedex_number": "0094",
+      "name": {
+        "english": "Gengar",
+        "japanese": "ゲンガー",
+        "chinese": "耿鬼",
+        "french": "Ectoplasma"
+      },
+      "type": [
+        "Ghost",
+        "Poison"
+      ],
+      "base": {
+        "HP": 60,
+        "Attack": 65,
+        "Defense": 60,
+        "Sp. Attack": 130,
+        "Sp. Defense": 75,
+        "Speed": 110
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0094_gengar.fbx",
+          "texture_path": "3d_models/textures/0094_gengar.png",
+          "animation_path": "3d_models/animations/0094_gengar.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 60,
+        "Attack": 65,
+        "Defense": 60,
+        "Sp. Attack": 130,
+        "Sp. Defense": 75,
+        "Speed": 110
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 95,
+      "pokedex_number": "0095",
+      "name": {
+        "english": "Onix",
+        "japanese": "イワーク",
+        "chinese": "大岩蛇",
+        "french": "Onix"
+      },
+      "type": [
+        "Rock",
+        "Ground"
+      ],
+      "base": {
+        "HP": 35,
+        "Attack": 45,
+        "Defense": 160,
+        "Sp. Attack": 30,
+        "Sp. Defense": 45,
+        "Speed": 70
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0095_onix.fbx",
+          "texture_path": "3d_models/textures/0095_onix.png",
+          "animation_path": "3d_models/animations/0095_onix.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 35,
+        "Attack": 45,
+        "Defense": 160,
+        "Sp. Attack": 30,
+        "Sp. Defense": 45,
+        "Speed": 70
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 96,
+      "pokedex_number": "0096",
+      "name": {
+        "english": "Drowzee",
+        "japanese": "スリープ",
+        "chinese": "催眠貘",
+        "french": "Soporifik"
+      },
+      "type": [
+        "Psychic"
+      ],
+      "base": {
+        "HP": 60,
+        "Attack": 48,
+        "Defense": 45,
+        "Sp. Attack": 43,
+        "Sp. Defense": 90,
+        "Speed": 42
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0096_drowzee.fbx",
+          "texture_path": "3d_models/textures/0096_drowzee.png",
+          "animation_path": "3d_models/animations/0096_drowzee.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 60,
+        "Attack": 48,
+        "Defense": 45,
+        "Sp. Attack": 43,
+        "Sp. Defense": 90,
+        "Speed": 42
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 97,
+      "pokedex_number": "0097",
+      "name": {
+        "english": "Hypno",
+        "japanese": "スリーパー",
+        "chinese": "引梦貘人",
+        "french": "Hypnomade"
+      },
+      "type": [
+        "Psychic"
+      ],
+      "base": {
+        "HP": 85,
+        "Attack": 73,
+        "Defense": 70,
+        "Sp. Attack": 73,
+        "Sp. Defense": 115,
+        "Speed": 67
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0097_hypno.fbx",
+          "texture_path": "3d_models/textures/0097_hypno.png",
+          "animation_path": "3d_models/animations/0097_hypno.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 85,
+        "Attack": 73,
+        "Defense": 70,
+        "Sp. Attack": 73,
+        "Sp. Defense": 115,
+        "Speed": 67
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 98,
+      "pokedex_number": "0098",
+      "name": {
+        "english": "Krabby",
+        "japanese": "クラブ",
+        "chinese": "大钳蟹",
+        "french": "Krabby"
+      },
+      "type": [
+        "Water"
+      ],
+      "base": {
+        "HP": 30,
+        "Attack": 105,
+        "Defense": 90,
+        "Sp. Attack": 25,
+        "Sp. Defense": 25,
+        "Speed": 50
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0098_krabby.fbx",
+          "texture_path": "3d_models/textures/0098_krabby.png",
+          "animation_path": "3d_models/animations/0098_krabby.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 30,
+        "Attack": 105,
+        "Defense": 90,
+        "Sp. Attack": 25,
+        "Sp. Defense": 25,
+        "Speed": 50
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 99,
+      "pokedex_number": "0099",
+      "name": {
+        "english": "Kingler",
+        "japanese": "キングラー",
+        "chinese": "巨钳蟹",
+        "french": "Krabboss"
+      },
+      "type": [
+        "Water"
+      ],
+      "base": {
+        "HP": 55,
+        "Attack": 130,
+        "Defense": 115,
+        "Sp. Attack": 50,
+        "Sp. Defense": 50,
+        "Speed": 75
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0099_kingler.fbx",
+          "texture_path": "3d_models/textures/0099_kingler.png",
+          "animation_path": "3d_models/animations/0099_kingler.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 55,
+        "Attack": 130,
+        "Defense": 115,
+        "Sp. Attack": 50,
+        "Sp. Defense": 50,
+        "Speed": 75
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 100,
+      "pokedex_number": "0100",
+      "name": {
+        "english": "Voltorb",
+        "japanese": "ビリリダマ",
+        "chinese": "霹雳电球",
+        "french": "Voltorbe"
+      },
+      "type": [
+        "Electric"
+      ],
+      "base": {
+        "HP": 40,
+        "Attack": 30,
+        "Defense": 50,
+        "Sp. Attack": 55,
+        "Sp. Defense": 55,
+        "Speed": 100
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0100_voltorb.fbx",
+          "texture_path": "3d_models/textures/0100_voltorb.png",
+          "animation_path": "3d_models/animations/0100_voltorb.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 40,
+        "Attack": 30,
+        "Defense": 50,
+        "Sp. Attack": 55,
+        "Sp. Defense": 55,
+        "Speed": 100
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 101,
+      "pokedex_number": "0101",
+      "name": {
+        "english": "Electrode",
+        "japanese": "マルマイン",
+        "chinese": "顽皮雷弹",
+        "french": "Électrode"
+      },
+      "type": [
+        "Electric"
+      ],
+      "base": {
+        "HP": 60,
+        "Attack": 50,
+        "Defense": 70,
+        "Sp. Attack": 80,
+        "Sp. Defense": 80,
+        "Speed": 150
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0101_electrode.fbx",
+          "texture_path": "3d_models/textures/0101_electrode.png",
+          "animation_path": "3d_models/animations/0101_electrode.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 60,
+        "Attack": 50,
+        "Defense": 70,
+        "Sp. Attack": 80,
+        "Sp. Defense": 80,
+        "Speed": 150
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 102,
+      "pokedex_number": "0102",
+      "name": {
+        "english": "Exeggcute",
+        "japanese": "タマタマ",
+        "chinese": "蛋蛋",
+        "french": "Noeunoeuf"
+      },
+      "type": [
+        "Grass",
+        "Psychic"
+      ],
+      "base": {
+        "HP": 60,
+        "Attack": 40,
+        "Defense": 80,
+        "Sp. Attack": 60,
+        "Sp. Defense": 45,
+        "Speed": 40
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0102_exeggcute.fbx",
+          "texture_path": "3d_models/textures/0102_exeggcute.png",
+          "animation_path": "3d_models/animations/0102_exeggcute.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 60,
+        "Attack": 40,
+        "Defense": 80,
+        "Sp. Attack": 60,
+        "Sp. Defense": 45,
+        "Speed": 40
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 103,
+      "pokedex_number": "0103",
+      "name": {
+        "english": "Exeggutor",
+        "japanese": "ナッシー",
+        "chinese": "椰蛋树",
+        "french": "Noadkoko"
+      },
+      "type": [
+        "Grass",
+        "Psychic"
+      ],
+      "base": {
+        "HP": 95,
+        "Attack": 95,
+        "Defense": 85,
+        "Sp. Attack": 125,
+        "Sp. Defense": 75,
+        "Speed": 55
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0103_exeggutor.fbx",
+          "texture_path": "3d_models/textures/0103_exeggutor.png",
+          "animation_path": "3d_models/animations/0103_exeggutor.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 95,
+        "Attack": 95,
+        "Defense": 85,
+        "Sp. Attack": 125,
+        "Sp. Defense": 75,
+        "Speed": 55
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 104,
+      "pokedex_number": "0104",
+      "name": {
+        "english": "Cubone",
+        "japanese": "カラカラ",
+        "chinese": "卡拉卡拉",
+        "french": "Osselait"
+      },
+      "type": [
+        "Ground"
+      ],
+      "base": {
+        "HP": 50,
+        "Attack": 50,
+        "Defense": 95,
+        "Sp. Attack": 40,
+        "Sp. Defense": 50,
+        "Speed": 35
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0104_cubone.fbx",
+          "texture_path": "3d_models/textures/0104_cubone.png",
+          "animation_path": "3d_models/animations/0104_cubone.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 50,
+        "Attack": 50,
+        "Defense": 95,
+        "Sp. Attack": 40,
+        "Sp. Defense": 50,
+        "Speed": 35
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 105,
+      "pokedex_number": "0105",
+      "name": {
+        "english": "Marowak",
+        "japanese": "ガラガラ",
+        "chinese": "嘎啦嘎啦",
+        "french": "Ossatueur"
+      },
+      "type": [
+        "Ground"
+      ],
+      "base": {
+        "HP": 60,
+        "Attack": 80,
+        "Defense": 110,
+        "Sp. Attack": 50,
+        "Sp. Defense": 80,
+        "Speed": 45
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0105_marowak.fbx",
+          "texture_path": "3d_models/textures/0105_marowak.png",
+          "animation_path": "3d_models/animations/0105_marowak.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 60,
+        "Attack": 80,
+        "Defense": 110,
+        "Sp. Attack": 50,
+        "Sp. Defense": 80,
+        "Speed": 45
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 106,
+      "pokedex_number": "0106",
+      "name": {
+        "english": "Hitmonlee",
+        "japanese": "サワムラー",
+        "chinese": "飞腿郎",
+        "french": "Kicklee"
+      },
+      "type": [
+        "Fighting"
+      ],
+      "base": {
+        "HP": 50,
+        "Attack": 120,
+        "Defense": 53,
+        "Sp. Attack": 35,
+        "Sp. Defense": 110,
+        "Speed": 87
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0106_hitmonlee.fbx",
+          "texture_path": "3d_models/textures/0106_hitmonlee.png",
+          "animation_path": "3d_models/animations/0106_hitmonlee.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 50,
+        "Attack": 120,
+        "Defense": 53,
+        "Sp. Attack": 35,
+        "Sp. Defense": 110,
+        "Speed": 87
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 107,
+      "pokedex_number": "0107",
+      "name": {
+        "english": "Hitmonchan",
+        "japanese": "エビワラー",
+        "chinese": "快拳郎",
+        "french": "Tygnon"
+      },
+      "type": [
+        "Fighting"
+      ],
+      "base": {
+        "HP": 50,
+        "Attack": 105,
+        "Defense": 79,
+        "Sp. Attack": 35,
+        "Sp. Defense": 110,
+        "Speed": 76
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0107_hitmonchan.fbx",
+          "texture_path": "3d_models/textures/0107_hitmonchan.png",
+          "animation_path": "3d_models/animations/0107_hitmonchan.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 50,
+        "Attack": 105,
+        "Defense": 79,
+        "Sp. Attack": 35,
+        "Sp. Defense": 110,
+        "Speed": 76
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 108,
+      "pokedex_number": "0108",
+      "name": {
+        "english": "Lickitung",
+        "japanese": "ベロリンガ",
+        "chinese": "大舌头",
+        "french": "Excelangue"
+      },
+      "type": [
+        "Normal"
+      ],
+      "base": {
+        "HP": 90,
+        "Attack": 55,
+        "Defense": 75,
+        "Sp. Attack": 60,
+        "Sp. Defense": 75,
+        "Speed": 30
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0108_lickitung.fbx",
+          "texture_path": "3d_models/textures/0108_lickitung.png",
+          "animation_path": "3d_models/animations/0108_lickitung.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 90,
+        "Attack": 55,
+        "Defense": 75,
+        "Sp. Attack": 60,
+        "Sp. Defense": 75,
+        "Speed": 30
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 109,
+      "pokedex_number": "0109",
+      "name": {
+        "english": "Koffing",
+        "japanese": "ドガース",
+        "chinese": "瓦斯弹",
+        "french": "Smogo"
+      },
+      "type": [
+        "Poison"
+      ],
+      "base": {
+        "HP": 40,
+        "Attack": 65,
+        "Defense": 95,
+        "Sp. Attack": 60,
+        "Sp. Defense": 45,
+        "Speed": 35
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0109_koffing.fbx",
+          "texture_path": "3d_models/textures/0109_koffing.png",
+          "animation_path": "3d_models/animations/0109_koffing.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 40,
+        "Attack": 65,
+        "Defense": 95,
+        "Sp. Attack": 60,
+        "Sp. Defense": 45,
+        "Speed": 35
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 110,
+      "pokedex_number": "0110",
+      "name": {
+        "english": "Weezing",
+        "japanese": "マタドガス",
+        "chinese": "双弹瓦斯",
+        "french": "Smogogo"
+      },
+      "type": [
+        "Poison"
+      ],
+      "base": {
+        "HP": 65,
+        "Attack": 90,
+        "Defense": 120,
+        "Sp. Attack": 85,
+        "Sp. Defense": 70,
+        "Speed": 60
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0110_weezing.fbx",
+          "texture_path": "3d_models/textures/0110_weezing.png",
+          "animation_path": "3d_models/animations/0110_weezing.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 65,
+        "Attack": 90,
+        "Defense": 120,
+        "Sp. Attack": 85,
+        "Sp. Defense": 70,
+        "Speed": 60
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 111,
+      "pokedex_number": "0111",
+      "name": {
+        "english": "Rhyhorn",
+        "japanese": "サイホーン",
+        "chinese": "独角犀牛",
+        "french": "Rhinocorne"
+      },
+      "type": [
+        "Ground",
+        "Rock"
+      ],
+      "base": {
+        "HP": 80,
+        "Attack": 85,
+        "Defense": 95,
+        "Sp. Attack": 30,
+        "Sp. Defense": 30,
+        "Speed": 25
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0111_rhyhorn.fbx",
+          "texture_path": "3d_models/textures/0111_rhyhorn.png",
+          "animation_path": "3d_models/animations/0111_rhyhorn.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 80,
+        "Attack": 85,
+        "Defense": 95,
+        "Sp. Attack": 30,
+        "Sp. Defense": 30,
+        "Speed": 25
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 112,
+      "pokedex_number": "0112",
+      "name": {
+        "english": "Rhydon",
+        "japanese": "サイドン",
+        "chinese": "钻角犀兽",
+        "french": "Rhinoféros"
+      },
+      "type": [
+        "Ground",
+        "Rock"
+      ],
+      "base": {
+        "HP": 105,
+        "Attack": 130,
+        "Defense": 120,
+        "Sp. Attack": 45,
+        "Sp. Defense": 45,
+        "Speed": 40
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0112_rhydon.fbx",
+          "texture_path": "3d_models/textures/0112_rhydon.png",
+          "animation_path": "3d_models/animations/0112_rhydon.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 105,
+        "Attack": 130,
+        "Defense": 120,
+        "Sp. Attack": 45,
+        "Sp. Defense": 45,
+        "Speed": 40
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 113,
+      "pokedex_number": "0113",
+      "name": {
+        "english": "Chansey",
+        "japanese": "ラッキー",
+        "chinese": "吉利蛋",
+        "french": "Leveinard"
+      },
+      "type": [
+        "Normal"
+      ],
+      "base": {
+        "HP": 250,
+        "Attack": 5,
+        "Defense": 5,
+        "Sp. Attack": 35,
+        "Sp. Defense": 105,
+        "Speed": 50
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0113_chansey.fbx",
+          "texture_path": "3d_models/textures/0113_chansey.png",
+          "animation_path": "3d_models/animations/0113_chansey.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 250,
+        "Attack": 5,
+        "Defense": 5,
+        "Sp. Attack": 35,
+        "Sp. Defense": 105,
+        "Speed": 50
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 114,
+      "pokedex_number": "0114",
+      "name": {
+        "english": "Tangela",
+        "japanese": "モンジャラ",
+        "chinese": "蔓藤怪",
+        "french": "Saquedeneu"
+      },
+      "type": [
+        "Grass"
+      ],
+      "base": {
+        "HP": 65,
+        "Attack": 55,
+        "Defense": 115,
+        "Sp. Attack": 100,
+        "Sp. Defense": 40,
+        "Speed": 60
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0114_tangela.fbx",
+          "texture_path": "3d_models/textures/0114_tangela.png",
+          "animation_path": "3d_models/animations/0114_tangela.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 65,
+        "Attack": 55,
+        "Defense": 115,
+        "Sp. Attack": 100,
+        "Sp. Defense": 40,
+        "Speed": 60
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 115,
+      "pokedex_number": "0115",
+      "name": {
+        "english": "Kangaskhan",
+        "japanese": "ガルーラ",
+        "chinese": "袋兽",
+        "french": "Kangourex"
+      },
+      "type": [
+        "Normal"
+      ],
+      "base": {
+        "HP": 105,
+        "Attack": 95,
+        "Defense": 80,
+        "Sp. Attack": 40,
+        "Sp. Defense": 80,
+        "Speed": 90
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0115_kangaskhan.fbx",
+          "texture_path": "3d_models/textures/0115_kangaskhan.png",
+          "animation_path": "3d_models/animations/0115_kangaskhan.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 105,
+        "Attack": 95,
+        "Defense": 80,
+        "Sp. Attack": 40,
+        "Sp. Defense": 80,
+        "Speed": 90
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 116,
+      "pokedex_number": "0116",
+      "name": {
+        "english": "Horsea",
+        "japanese": "タッツー",
+        "chinese": "墨海马",
+        "french": "Hypotrempe"
+      },
+      "type": [
+        "Water"
+      ],
+      "base": {
+        "HP": 30,
+        "Attack": 40,
+        "Defense": 70,
+        "Sp. Attack": 70,
+        "Sp. Defense": 25,
+        "Speed": 60
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0116_horsea.fbx",
+          "texture_path": "3d_models/textures/0116_horsea.png",
+          "animation_path": "3d_models/animations/0116_horsea.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 30,
+        "Attack": 40,
+        "Defense": 70,
+        "Sp. Attack": 70,
+        "Sp. Defense": 25,
+        "Speed": 60
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 117,
+      "pokedex_number": "0117",
+      "name": {
+        "english": "Seadra",
+        "japanese": "シードラ",
+        "chinese": "海刺龙",
+        "french": "Hypocéan"
+      },
+      "type": [
+        "Water"
+      ],
+      "base": {
+        "HP": 55,
+        "Attack": 65,
+        "Defense": 95,
+        "Sp. Attack": 95,
+        "Sp. Defense": 45,
+        "Speed": 85
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0117_seadra.fbx",
+          "texture_path": "3d_models/textures/0117_seadra.png",
+          "animation_path": "3d_models/animations/0117_seadra.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 55,
+        "Attack": 65,
+        "Defense": 95,
+        "Sp. Attack": 95,
+        "Sp. Defense": 45,
+        "Speed": 85
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 118,
+      "pokedex_number": "0118",
+      "name": {
+        "english": "Goldeen",
+        "japanese": "トサキント",
+        "chinese": "角金鱼",
+        "french": "Poissirène"
+      },
+      "type": [
+        "Water"
+      ],
+      "base": {
+        "HP": 45,
+        "Attack": 67,
+        "Defense": 60,
+        "Sp. Attack": 35,
+        "Sp. Defense": 50,
+        "Speed": 63
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0118_goldeen.fbx",
+          "texture_path": "3d_models/textures/0118_goldeen.png",
+          "animation_path": "3d_models/animations/0118_goldeen.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 45,
+        "Attack": 67,
+        "Defense": 60,
+        "Sp. Attack": 35,
+        "Sp. Defense": 50,
+        "Speed": 63
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 119,
+      "pokedex_number": "0119",
+      "name": {
+        "english": "Seaking",
+        "japanese": "アズマオウ",
+        "chinese": "金鱼王",
+        "french": "Poissoroy"
+      },
+      "type": [
+        "Water"
+      ],
+      "base": {
+        "HP": 80,
+        "Attack": 92,
+        "Defense": 65,
+        "Sp. Attack": 65,
+        "Sp. Defense": 80,
+        "Speed": 68
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0119_seaking.fbx",
+          "texture_path": "3d_models/textures/0119_seaking.png",
+          "animation_path": "3d_models/animations/0119_seaking.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 80,
+        "Attack": 92,
+        "Defense": 65,
+        "Sp. Attack": 65,
+        "Sp. Defense": 80,
+        "Speed": 68
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 120,
+      "pokedex_number": "0120",
+      "name": {
+        "english": "Staryu",
+        "japanese": "ヒトデマン",
+        "chinese": "海星星",
+        "french": "Stari"
+      },
+      "type": [
+        "Water"
+      ],
+      "base": {
+        "HP": 30,
+        "Attack": 45,
+        "Defense": 55,
+        "Sp. Attack": 70,
+        "Sp. Defense": 55,
+        "Speed": 85
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0120_staryu.fbx",
+          "texture_path": "3d_models/textures/0120_staryu.png",
+          "animation_path": "3d_models/animations/0120_staryu.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 30,
+        "Attack": 45,
+        "Defense": 55,
+        "Sp. Attack": 70,
+        "Sp. Defense": 55,
+        "Speed": 85
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 121,
+      "pokedex_number": "0121",
+      "name": {
+        "english": "Starmie",
+        "japanese": "スターミー",
+        "chinese": "宝石海星",
+        "french": "Staross"
+      },
+      "type": [
+        "Water",
+        "Psychic"
+      ],
+      "base": {
+        "HP": 60,
+        "Attack": 75,
+        "Defense": 85,
+        "Sp. Attack": 100,
+        "Sp. Defense": 85,
+        "Speed": 115
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0121_starmie.fbx",
+          "texture_path": "3d_models/textures/0121_starmie.png",
+          "animation_path": "3d_models/animations/0121_starmie.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 60,
+        "Attack": 75,
+        "Defense": 85,
+        "Sp. Attack": 100,
+        "Sp. Defense": 85,
+        "Speed": 115
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 122,
+      "pokedex_number": "0122",
+      "name": {
+        "english": "Mr. Mime",
+        "japanese": "バリヤード",
+        "chinese": "魔墙人偶",
+        "french": "M. Mime"
+      },
+      "type": [
+        "Psychic",
+        "Fairy"
+      ],
+      "base": {
+        "HP": 40,
+        "Attack": 45,
+        "Defense": 65,
+        "Sp. Attack": 100,
+        "Sp. Defense": 120,
+        "Speed": 90
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0122_mr._mime.fbx",
+          "texture_path": "3d_models/textures/0122_mr._mime.png",
+          "animation_path": "3d_models/animations/0122_mr._mime.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 40,
+        "Attack": 45,
+        "Defense": 65,
+        "Sp. Attack": 100,
+        "Sp. Defense": 120,
+        "Speed": 90
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 123,
+      "pokedex_number": "0123",
+      "name": {
+        "english": "Scyther",
+        "japanese": "ストライク",
+        "chinese": "飞天螳螂",
+        "french": "Insécateur"
+      },
+      "type": [
+        "Bug",
+        "Flying"
+      ],
+      "base": {
+        "HP": 70,
+        "Attack": 110,
+        "Defense": 80,
+        "Sp. Attack": 55,
+        "Sp. Defense": 80,
+        "Speed": 105
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0123_scyther.fbx",
+          "texture_path": "3d_models/textures/0123_scyther.png",
+          "animation_path": "3d_models/animations/0123_scyther.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 70,
+        "Attack": 110,
+        "Defense": 80,
+        "Sp. Attack": 55,
+        "Sp. Defense": 80,
+        "Speed": 105
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 124,
+      "pokedex_number": "0124",
+      "name": {
+        "english": "Jynx",
+        "japanese": "ルージュラ",
+        "chinese": "迷唇姐",
+        "french": "Lippoutou"
+      },
+      "type": [
+        "Ice",
+        "Psychic"
+      ],
+      "base": {
+        "HP": 65,
+        "Attack": 50,
+        "Defense": 35,
+        "Sp. Attack": 115,
+        "Sp. Defense": 95,
+        "Speed": 95
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0124_jynx.fbx",
+          "texture_path": "3d_models/textures/0124_jynx.png",
+          "animation_path": "3d_models/animations/0124_jynx.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 65,
+        "Attack": 50,
+        "Defense": 35,
+        "Sp. Attack": 115,
+        "Sp. Defense": 95,
+        "Speed": 95
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 125,
+      "pokedex_number": "0125",
+      "name": {
+        "english": "Electabuzz",
+        "japanese": "エレブー",
+        "chinese": "电击兽",
+        "french": "Élektek"
+      },
+      "type": [
+        "Electric"
+      ],
+      "base": {
+        "HP": 65,
+        "Attack": 83,
+        "Defense": 57,
+        "Sp. Attack": 95,
+        "Sp. Defense": 85,
+        "Speed": 105
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0125_electabuzz.fbx",
+          "texture_path": "3d_models/textures/0125_electabuzz.png",
+          "animation_path": "3d_models/animations/0125_electabuzz.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 65,
+        "Attack": 83,
+        "Defense": 57,
+        "Sp. Attack": 95,
+        "Sp. Defense": 85,
+        "Speed": 105
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 126,
+      "pokedex_number": "0126",
+      "name": {
+        "english": "Magmar",
+        "japanese": "ブーバー",
+        "chinese": "鸭嘴火兽",
+        "french": "Magmar"
+      },
+      "type": [
+        "Fire"
+      ],
+      "base": {
+        "HP": 65,
+        "Attack": 95,
+        "Defense": 57,
+        "Sp. Attack": 100,
+        "Sp. Defense": 85,
+        "Speed": 93
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0126_magmar.fbx",
+          "texture_path": "3d_models/textures/0126_magmar.png",
+          "animation_path": "3d_models/animations/0126_magmar.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 65,
+        "Attack": 95,
+        "Defense": 57,
+        "Sp. Attack": 100,
+        "Sp. Defense": 85,
+        "Speed": 93
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 127,
+      "pokedex_number": "0127",
+      "name": {
+        "english": "Pinsir",
+        "japanese": "カイロス",
+        "chinese": "凯罗斯",
+        "french": "Scarabrute"
+      },
+      "type": [
+        "Bug"
+      ],
+      "base": {
+        "HP": 65,
+        "Attack": 125,
+        "Defense": 100,
+        "Sp. Attack": 55,
+        "Sp. Defense": 70,
+        "Speed": 85
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0127_pinsir.fbx",
+          "texture_path": "3d_models/textures/0127_pinsir.png",
+          "animation_path": "3d_models/animations/0127_pinsir.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 65,
+        "Attack": 125,
+        "Defense": 100,
+        "Sp. Attack": 55,
+        "Sp. Defense": 70,
+        "Speed": 85
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 128,
+      "pokedex_number": "0128",
+      "name": {
+        "english": "Tauros",
+        "japanese": "ケンタロス",
+        "chinese": "肯泰罗",
+        "french": "Tauros"
+      },
+      "type": [
+        "Normal"
+      ],
+      "base": {
+        "HP": 75,
+        "Attack": 100,
+        "Defense": 95,
+        "Sp. Attack": 40,
+        "Sp. Defense": 70,
+        "Speed": 110
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0128_tauros.fbx",
+          "texture_path": "3d_models/textures/0128_tauros.png",
+          "animation_path": "3d_models/animations/0128_tauros.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 75,
+        "Attack": 100,
+        "Defense": 95,
+        "Sp. Attack": 40,
+        "Sp. Defense": 70,
+        "Speed": 110
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 129,
+      "pokedex_number": "0129",
+      "name": {
+        "english": "Magikarp",
+        "japanese": "コイキング",
+        "chinese": "鲤鱼王",
+        "french": "Magicarpe"
+      },
+      "type": [
+        "Water"
+      ],
+      "base": {
+        "HP": 20,
+        "Attack": 10,
+        "Defense": 55,
+        "Sp. Attack": 15,
+        "Sp. Defense": 20,
+        "Speed": 80
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0129_magikarp.fbx",
+          "texture_path": "3d_models/textures/0129_magikarp.png",
+          "animation_path": "3d_models/animations/0129_magikarp.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 20,
+        "Attack": 10,
+        "Defense": 55,
+        "Sp. Attack": 15,
+        "Sp. Defense": 20,
+        "Speed": 80
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 130,
+      "pokedex_number": "0130",
+      "name": {
+        "english": "Gyarados",
+        "japanese": "ギャラドス",
+        "chinese": "暴鲤龙",
+        "french": "Léviator"
+      },
+      "type": [
+        "Water",
+        "Flying"
+      ],
+      "base": {
+        "HP": 95,
+        "Attack": 125,
+        "Defense": 79,
+        "Sp. Attack": 60,
+        "Sp. Defense": 100,
+        "Speed": 81
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0130_gyarados.fbx",
+          "texture_path": "3d_models/textures/0130_gyarados.png",
+          "animation_path": "3d_models/animations/0130_gyarados.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 95,
+        "Attack": 125,
+        "Defense": 79,
+        "Sp. Attack": 60,
+        "Sp. Defense": 100,
+        "Speed": 81
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 131,
+      "pokedex_number": "0131",
+      "name": {
+        "english": "Lapras",
+        "japanese": "ラプラス",
+        "chinese": "拉普拉斯",
+        "french": "Lokhlass"
+      },
+      "type": [
+        "Water",
+        "Ice"
+      ],
+      "base": {
+        "HP": 130,
+        "Attack": 85,
+        "Defense": 80,
+        "Sp. Attack": 85,
+        "Sp. Defense": 95,
+        "Speed": 60
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0131_lapras.fbx",
+          "texture_path": "3d_models/textures/0131_lapras.png",
+          "animation_path": "3d_models/animations/0131_lapras.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 130,
+        "Attack": 85,
+        "Defense": 80,
+        "Sp. Attack": 85,
+        "Sp. Defense": 95,
+        "Speed": 60
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 132,
+      "pokedex_number": "0132",
+      "name": {
+        "english": "Ditto",
+        "japanese": "メタモン",
+        "chinese": "百变怪",
+        "french": "Métamorph"
+      },
+      "type": [
+        "Normal"
+      ],
+      "base": {
+        "HP": 48,
+        "Attack": 48,
+        "Defense": 48,
+        "Sp. Attack": 48,
+        "Sp. Defense": 48,
+        "Speed": 48
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0132_ditto.fbx",
+          "texture_path": "3d_models/textures/0132_ditto.png",
+          "animation_path": "3d_models/animations/0132_ditto.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 48,
+        "Attack": 48,
+        "Defense": 48,
+        "Sp. Attack": 48,
+        "Sp. Defense": 48,
+        "Speed": 48
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 133,
+      "pokedex_number": "0133",
+      "name": {
+        "english": "Eevee",
+        "japanese": "イーブイ",
+        "chinese": "伊布",
+        "french": "Évoli"
+      },
+      "type": [
+        "Normal"
+      ],
+      "base": {
+        "HP": 55,
+        "Attack": 55,
+        "Defense": 50,
+        "Sp. Attack": 45,
+        "Sp. Defense": 65,
+        "Speed": 55
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0133_eevee.fbx",
+          "texture_path": "3d_models/textures/0133_eevee.png",
+          "animation_path": "3d_models/animations/0133_eevee.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 55,
+        "Attack": 55,
+        "Defense": 50,
+        "Sp. Attack": 45,
+        "Sp. Defense": 65,
+        "Speed": 55
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 134,
+      "pokedex_number": "0134",
+      "name": {
+        "english": "Vaporeon",
+        "japanese": "シャワーズ",
+        "chinese": "水伊布",
+        "french": "Aquali"
+      },
+      "type": [
+        "Water"
+      ],
+      "base": {
+        "HP": 130,
+        "Attack": 65,
+        "Defense": 60,
+        "Sp. Attack": 110,
+        "Sp. Defense": 95,
+        "Speed": 65
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0134_vaporeon.fbx",
+          "texture_path": "3d_models/textures/0134_vaporeon.png",
+          "animation_path": "3d_models/animations/0134_vaporeon.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 130,
+        "Attack": 65,
+        "Defense": 60,
+        "Sp. Attack": 110,
+        "Sp. Defense": 95,
+        "Speed": 65
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 135,
+      "pokedex_number": "0135",
+      "name": {
+        "english": "Jolteon",
+        "japanese": "サンダース",
+        "chinese": "雷伊布",
+        "french": "Voltali"
+      },
+      "type": [
+        "Electric"
+      ],
+      "base": {
+        "HP": 65,
+        "Attack": 65,
+        "Defense": 60,
+        "Sp. Attack": 110,
+        "Sp. Defense": 95,
+        "Speed": 130
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0135_jolteon.fbx",
+          "texture_path": "3d_models/textures/0135_jolteon.png",
+          "animation_path": "3d_models/animations/0135_jolteon.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 65,
+        "Attack": 65,
+        "Defense": 60,
+        "Sp. Attack": 110,
+        "Sp. Defense": 95,
+        "Speed": 130
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 136,
+      "pokedex_number": "0136",
+      "name": {
+        "english": "Flareon",
+        "japanese": "ブースター",
+        "chinese": "火伊布",
+        "french": "Pyroli"
+      },
+      "type": [
+        "Fire"
+      ],
+      "base": {
+        "HP": 65,
+        "Attack": 130,
+        "Defense": 60,
+        "Sp. Attack": 95,
+        "Sp. Defense": 110,
+        "Speed": 65
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0136_flareon.fbx",
+          "texture_path": "3d_models/textures/0136_flareon.png",
+          "animation_path": "3d_models/animations/0136_flareon.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 65,
+        "Attack": 130,
+        "Defense": 60,
+        "Sp. Attack": 95,
+        "Sp. Defense": 110,
+        "Speed": 65
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 137,
+      "pokedex_number": "0137",
+      "name": {
+        "english": "Porygon",
+        "japanese": "ポリゴン",
+        "chinese": "多边兽",
+        "french": "Porygon"
+      },
+      "type": [
+        "Normal"
+      ],
+      "base": {
+        "HP": 65,
+        "Attack": 60,
+        "Defense": 70,
+        "Sp. Attack": 85,
+        "Sp. Defense": 75,
+        "Speed": 40
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0137_porygon.fbx",
+          "texture_path": "3d_models/textures/0137_porygon.png",
+          "animation_path": "3d_models/animations/0137_porygon.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 65,
+        "Attack": 60,
+        "Defense": 70,
+        "Sp. Attack": 85,
+        "Sp. Defense": 75,
+        "Speed": 40
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 138,
+      "pokedex_number": "0138",
+      "name": {
+        "english": "Omanyte",
+        "japanese": "オムナイト",
+        "chinese": "菊石兽",
+        "french": "Amonita"
+      },
+      "type": [
+        "Rock",
+        "Water"
+      ],
+      "base": {
+        "HP": 35,
+        "Attack": 40,
+        "Defense": 100,
+        "Sp. Attack": 90,
+        "Sp. Defense": 55,
+        "Speed": 35
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0138_omanyte.fbx",
+          "texture_path": "3d_models/textures/0138_omanyte.png",
+          "animation_path": "3d_models/animations/0138_omanyte.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 35,
+        "Attack": 40,
+        "Defense": 100,
+        "Sp. Attack": 90,
+        "Sp. Defense": 55,
+        "Speed": 35
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 139,
+      "pokedex_number": "0139",
+      "name": {
+        "english": "Omastar",
+        "japanese": "オムスター",
+        "chinese": "多刺菊石兽",
+        "french": "Amonistar"
+      },
+      "type": [
+        "Rock",
+        "Water"
+      ],
+      "base": {
+        "HP": 70,
+        "Attack": 60,
+        "Defense": 125,
+        "Sp. Attack": 115,
+        "Sp. Defense": 70,
+        "Speed": 55
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0139_omastar.fbx",
+          "texture_path": "3d_models/textures/0139_omastar.png",
+          "animation_path": "3d_models/animations/0139_omastar.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 70,
+        "Attack": 60,
+        "Defense": 125,
+        "Sp. Attack": 115,
+        "Sp. Defense": 70,
+        "Speed": 55
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 140,
+      "pokedex_number": "0140",
+      "name": {
+        "english": "Kabuto",
+        "japanese": "カブト",
+        "chinese": "化石盔",
+        "french": "Kabuto"
+      },
+      "type": [
+        "Rock",
+        "Water"
+      ],
+      "base": {
+        "HP": 30,
+        "Attack": 80,
+        "Defense": 90,
+        "Sp. Attack": 55,
+        "Sp. Defense": 45,
+        "Speed": 55
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0140_kabuto.fbx",
+          "texture_path": "3d_models/textures/0140_kabuto.png",
+          "animation_path": "3d_models/animations/0140_kabuto.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 30,
+        "Attack": 80,
+        "Defense": 90,
+        "Sp. Attack": 55,
+        "Sp. Defense": 45,
+        "Speed": 55
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 141,
+      "pokedex_number": "0141",
+      "name": {
+        "english": "Kabutops",
+        "japanese": "カブトプス",
+        "chinese": "镰刀盔",
+        "french": "Kabutops"
+      },
+      "type": [
+        "Rock",
+        "Water"
+      ],
+      "base": {
+        "HP": 60,
+        "Attack": 115,
+        "Defense": 105,
+        "Sp. Attack": 65,
+        "Sp. Defense": 70,
+        "Speed": 80
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0141_kabutops.fbx",
+          "texture_path": "3d_models/textures/0141_kabutops.png",
+          "animation_path": "3d_models/animations/0141_kabutops.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 60,
+        "Attack": 115,
+        "Defense": 105,
+        "Sp. Attack": 65,
+        "Sp. Defense": 70,
+        "Speed": 80
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 142,
+      "pokedex_number": "0142",
+      "name": {
+        "english": "Aerodactyl",
+        "japanese": "プテラ",
+        "chinese": "化石翼龙",
+        "french": "Ptéra"
+      },
+      "type": [
+        "Rock",
+        "Flying"
+      ],
+      "base": {
+        "HP": 80,
+        "Attack": 105,
+        "Defense": 65,
+        "Sp. Attack": 60,
+        "Sp. Defense": 75,
+        "Speed": 130
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0142_aerodactyl.fbx",
+          "texture_path": "3d_models/textures/0142_aerodactyl.png",
+          "animation_path": "3d_models/animations/0142_aerodactyl.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 80,
+        "Attack": 105,
+        "Defense": 65,
+        "Sp. Attack": 60,
+        "Sp. Defense": 75,
+        "Speed": 130
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 143,
+      "pokedex_number": "0143",
+      "name": {
+        "english": "Snorlax",
+        "japanese": "カビゴン",
+        "chinese": "卡比兽",
+        "french": "Ronflex"
+      },
+      "type": [
+        "Normal"
+      ],
+      "base": {
+        "HP": 160,
+        "Attack": 110,
+        "Defense": 65,
+        "Sp. Attack": 65,
+        "Sp. Defense": 110,
+        "Speed": 30
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0143_snorlax.fbx",
+          "texture_path": "3d_models/textures/0143_snorlax.png",
+          "animation_path": "3d_models/animations/0143_snorlax.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 160,
+        "Attack": 110,
+        "Defense": 65,
+        "Sp. Attack": 65,
+        "Sp. Defense": 110,
+        "Speed": 30
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 144,
+      "pokedex_number": "0144",
+      "name": {
+        "english": "Articuno",
+        "japanese": "フリーザー",
+        "chinese": "急冻鸟",
+        "french": "Artikodin"
+      },
+      "type": [
+        "Ice",
+        "Flying"
+      ],
+      "base": {
+        "HP": 90,
+        "Attack": 85,
+        "Defense": 100,
+        "Sp. Attack": 95,
+        "Sp. Defense": 125,
+        "Speed": 85
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0144_articuno.fbx",
+          "texture_path": "3d_models/textures/0144_articuno.png",
+          "animation_path": "3d_models/animations/0144_articuno.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 90,
+        "Attack": 85,
+        "Defense": 100,
+        "Sp. Attack": 95,
+        "Sp. Defense": 125,
+        "Speed": 85
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 145,
+      "pokedex_number": "0145",
+      "name": {
+        "english": "Zapdos",
+        "japanese": "サンダー",
+        "chinese": "闪电鸟",
+        "french": "Électhor"
+      },
+      "type": [
+        "Electric",
+        "Flying"
+      ],
+      "base": {
+        "HP": 90,
+        "Attack": 90,
+        "Defense": 85,
+        "Sp. Attack": 125,
+        "Sp. Defense": 90,
+        "Speed": 100
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0145_zapdos.fbx",
+          "texture_path": "3d_models/textures/0145_zapdos.png",
+          "animation_path": "3d_models/animations/0145_zapdos.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 90,
+        "Attack": 90,
+        "Defense": 85,
+        "Sp. Attack": 125,
+        "Sp. Defense": 90,
+        "Speed": 100
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 146,
+      "pokedex_number": "0146",
+      "name": {
+        "english": "Moltres",
+        "japanese": "ファイヤー",
+        "chinese": "火焰鸟",
+        "french": "Sulfura"
+      },
+      "type": [
+        "Fire",
+        "Flying"
+      ],
+      "base": {
+        "HP": 90,
+        "Attack": 100,
+        "Defense": 90,
+        "Sp. Attack": 125,
+        "Sp. Defense": 85,
+        "Speed": 90
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0146_moltres.fbx",
+          "texture_path": "3d_models/textures/0146_moltres.png",
+          "animation_path": "3d_models/animations/0146_moltres.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 90,
+        "Attack": 100,
+        "Defense": 90,
+        "Sp. Attack": 125,
+        "Sp. Defense": 85,
+        "Speed": 90
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 147,
+      "pokedex_number": "0147",
+      "name": {
+        "english": "Dratini",
+        "japanese": "ミニリュウ",
+        "chinese": "迷你龙",
+        "french": "Minidraco"
+      },
+      "type": [
+        "Dragon"
+      ],
+      "base": {
+        "HP": 41,
+        "Attack": 64,
+        "Defense": 45,
+        "Sp. Attack": 50,
+        "Sp. Defense": 50,
+        "Speed": 50
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0147_dratini.fbx",
+          "texture_path": "3d_models/textures/0147_dratini.png",
+          "animation_path": "3d_models/animations/0147_dratini.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 41,
+        "Attack": 64,
+        "Defense": 45,
+        "Sp. Attack": 50,
+        "Sp. Defense": 50,
+        "Speed": 50
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 148,
+      "pokedex_number": "0148",
+      "name": {
+        "english": "Dragonair",
+        "japanese": "ハクリュー",
+        "chinese": "哈克龙",
+        "french": "Draco"
+      },
+      "type": [
+        "Dragon"
+      ],
+      "base": {
+        "HP": 61,
+        "Attack": 84,
+        "Defense": 65,
+        "Sp. Attack": 70,
+        "Sp. Defense": 70,
+        "Speed": 70
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0148_dragonair.fbx",
+          "texture_path": "3d_models/textures/0148_dragonair.png",
+          "animation_path": "3d_models/animations/0148_dragonair.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 61,
+        "Attack": 84,
+        "Defense": 65,
+        "Sp. Attack": 70,
+        "Sp. Defense": 70,
+        "Speed": 70
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 149,
+      "pokedex_number": "0149",
+      "name": {
+        "english": "Dragonite",
+        "japanese": "カイリュー",
+        "chinese": "快龙",
+        "french": "Dracolosse"
+      },
+      "type": [
+        "Dragon",
+        "Flying"
+      ],
+      "base": {
+        "HP": 91,
+        "Attack": 134,
+        "Defense": 95,
+        "Sp. Attack": 100,
+        "Sp. Defense": 100,
+        "Speed": 80
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0149_dragonite.fbx",
+          "texture_path": "3d_models/textures/0149_dragonite.png",
+          "animation_path": "3d_models/animations/0149_dragonite.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 91,
+        "Attack": 134,
+        "Defense": 95,
+        "Sp. Attack": 100,
+        "Sp. Defense": 100,
+        "Speed": 80
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 150,
+      "pokedex_number": "0150",
+      "name": {
+        "english": "Mewtwo",
+        "japanese": "ミュウツー",
+        "chinese": "超梦",
+        "french": "Mewtwo"
+      },
+      "type": [
+        "Psychic"
+      ],
+      "base": {
+        "HP": 106,
+        "Attack": 110,
+        "Defense": 90,
+        "Sp. Attack": 154,
+        "Sp. Defense": 90,
+        "Speed": 130
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0150_mewtwo.fbx",
+          "texture_path": "3d_models/textures/0150_mewtwo.png",
+          "animation_path": "3d_models/animations/0150_mewtwo.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 106,
+        "Attack": 110,
+        "Defense": 90,
+        "Sp. Attack": 154,
+        "Sp. Defense": 90,
+        "Speed": 130
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    },
+    {
+      "id": 151,
+      "pokedex_number": "0151",
+      "name": {
+        "english": "Mew",
+        "japanese": "ミュウ",
+        "chinese": "梦幻",
+        "french": "Mew"
+      },
+      "type": [
+        "Psychic"
+      ],
+      "base": {
+        "HP": 100,
+        "Attack": 100,
+        "Defense": 100,
+        "Sp. Attack": 100,
+        "Sp. Defense": 100,
+        "Speed": 100
+      },
+      "forms": {
+        "normal": {
+          "model_path": "3d_models/models/0151_mew.fbx",
+          "texture_path": "3d_models/textures/0151_mew.png",
+          "animation_path": "3d_models/animations/0151_mew.anim"
+        },
+        "mega": {},
+        "regional": {},
+        "other": {}
+      },
+      "stats": {
+        "HP": 100,
+        "Attack": 100,
+        "Defense": 100,
+        "Sp. Attack": 100,
+        "Sp. Defense": 100,
+        "Speed": 100
+      },
+      "meta": {
+        "height": null,
+        "weight": null,
+        "description": null
+      }
+    }
+  ]
+}

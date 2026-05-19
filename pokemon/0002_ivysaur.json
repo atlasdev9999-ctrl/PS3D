@@ -1,0 +1,45 @@
+{
+  "id": 2,
+  "pokedex_number": "0002",
+  "name": {
+    "english": "Ivysaur",
+    "japanese": "フシギソウ",
+    "chinese": "妙蛙草",
+    "french": "Herbizarre"
+  },
+  "type": [
+    "Grass",
+    "Poison"
+  ],
+  "base": {
+    "HP": 60,
+    "Attack": 62,
+    "Defense": 63,
+    "Sp. Attack": 80,
+    "Sp. Defense": 80,
+    "Speed": 60
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0002_ivysaur.fbx",
+      "texture_path": "3d_models/textures/0002_ivysaur.png",
+      "animation_path": "3d_models/animations/0002_ivysaur.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 60,
+    "Attack": 62,
+    "Defense": 63,
+    "Sp. Attack": 80,
+    "Sp. Defense": 80,
+    "Speed": 60
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 20,
+  "pokedex_number": "0020",
+  "name": {
+    "english": "Raticate",
+    "japanese": "ラッタ",
+    "chinese": "拉达",
+    "french": "Rattatac"
+  },
+  "type": [
+    "Normal"
+  ],
+  "base": {
+    "HP": 55,
+    "Attack": 81,
+    "Defense": 60,
+    "Sp. Attack": 50,
+    "Sp. Defense": 70,
+    "Speed": 97
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0020_raticate.fbx",
+      "texture_path": "3d_models/textures/0020_raticate.png",
+      "animation_path": "3d_models/animations/0020_raticate.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 55,
+    "Attack": 81,
+    "Defense": 60,
+    "Sp. Attack": 50,
+    "Sp. Defense": 70,
+    "Speed": 97
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null
+  }
+}

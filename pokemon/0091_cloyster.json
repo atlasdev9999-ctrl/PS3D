@@ -1,0 +1,45 @@
+{
+  "id": 91,
+  "pokedex_number": "0091",
+  "name": {
+    "english": "Cloyster",
+    "japanese": "パルシェン",
+    "chinese": "刺甲贝",
+    "french": "Crustabri"
+  },
+  "type": [
+    "Water",
+    "Ice"
+  ],
+  "base": {
+    "HP": 50,
+    "Attack": 95,
+    "Defense": 180,
+    "Sp. Attack": 85,
+    "Sp. Defense": 45,
+    "Speed": 70
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0091_cloyster.fbx",
+      "texture_path": "3d_models/textures/0091_cloyster.png",
+      "animation_path": "3d_models/animations/0091_cloyster.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 50,
+    "Attack": 95,
+    "Defense": 180,
+    "Sp. Attack": 85,
+    "Sp. Defense": 45,
+    "Speed": 70
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null
+  }
+}

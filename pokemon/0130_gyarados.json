@@ -1,0 +1,45 @@
+{
+  "id": 130,
+  "pokedex_number": "0130",
+  "name": {
+    "english": "Gyarados",
+    "japanese": "ギャラドス",
+    "chinese": "暴鲤龙",
+    "french": "Léviator"
+  },
+  "type": [
+    "Water",
+    "Flying"
+  ],
+  "base": {
+    "HP": 95,
+    "Attack": 125,
+    "Defense": 79,
+    "Sp. Attack": 60,
+    "Sp. Defense": 100,
+    "Speed": 81
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0130_gyarados.fbx",
+      "texture_path": "3d_models/textures/0130_gyarados.png",
+      "animation_path": "3d_models/animations/0130_gyarados.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 95,
+    "Attack": 125,
+    "Defense": 79,
+    "Sp. Attack": 60,
+    "Sp. Defense": 100,
+    "Speed": 81
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null
+  }
+}

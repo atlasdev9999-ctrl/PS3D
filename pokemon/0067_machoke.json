@@ -1,0 +1,44 @@
+{
+  "id": 67,
+  "pokedex_number": "0067",
+  "name": {
+    "english": "Machoke",
+    "japanese": "ゴーリキー",
+    "chinese": "豪力",
+    "french": "Machopeur"
+  },
+  "type": [
+    "Fighting"
+  ],
+  "base": {
+    "HP": 80,
+    "Attack": 100,
+    "Defense": 70,
+    "Sp. Attack": 50,
+    "Sp. Defense": 60,
+    "Speed": 45
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0067_machoke.fbx",
+      "texture_path": "3d_models/textures/0067_machoke.png",
+      "animation_path": "3d_models/animations/0067_machoke.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 80,
+    "Attack": 100,
+    "Defense": 70,
+    "Sp. Attack": 50,
+    "Sp. Defense": 60,
+    "Speed": 45
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null
+  }
+}

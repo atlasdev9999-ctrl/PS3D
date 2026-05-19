@@ -1,0 +1,44 @@
+{
+  "id": 61,
+  "pokedex_number": "0061",
+  "name": {
+    "english": "Poliwhirl",
+    "japanese": "ニョロゾ",
+    "chinese": "蚊香君",
+    "french": "Têtarte"
+  },
+  "type": [
+    "Water"
+  ],
+  "base": {
+    "HP": 65,
+    "Attack": 65,
+    "Defense": 65,
+    "Sp. Attack": 50,
+    "Sp. Defense": 50,
+    "Speed": 90
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0061_poliwhirl.fbx",
+      "texture_path": "3d_models/textures/0061_poliwhirl.png",
+      "animation_path": "3d_models/animations/0061_poliwhirl.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 65,
+    "Attack": 65,
+    "Defense": 65,
+    "Sp. Attack": 50,
+    "Sp. Defense": 50,
+    "Speed": 90
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null
+  }
+}

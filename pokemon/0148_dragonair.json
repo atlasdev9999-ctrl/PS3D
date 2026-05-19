@@ -1,0 +1,44 @@
+{
+  "id": 148,
+  "pokedex_number": "0148",
+  "name": {
+    "english": "Dragonair",
+    "japanese": "ハクリュー",
+    "chinese": "哈克龙",
+    "french": "Draco"
+  },
+  "type": [
+    "Dragon"
+  ],
+  "base": {
+    "HP": 61,
+    "Attack": 84,
+    "Defense": 65,
+    "Sp. Attack": 70,
+    "Sp. Defense": 70,
+    "Speed": 70
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0148_dragonair.fbx",
+      "texture_path": "3d_models/textures/0148_dragonair.png",
+      "animation_path": "3d_models/animations/0148_dragonair.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 61,
+    "Attack": 84,
+    "Defense": 65,
+    "Sp. Attack": 70,
+    "Sp. Defense": 70,
+    "Speed": 70
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null
+  }
+}

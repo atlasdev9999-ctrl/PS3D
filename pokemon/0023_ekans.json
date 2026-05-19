@@ -1,0 +1,44 @@
+{
+  "id": 23,
+  "pokedex_number": "0023",
+  "name": {
+    "english": "Ekans",
+    "japanese": "アーボ",
+    "chinese": "阿柏蛇",
+    "french": "Abo"
+  },
+  "type": [
+    "Poison"
+  ],
+  "base": {
+    "HP": 35,
+    "Attack": 60,
+    "Defense": 44,
+    "Sp. Attack": 40,
+    "Sp. Defense": 54,
+    "Speed": 55
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0023_ekans.fbx",
+      "texture_path": "3d_models/textures/0023_ekans.png",
+      "animation_path": "3d_models/animations/0023_ekans.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 35,
+    "Attack": 60,
+    "Defense": 44,
+    "Sp. Attack": 40,
+    "Sp. Defense": 54,
+    "Speed": 55
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null
+  }
+}

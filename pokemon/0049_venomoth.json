@@ -1,0 +1,45 @@
+{
+  "id": 49,
+  "pokedex_number": "0049",
+  "name": {
+    "english": "Venomoth",
+    "japanese": "モルフォン",
+    "chinese": "摩鲁蛾",
+    "french": "Aéromite"
+  },
+  "type": [
+    "Bug",
+    "Poison"
+  ],
+  "base": {
+    "HP": 70,
+    "Attack": 65,
+    "Defense": 60,
+    "Sp. Attack": 90,
+    "Sp. Defense": 75,
+    "Speed": 90
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0049_venomoth.fbx",
+      "texture_path": "3d_models/textures/0049_venomoth.png",
+      "animation_path": "3d_models/animations/0049_venomoth.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 70,
+    "Attack": 65,
+    "Defense": 60,
+    "Sp. Attack": 90,
+    "Sp. Defense": 75,
+    "Speed": 90
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null
+  }
+}

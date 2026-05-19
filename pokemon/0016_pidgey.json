@@ -1,0 +1,45 @@
+{
+  "id": 16,
+  "pokedex_number": "0016",
+  "name": {
+    "english": "Pidgey",
+    "japanese": "ポッポ",
+    "chinese": "波波",
+    "french": "Roucool"
+  },
+  "type": [
+    "Normal",
+    "Flying"
+  ],
+  "base": {
+    "HP": 40,
+    "Attack": 45,
+    "Defense": 40,
+    "Sp. Attack": 35,
+    "Sp. Defense": 35,
+    "Speed": 56
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0016_pidgey.fbx",
+      "texture_path": "3d_models/textures/0016_pidgey.png",
+      "animation_path": "3d_models/animations/0016_pidgey.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 40,
+    "Attack": 45,
+    "Defense": 40,
+    "Sp. Attack": 35,
+    "Sp. Defense": 35,
+    "Speed": 56
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null
+  }
+}

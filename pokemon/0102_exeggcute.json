@@ -1,0 +1,45 @@
+{
+  "id": 102,
+  "pokedex_number": "0102",
+  "name": {
+    "english": "Exeggcute",
+    "japanese": "タマタマ",
+    "chinese": "蛋蛋",
+    "french": "Noeunoeuf"
+  },
+  "type": [
+    "Grass",
+    "Psychic"
+  ],
+  "base": {
+    "HP": 60,
+    "Attack": 40,
+    "Defense": 80,
+    "Sp. Attack": 60,
+    "Sp. Defense": 45,
+    "Speed": 40
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0102_exeggcute.fbx",
+      "texture_path": "3d_models/textures/0102_exeggcute.png",
+      "animation_path": "3d_models/animations/0102_exeggcute.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 60,
+    "Attack": 40,
+    "Defense": 80,
+    "Sp. Attack": 60,
+    "Sp. Defense": 45,
+    "Speed": 40
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 53,
+  "pokedex_number": "0053",
+  "name": {
+    "english": "Persian",
+    "japanese": "ペルシアン",
+    "chinese": "猫老大",
+    "french": "Persian"
+  },
+  "type": [
+    "Normal"
+  ],
+  "base": {
+    "HP": 65,
+    "Attack": 70,
+    "Defense": 60,
+    "Sp. Attack": 65,
+    "Sp. Defense": 65,
+    "Speed": 115
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0053_persian.fbx",
+      "texture_path": "3d_models/textures/0053_persian.png",
+      "animation_path": "3d_models/animations/0053_persian.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 65,
+    "Attack": 70,
+    "Defense": 60,
+    "Sp. Attack": 65,
+    "Sp. Defense": 65,
+    "Speed": 115
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null
+  }
+}

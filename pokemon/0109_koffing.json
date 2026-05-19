@@ -1,0 +1,44 @@
+{
+  "id": 109,
+  "pokedex_number": "0109",
+  "name": {
+    "english": "Koffing",
+    "japanese": "ドガース",
+    "chinese": "瓦斯弹",
+    "french": "Smogo"
+  },
+  "type": [
+    "Poison"
+  ],
+  "base": {
+    "HP": 40,
+    "Attack": 65,
+    "Defense": 95,
+    "Sp. Attack": 60,
+    "Sp. Defense": 45,
+    "Speed": 35
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0109_koffing.fbx",
+      "texture_path": "3d_models/textures/0109_koffing.png",
+      "animation_path": "3d_models/animations/0109_koffing.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 40,
+    "Attack": 65,
+    "Defense": 95,
+    "Sp. Attack": 60,
+    "Sp. Defense": 45,
+    "Speed": 35
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 25,
+  "pokedex_number": "0025",
+  "name": {
+    "english": "Pikachu",
+    "japanese": "ピカチュウ",
+    "chinese": "皮卡丘",
+    "french": "Pikachu"
+  },
+  "type": [
+    "Electric"
+  ],
+  "base": {
+    "HP": 35,
+    "Attack": 55,
+    "Defense": 40,
+    "Sp. Attack": 50,
+    "Sp. Defense": 50,
+    "Speed": 90
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0025_pikachu.fbx",
+      "texture_path": "3d_models/textures/0025_pikachu.png",
+      "animation_path": "3d_models/animations/0025_pikachu.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 35,
+    "Attack": 55,
+    "Defense": 40,
+    "Sp. Attack": 50,
+    "Sp. Defense": 50,
+    "Speed": 90
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null
+  }
+}

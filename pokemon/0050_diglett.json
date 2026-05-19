@@ -1,0 +1,44 @@
+{
+  "id": 50,
+  "pokedex_number": "0050",
+  "name": {
+    "english": "Diglett",
+    "japanese": "ディグダ",
+    "chinese": "地鼠",
+    "french": "Taupiqueur"
+  },
+  "type": [
+    "Ground"
+  ],
+  "base": {
+    "HP": 10,
+    "Attack": 55,
+    "Defense": 25,
+    "Sp. Attack": 35,
+    "Sp. Defense": 45,
+    "Speed": 95
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0050_diglett.fbx",
+      "texture_path": "3d_models/textures/0050_diglett.png",
+      "animation_path": "3d_models/animations/0050_diglett.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 10,
+    "Attack": 55,
+    "Defense": 25,
+    "Sp. Attack": 35,
+    "Sp. Defense": 45,
+    "Speed": 95
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 38,
+  "pokedex_number": "0038",
+  "name": {
+    "english": "Ninetales",
+    "japanese": "キュウコン",
+    "chinese": "九尾",
+    "french": "Feunard"
+  },
+  "type": [
+    "Fire"
+  ],
+  "base": {
+    "HP": 73,
+    "Attack": 76,
+    "Defense": 75,
+    "Sp. Attack": 81,
+    "Sp. Defense": 100,
+    "Speed": 100
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0038_ninetales.fbx",
+      "texture_path": "3d_models/textures/0038_ninetales.png",
+      "animation_path": "3d_models/animations/0038_ninetales.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 73,
+    "Attack": 76,
+    "Defense": 75,
+    "Sp. Attack": 81,
+    "Sp. Defense": 100,
+    "Speed": 100
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null
+  }
+}

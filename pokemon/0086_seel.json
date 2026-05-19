@@ -1,0 +1,44 @@
+{
+  "id": 86,
+  "pokedex_number": "0086",
+  "name": {
+    "english": "Seel",
+    "japanese": "パウワウ",
+    "chinese": "小海狮",
+    "french": "Otaria"
+  },
+  "type": [
+    "Water"
+  ],
+  "base": {
+    "HP": 65,
+    "Attack": 45,
+    "Defense": 55,
+    "Sp. Attack": 45,
+    "Sp. Defense": 70,
+    "Speed": 45
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0086_seel.fbx",
+      "texture_path": "3d_models/textures/0086_seel.png",
+      "animation_path": "3d_models/animations/0086_seel.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 65,
+    "Attack": 45,
+    "Defense": 55,
+    "Sp. Attack": 45,
+    "Sp. Defense": 70,
+    "Speed": 45
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null
+  }
+}

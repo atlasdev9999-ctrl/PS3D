@@ -1,0 +1,45 @@
+{
+  "id": 73,
+  "pokedex_number": "0073",
+  "name": {
+    "english": "Tentacruel",
+    "japanese": "ドククラゲ",
+    "chinese": "毒刺水母",
+    "french": "Tentacruel"
+  },
+  "type": [
+    "Water",
+    "Poison"
+  ],
+  "base": {
+    "HP": 80,
+    "Attack": 70,
+    "Defense": 65,
+    "Sp. Attack": 80,
+    "Sp. Defense": 120,
+    "Speed": 100
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0073_tentacruel.fbx",
+      "texture_path": "3d_models/textures/0073_tentacruel.png",
+      "animation_path": "3d_models/animations/0073_tentacruel.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 80,
+    "Attack": 70,
+    "Defense": 65,
+    "Sp. Attack": 80,
+    "Sp. Defense": 120,
+    "Speed": 100
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null
+  }
+}

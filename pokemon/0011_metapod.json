@@ -1,0 +1,44 @@
+{
+  "id": 11,
+  "pokedex_number": "0011",
+  "name": {
+    "english": "Metapod",
+    "japanese": "トランセル",
+    "chinese": "铁甲蛹",
+    "french": "Chrysacier"
+  },
+  "type": [
+    "Bug"
+  ],
+  "base": {
+    "HP": 50,
+    "Attack": 20,
+    "Defense": 55,
+    "Sp. Attack": 25,
+    "Sp. Defense": 25,
+    "Speed": 30
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0011_metapod.fbx",
+      "texture_path": "3d_models/textures/0011_metapod.png",
+      "animation_path": "3d_models/animations/0011_metapod.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 50,
+    "Attack": 20,
+    "Defense": 55,
+    "Sp. Attack": 25,
+    "Sp. Defense": 25,
+    "Speed": 30
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null
+  }
+}

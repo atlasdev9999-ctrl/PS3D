@@ -1,0 +1,44 @@
+{
+  "id": 27,
+  "pokedex_number": "0027",
+  "name": {
+    "english": "Sandshrew",
+    "japanese": "サンド",
+    "chinese": "穿山鼠",
+    "french": "Sabelette"
+  },
+  "type": [
+    "Ground"
+  ],
+  "base": {
+    "HP": 50,
+    "Attack": 75,
+    "Defense": 85,
+    "Sp. Attack": 20,
+    "Sp. Defense": 30,
+    "Speed": 40
+  },
+  "forms": {
+    "normal": {
+      "model_path": "3d_models/models/0027_sandshrew.fbx",
+      "texture_path": "3d_models/textures/0027_sandshrew.png",
+      "animation_path": "3d_models/animations/0027_sandshrew.anim"
+    },
+    "mega": {},
+    "regional": {},
+    "other": {}
+  },
+  "stats": {
+    "HP": 50,
+    "Attack": 75,
+    "Defense": 85,
+    "Sp. Attack": 20,
+    "Sp. Defense": 30,
+    "Speed": 40
+  },
+  "meta": {
+    "height": null,
+    "weight": null,
+    "description": null
+  }
+}
